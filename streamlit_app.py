@@ -150,6 +150,16 @@ def aggregate_by_store(matched_items: List[Dict[str, Any]]) -> Dict[str, Dict[st
     return result
 
 
+def safe_rerun():
+    """Use st.rerun if available, else silently ignore."""
+    if hasattr(st, "rerun"):
+        st.rerun()
+    # older versions had st.experimental_rerun
+    elif hasattr(st, "experimental_rerun"):
+        st.experimental_rerun()
+    # else: do nothing
+
+
 # ---------------------------------------------------------
 # UI
 # ---------------------------------------------------------
@@ -273,5 +283,5 @@ else:
                             "score": score,
                         }
                     )
-                # re-run to refresh tables
-                st.experimental_rerun()
+                # refresh UI
+                safe_rerun()
