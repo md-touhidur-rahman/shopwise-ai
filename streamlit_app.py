@@ -4,12 +4,14 @@ from pathlib import Path
 from typing import List, Dict, Any, Tuple
 import difflib
 import streamlit as st
+from io import StringIO
+import csv
 
 
 # ---------------------------------------------------------
 # CONFIG
 # ---------------------------------------------------------
-DATA_PATH = Path("data/common_products.json")  # adjust if needed
+DATA_PATH = Path("data/common_products.json")  # put your JSON here
 
 st.set_page_config(
     page_title="Grocery Price Comparator",
@@ -151,13 +153,25 @@ def aggregate_by_store(matched_items: List[Dict[str, Any]]) -> Dict[str, Dict[st
 
 
 def safe_rerun():
-    """Use st.rerun if available, else silently ignore."""
+    """Use st.rerun if available, else try experimental, else do nothing."""
     if hasattr(st, "rerun"):
         st.rerun()
-    # older versions had st.experimental_rerun
     elif hasattr(st, "experimental_rerun"):
         st.experimental_rerun()
-    # else: do nothing
+
+
+def build_csv(store_data: Dict[str, Dict[str, Any]]) -> str:
+    """
+    Flatten store_data into CSV text.
+    Columns: store, item, price_eur
+    """
+    buffer = StringIO()
+    writer = csv.writer(buffer)
+    writer.writerow(["store", "item", "price_eur"])
+    for store, data in store_data.items():
+        for item, price in data["items"].items():
+            writer.writerow([store, item, f"{price:.2f}"])
+    return buffer.getvalue()
 
 
 # ---------------------------------------------------------
@@ -229,6 +243,7 @@ else:
             store_data = aggregate_by_store(matched)
             st.subheader(TEXT["per_store_header"])
 
+            # per-store totals
             price_table = []
             for store, data in store_data.items():
                 price_table.append(
@@ -240,6 +255,26 @@ else:
                 )
             st.dataframe(price_table, hide_index=True, use_container_width=True)
 
+            # highlight cheapest store
+            valid_stores = {s: d["total"] for s, d in store_data.items() if d["items"]}
+            if valid_stores:
+                cheapest = min(valid_stores, key=valid_stores.get)
+                st.success(
+                    f"Cheapest overall: **{cheapest.capitalize()}** with total {valid_stores[cheapest]:.2f} € "
+                    f"(based on matched items). / "
+                    f"Günstigster Markt: **{cheapest.capitalize()}** mit {valid_stores[cheapest]:.2f} €."
+                )
+
+            # download button
+            csv_text = build_csv(store_data)
+            st.download_button(
+                label="Download price comparison (CSV) / Preisvergleich herunterladen (CSV)",
+                data=csv_text,
+                file_name="shopwise_comparison.csv",
+                mime="text/csv",
+            )
+
+            # details per store
             with st.expander("Details per store (Details je Markt)"):
                 for store, data in store_data.items():
                     st.markdown(f"**{store.capitalize()}**")
@@ -285,3 +320,12 @@ else:
                     )
                 # refresh UI
                 safe_rerun()
+
+# ---------------------------------------------------------
+# FOOTER
+# ---------------------------------------------------------
+st.markdown("---")
+st.caption(
+    "Demo: ShopWise AI — built by **Md. Touhidur Rahman** (M.Sc. Data Science, FAU Erlangen-Nürnberg). "
+    "Bilingual Streamlit app for supermarket price comparison with fuzzy matching and JSON-backed data."
+)
