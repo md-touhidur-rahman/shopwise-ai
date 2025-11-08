@@ -62,7 +62,6 @@ def load_products(path: Path) -> List[Dict[str, Any]]:
         return []
     with path.open("r", encoding="utf-8") as f:
         data = json.load(f)
-    # add helper field for matching
     for item in data:
         item["__names_for_match"] = [
             item.get("canonical_name", "") or "",
@@ -86,47 +85,31 @@ def normalize_text(s: str) -> str:
 
 
 def split_user_input(text: str) -> List[str]:
-    """
-    1. If user used commas/semicolons/newlines -> split on those.
-    2. Else -> fall back to splitting on spaces (for 'milch brot banane').
-    """
+    """Split input smartly — commas/newlines first, else spaces."""
     if not text:
         return []
-
     if re.search(r"[,;\n]", text):
         parts = re.split(r"[,;\n]+", text)
     else:
         parts = text.split()
-
-    parts = [p.strip() for p in parts if p.strip()]
-    return parts
+    return [p.strip() for p in parts if p.strip()]
 
 
-def find_best_match(
-    user_term: str,
-    products: List[Dict[str, Any]],
-    threshold: float = 0.5,
-) -> Tuple[Dict[str, Any], float]:
-    """
-    1. try substring match first (for partials)
-    2. fallback to fuzzy
-    """
+def find_best_match(user_term: str, products: List[Dict[str, Any]], threshold: float = 0.5) -> Tuple[Dict[str, Any], float]:
     user_norm = normalize_text(user_term)
     best_score = 0.0
     best_product = None
 
-    # substring pass
+    # substring
     for p in products:
         for name in p["__names_for_match"]:
-            name_norm = normalize_text(name)
-            if user_norm and user_norm in name_norm:
+            if user_norm and user_norm in normalize_text(name):
                 return p, 0.99
 
-    # fuzzy pass
+    # fuzzy
     for p in products:
         for name in p["__names_for_match"]:
-            candidate = normalize_text(name)
-            score = difflib.SequenceMatcher(None, user_norm, candidate).ratio()
+            score = difflib.SequenceMatcher(None, user_norm, normalize_text(name)).ratio()
             if score > best_score:
                 best_score = score
                 best_product = p
@@ -153,7 +136,6 @@ def aggregate_by_store(matched_items: List[Dict[str, Any]]) -> Dict[str, Dict[st
 
 
 def safe_rerun():
-    """Use st.rerun if available, else try experimental, else do nothing."""
     if hasattr(st, "rerun"):
         st.rerun()
     elif hasattr(st, "experimental_rerun"):
@@ -161,10 +143,6 @@ def safe_rerun():
 
 
 def build_csv(store_data: Dict[str, Dict[str, Any]]) -> str:
-    """
-    Flatten store_data into CSV text.
-    Columns: store, item, price_eur
-    """
     buffer = StringIO()
     writer = csv.writer(buffer)
     writer.writerow(["store", "item", "price_eur"])
@@ -183,41 +161,27 @@ st.write(TEXT["subtitle"])
 if not PRODUCTS:
     st.error(TEXT["file_missing"])
 else:
-    # main input
     user_input = st.text_area(
         TEXT["input_label"],
         height=120,
         placeholder=TEXT["placeholder"],
     )
 
-    # MAIN COMPARE BUTTON
     if st.button("Compare / Vergleichen", type="primary"):
         items = split_user_input(user_input)
-
         if not items:
             st.warning(TEXT["no_items"])
         else:
-            matched = []
-            not_found = []
-
+            matched, not_found = [], []
             for term in items:
                 product, score = find_best_match(term, PRODUCTS)
                 if product is None:
                     not_found.append(term)
                 else:
-                    matched.append(
-                        {
-                            "user_term": term,
-                            "product": product,
-                            "score": score,
-                        }
-                    )
-
-            # store in session, so we can add more later
+                    matched.append({"user_term": term, "product": product, "score": score})
             st.session_state["matched_items"] = matched
             st.session_state["not_found_items"] = not_found
 
-    # RENDER RESULTS FROM SESSION
     matched = st.session_state.get("matched_items", [])
     not_found = st.session_state.get("not_found_items", [])
 
@@ -225,37 +189,28 @@ else:
         st.subheader(TEXT["results_header"])
 
         if matched:
-            # show matched items
             match_rows = []
             for m in matched:
                 p = m["product"]
-                match_rows.append(
-                    {
-                        "You typed / Eingegeben": m["user_term"],
-                        "Matched product / Zugeordnet": p.get("canonical_name") or p.get("english_name"),
-                        "Unit / Einheit": p.get("unit", ""),
-                        "Category / Kategorie": p.get("category", ""),
-                    }
-                )
+                match_rows.append({
+                    "You typed / Eingegeben": m["user_term"],
+                    "Matched product / Zugeordnet": p.get("canonical_name") or p.get("english_name"),
+                    "Unit / Einheit": p.get("unit", ""),
+                })
             st.dataframe(match_rows, hide_index=True, use_container_width=True)
 
-            # aggregate per store
             store_data = aggregate_by_store(matched)
             st.subheader(TEXT["per_store_header"])
 
-            # per-store totals
             price_table = []
             for store, data in store_data.items():
-                price_table.append(
-                    {
-                        "Store / Markt": store.capitalize(),
-                        "Total (€)": round(data["total"], 2),
-                        "Items counted / Artikel gezählt": len(data["items"]),
-                    }
-                )
+                price_table.append({
+                    "Store / Markt": store.capitalize(),
+                    "Total (€)": round(data["total"], 2),
+                    "Items counted / Artikel gezählt": len(data["items"]),
+                })
             st.dataframe(price_table, hide_index=True, use_container_width=True)
 
-            # highlight cheapest store
             valid_stores = {s: d["total"] for s, d in store_data.items() if d["items"]}
             if valid_stores:
                 cheapest = min(valid_stores, key=valid_stores.get)
@@ -265,7 +220,6 @@ else:
                     f"Günstigster Markt: **{cheapest.capitalize()}** mit {valid_stores[cheapest]:.2f} €."
                 )
 
-            # download button
             csv_text = build_csv(store_data)
             st.download_button(
                 label="Download price comparison (CSV) / Preisvergleich herunterladen (CSV)",
@@ -274,18 +228,10 @@ else:
                 mime="text/csv",
             )
 
-            # details per store
             with st.expander("Details per store (Details je Markt)"):
                 for store, data in store_data.items():
                     st.markdown(f"**{store.capitalize()}**")
-                    rows = []
-                    for user_term, price in data["items"].items():
-                        rows.append(
-                            {
-                                "Item entered / Eingegeben": user_term,
-                                "Price (€) / Preis (€)": price,
-                            }
-                        )
+                    rows = [{"Item entered / Eingegeben": k, "Price (€) / Preis (€)": v} for k, v in data["items"].items()]
                     st.dataframe(rows, hide_index=True, use_container_width=True)
 
         if not_found:
@@ -298,9 +244,6 @@ else:
             )
             st.write(", ".join(not_found))
 
-        # -------------------------------------------------
-        # ADD ANOTHER ITEM
-        # -------------------------------------------------
         st.markdown("---")
         st.write(TEXT["add_more_label"])
         new_item = st.text_input("Item / Artikel", value="", key="add_item_input")
@@ -311,14 +254,7 @@ else:
                 if product is None:
                     st.session_state["not_found_items"].append(new_item)
                 else:
-                    st.session_state["matched_items"].append(
-                        {
-                            "user_term": new_item,
-                            "product": product,
-                            "score": score,
-                        }
-                    )
-                # refresh UI
+                    st.session_state["matched_items"].append({"user_term": new_item, "product": product, "score": score})
                 safe_rerun()
 
 # ---------------------------------------------------------
