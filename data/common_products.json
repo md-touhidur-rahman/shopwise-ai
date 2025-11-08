@@ -1,0 +1,2213 @@
+[
+  {
+    "canonical_name": "bananen",
+    "english_name": "bananas",
+    "unit": "per kg",
+    "category": "produce",
+    "prices": {
+      "kaufland": 0.89,
+      "lidl": 0.79,
+      "aldi": 0.8
+    }
+  },
+  {
+    "canonical_name": "äpfel rot",
+    "english_name": "red apples",
+    "unit": "1 kg",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.69,
+      "lidl": 1.58,
+      "aldi": 1.6
+    }
+  },
+  {
+    "canonical_name": "äpfel grün",
+    "english_name": "green apples",
+    "unit": "1 kg",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.73,
+      "aldi": 1.72
+    }
+  },
+  {
+    "canonical_name": "orangen",
+    "english_name": "oranges",
+    "unit": "1 kg",
+    "category": "produce",
+    "prices": {
+      "kaufland": 2.39,
+      "lidl": 2.28,
+      "aldi": 2.32
+    }
+  },
+  {
+    "canonical_name": "zitronen",
+    "english_name": "lemons",
+    "unit": "500 g",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.17,
+      "aldi": 1.24
+    }
+  },
+  {
+    "canonical_name": "kartoffeln festkochend",
+    "english_name": "potatoes waxy",
+    "unit": "2.5 kg",
+    "category": "produce",
+    "prices": {
+      "kaufland": 3.49,
+      "lidl": 3.46,
+      "aldi": 3.43
+    }
+  },
+  {
+    "canonical_name": "zwiebeln gelb",
+    "english_name": "yellow onions",
+    "unit": "1 kg",
+    "category": "produce",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.9,
+      "aldi": 0.91
+    }
+  },
+  {
+    "canonical_name": "karotten",
+    "english_name": "carrots",
+    "unit": "1 kg",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.19,
+      "lidl": 1.1,
+      "aldi": 1.18
+    }
+  },
+  {
+    "canonical_name": "paprika rot",
+    "english_name": "red bell pepper",
+    "unit": "500 g",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.99,
+      "lidl": 1.89,
+      "aldi": 1.9
+    }
+  },
+  {
+    "canonical_name": "paprika mix",
+    "english_name": "bell pepper mix",
+    "unit": "500 g",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.99,
+      "lidl": 1.91,
+      "aldi": 1.92
+    }
+  },
+  {
+    "canonical_name": "salatgurke",
+    "english_name": "cucumber",
+    "unit": "1 pc",
+    "category": "produce",
+    "prices": {
+      "kaufland": 0.79,
+      "lidl": 0.7,
+      "aldi": 0.76
+    }
+  },
+  {
+    "canonical_name": "cherrytomaten",
+    "english_name": "cherry tomatoes",
+    "unit": "500 g",
+    "category": "produce",
+    "prices": {
+      "kaufland": 2.29,
+      "lidl": 2.22,
+      "aldi": 2.23
+    }
+  },
+  {
+    "canonical_name": "rispentomaten",
+    "english_name": "vine tomatoes",
+    "unit": "650 g",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.99,
+      "lidl": 1.9,
+      "aldi": 1.93
+    }
+  },
+  {
+    "canonical_name": "blattsalat",
+    "english_name": "leaf lettuce",
+    "unit": "1 pc",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.19,
+      "aldi": 1.23
+    }
+  },
+  {
+    "canonical_name": "avocado",
+    "english_name": "avocado",
+    "unit": "1 pc",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.4,
+      "aldi": 1.45
+    }
+  },
+  {
+    "canonical_name": "blaubeeren",
+    "english_name": "blueberries",
+    "unit": "250 g",
+    "category": "produce",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.41,
+      "aldi": 2.43
+    }
+  },
+  {
+    "canonical_name": "erdbeeren",
+    "english_name": "strawberries",
+    "unit": "500 g",
+    "category": "produce",
+    "prices": {
+      "kaufland": 3.49,
+      "lidl": 3.41,
+      "aldi": 3.47
+    }
+  },
+  {
+    "canonical_name": "knoblauch",
+    "english_name": "garlic",
+    "unit": "100 g",
+    "category": "produce",
+    "prices": {
+      "kaufland": 0.79,
+      "lidl": 0.7,
+      "aldi": 0.75
+    }
+  },
+  {
+    "canonical_name": "ingwer",
+    "english_name": "ginger",
+    "unit": "per kg",
+    "category": "produce",
+    "prices": {
+      "kaufland": 4.99,
+      "lidl": 4.87,
+      "aldi": 4.96
+    }
+  },
+  {
+    "canonical_name": "baslikum topf",
+    "english_name": "basil pot",
+    "unit": "1 pc",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.45,
+      "aldi": 1.48
+    }
+  },
+  {
+    "canonical_name": "milch vollmilch 3,5%",
+    "english_name": "whole milk 3.5%",
+    "unit": "1 l",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 1.09,
+      "lidl": 1.02,
+      "aldi": 1.01
+    }
+  },
+  {
+    "canonical_name": "milch fettarm 1,5%",
+    "english_name": "low-fat milk 1.5%",
+    "unit": "1 l",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.88,
+      "aldi": 0.95
+    }
+  },
+  {
+    "canonical_name": "butter deutsche marke",
+    "english_name": "butter",
+    "unit": "250 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 2.19,
+      "lidl": 2.12,
+      "aldi": 2.11
+    }
+  },
+  {
+    "canonical_name": "joghurt natur",
+    "english_name": "plain yogurt",
+    "unit": "500 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 0.95,
+      "lidl": 0.84,
+      "aldi": 0.92
+    }
+  },
+  {
+    "canonical_name": "joghurt frucht",
+    "english_name": "fruit yogurt",
+    "unit": "150 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 0.49,
+      "lidl": 0.4,
+      "aldi": 0.43
+    }
+  },
+  {
+    "canonical_name": "käse gouda in scheiben",
+    "english_name": "gouda sliced",
+    "unit": "150 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.4,
+      "aldi": 1.4
+    }
+  },
+  {
+    "canonical_name": "käse emmentaler stück",
+    "english_name": "emmental piece",
+    "unit": "200 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.45,
+      "aldi": 2.44
+    }
+  },
+  {
+    "canonical_name": "frischkäse natur",
+    "english_name": "cream cheese",
+    "unit": "200 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 1.19,
+      "lidl": 1.11,
+      "aldi": 1.16
+    }
+  },
+  {
+    "canonical_name": "quark magerstufe",
+    "english_name": "low-fat quark",
+    "unit": "250 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 0.89,
+      "lidl": 0.8,
+      "aldi": 0.84
+    }
+  },
+  {
+    "canonical_name": "schlagsahne",
+    "english_name": "whipping cream",
+    "unit": "200 ml",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.24,
+      "aldi": 1.2
+    }
+  },
+  {
+    "canonical_name": "eier bodenhaltung",
+    "english_name": "eggs barn-raised",
+    "unit": "10 pcs",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 2.29,
+      "lidl": 2.17,
+      "aldi": 2.28
+    }
+  },
+  {
+    "canonical_name": "eier bio",
+    "english_name": "organic eggs",
+    "unit": "6 pcs",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.38,
+      "aldi": 2.43
+    }
+  },
+  {
+    "canonical_name": "mozzarella kugel",
+    "english_name": "mozzarella ball",
+    "unit": "125 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.9,
+      "aldi": 0.97
+    }
+  },
+  {
+    "canonical_name": "fetakäse",
+    "english_name": "feta cheese",
+    "unit": "200 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.69,
+      "aldi": 1.7
+    }
+  },
+  {
+    "canonical_name": "skyr natur",
+    "english_name": "skyr",
+    "unit": "450 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 1.69,
+      "lidl": 1.64,
+      "aldi": 1.64
+    }
+  },
+  {
+    "canonical_name": "käse gerieben",
+    "english_name": "grated cheese",
+    "unit": "200 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 1.69,
+      "lidl": 1.6,
+      "aldi": 1.63
+    }
+  },
+  {
+    "canonical_name": "kefir",
+    "english_name": "kefir",
+    "unit": "500 ml",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.23,
+      "aldi": 1.24
+    }
+  },
+  {
+    "canonical_name": "haferdrink",
+    "english_name": "oat drink",
+    "unit": "1 l",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 1.69,
+      "lidl": 1.58,
+      "aldi": 1.64
+    }
+  },
+  {
+    "canonical_name": "sojadrink",
+    "english_name": "soy drink",
+    "unit": "1 l",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 1.59,
+      "lidl": 1.5,
+      "aldi": 1.51
+    }
+  },
+  {
+    "canonical_name": "buttermilch",
+    "english_name": "buttermilk",
+    "unit": "500 ml",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.9,
+      "aldi": 0.9
+    }
+  },
+  {
+    "canonical_name": "weizenbrot",
+    "english_name": "wheat bread",
+    "unit": "750 g",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.46,
+      "aldi": 1.45
+    }
+  },
+  {
+    "canonical_name": "vollkornbrot",
+    "english_name": "wholegrain bread",
+    "unit": "750 g",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 1.89,
+      "lidl": 1.8,
+      "aldi": 1.81
+    }
+  },
+  {
+    "canonical_name": "brötchen 5er pack",
+    "english_name": "bread rolls 5-pack",
+    "unit": "5 pcs",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 1.39,
+      "lidl": 1.33,
+      "aldi": 1.35
+    }
+  },
+  {
+    "canonical_name": "laugenbrezel",
+    "english_name": "pretzel",
+    "unit": "1 pc",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 0.69,
+      "lidl": 0.57,
+      "aldi": 0.63
+    }
+  },
+  {
+    "canonical_name": "croissant butter",
+    "english_name": "butter croissant",
+    "unit": "1 pc",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 0.89,
+      "lidl": 0.8,
+      "aldi": 0.82
+    }
+  },
+  {
+    "canonical_name": "toastbrot",
+    "english_name": "toast bread",
+    "unit": "500 g",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.19,
+      "aldi": 1.2
+    }
+  },
+  {
+    "canonical_name": "ciabatta",
+    "english_name": "ciabatta",
+    "unit": "1 pc",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.44,
+      "aldi": 1.43
+    }
+  },
+  {
+    "canonical_name": "baguette",
+    "english_name": "baguette",
+    "unit": "1 pc",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 1.19,
+      "lidl": 1.13,
+      "aldi": 1.17
+    }
+  },
+  {
+    "canonical_name": "wraps weizen",
+    "english_name": "wheat wraps",
+    "unit": "6 pcs",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.67,
+      "aldi": 1.72
+    }
+  },
+  {
+    "canonical_name": "kuchen marmorkuchen",
+    "english_name": "marble cake",
+    "unit": "400 g",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.46,
+      "aldi": 2.44
+    }
+  },
+  {
+    "canonical_name": "donut schoko",
+    "english_name": "chocolate donut",
+    "unit": "1 pc",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 0.79,
+      "lidl": 0.71,
+      "aldi": 0.74
+    }
+  },
+  {
+    "canonical_name": "apfeltasche",
+    "english_name": "apple turnover",
+    "unit": "1 pc",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 0.89,
+      "lidl": 0.78,
+      "aldi": 0.8
+    }
+  },
+  {
+    "canonical_name": "brotchen dinkel",
+    "english_name": "spelt roll",
+    "unit": "1 pc",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 0.59,
+      "lidl": 0.5,
+      "aldi": 0.53
+    }
+  },
+  {
+    "canonical_name": "kaiserbrötchen",
+    "english_name": "kaiser roll",
+    "unit": "1 pc",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 0.45,
+      "lidl": 0.34,
+      "aldi": 0.43
+    }
+  },
+  {
+    "canonical_name": "brot mit kernen",
+    "english_name": "seeded bread",
+    "unit": "750 g",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 2.19,
+      "lidl": 2.08,
+      "aldi": 2.16
+    }
+  },
+  {
+    "canonical_name": "spaghetti",
+    "english_name": "spaghetti",
+    "unit": "500 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.9,
+      "aldi": 0.91
+    }
+  },
+  {
+    "canonical_name": "penne rigate",
+    "english_name": "penne",
+    "unit": "500 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.89,
+      "aldi": 0.91
+    }
+  },
+  {
+    "canonical_name": "reis langkorn",
+    "english_name": "long grain rice",
+    "unit": "1 kg",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.75,
+      "aldi": 1.72
+    }
+  },
+  {
+    "canonical_name": "basmati reis",
+    "english_name": "basmati rice",
+    "unit": "1 kg",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 2.99,
+      "lidl": 2.94,
+      "aldi": 2.91
+    }
+  },
+  {
+    "canonical_name": "mehl type 405",
+    "english_name": "flour type 405",
+    "unit": "1 kg",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 0.89,
+      "lidl": 0.81,
+      "aldi": 0.84
+    }
+  },
+  {
+    "canonical_name": "zucker weiß",
+    "english_name": "white sugar",
+    "unit": "1 kg",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.92,
+      "aldi": 0.9
+    }
+  },
+  {
+    "canonical_name": "salz jodiert",
+    "english_name": "iodized salt",
+    "unit": "500 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 0.39,
+      "lidl": 0.32,
+      "aldi": 0.33
+    }
+  },
+  {
+    "canonical_name": "haferflocken zart",
+    "english_name": "oat flakes",
+    "unit": "500 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 0.89,
+      "lidl": 0.8,
+      "aldi": 0.81
+    }
+  },
+  {
+    "canonical_name": "cornflakes",
+    "english_name": "cornflakes",
+    "unit": "375 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.69,
+      "lidl": 1.6,
+      "aldi": 1.63
+    }
+  },
+  {
+    "canonical_name": "müsli crunchy",
+    "english_name": "crunchy muesli",
+    "unit": "500 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 2.29,
+      "lidl": 2.24,
+      "aldi": 2.25
+    }
+  },
+  {
+    "canonical_name": "tomatenmark 3fach",
+    "english_name": "tomato paste triple",
+    "unit": "200 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.89,
+      "aldi": 0.92
+    }
+  },
+  {
+    "canonical_name": "passierte tomaten",
+    "english_name": "passata",
+    "unit": "500 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.9,
+      "aldi": 0.9
+    }
+  },
+  {
+    "canonical_name": "gehackte tomaten dose",
+    "english_name": "chopped tomatoes can",
+    "unit": "400 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 0.89,
+      "lidl": 0.8,
+      "aldi": 0.83
+    }
+  },
+  {
+    "canonical_name": "kidneybohnen dose",
+    "english_name": "kidney beans can",
+    "unit": "400 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.9,
+      "aldi": 0.92
+    }
+  },
+  {
+    "canonical_name": "kichererbsen dose",
+    "english_name": "chickpeas can",
+    "unit": "400 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.9,
+      "aldi": 0.92
+    }
+  },
+  {
+    "canonical_name": "öl sonnenblume",
+    "english_name": "sunflower oil",
+    "unit": "1 l",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.41,
+      "aldi": 2.43
+    }
+  },
+  {
+    "canonical_name": "öl oliven",
+    "english_name": "olive oil",
+    "unit": "1 l",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 5.99,
+      "lidl": 5.95,
+      "aldi": 5.94
+    }
+  },
+  {
+    "canonical_name": "essig balsamico",
+    "english_name": "balsamic vinegar",
+    "unit": "500 ml",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.69,
+      "lidl": 1.6,
+      "aldi": 1.63
+    }
+  },
+  {
+    "canonical_name": "essiggurken glas",
+    "english_name": "pickled gherkins jar",
+    "unit": "370 ml",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.46,
+      "aldi": 1.46
+    }
+  },
+  {
+    "canonical_name": "honig blütenhonig",
+    "english_name": "flower honey",
+    "unit": "500 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 3.49,
+      "lidl": 3.37,
+      "aldi": 3.47
+    }
+  },
+  {
+    "canonical_name": "erdnussbutter cremig",
+    "english_name": "peanut butter smooth",
+    "unit": "350 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.4,
+      "aldi": 2.46
+    }
+  },
+  {
+    "canonical_name": "aufstrich schoko nuss",
+    "english_name": "choco hazelnut spread",
+    "unit": "400 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 2.99,
+      "lidl": 2.94,
+      "aldi": 2.9
+    }
+  },
+  {
+    "canonical_name": "kaffee gemahlen",
+    "english_name": "ground coffee",
+    "unit": "500 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 5.49,
+      "lidl": 5.42,
+      "aldi": 5.47
+    }
+  },
+  {
+    "canonical_name": "schwarztee beutel",
+    "english_name": "black tea bags",
+    "unit": "25 pcs",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.25,
+      "aldi": 1.22
+    }
+  },
+  {
+    "canonical_name": "grüner tee beutel",
+    "english_name": "green tea bags",
+    "unit": "25 pcs",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.39,
+      "lidl": 1.37,
+      "aldi": 1.34
+    }
+  },
+  {
+    "canonical_name": "brühe gemüse",
+    "english_name": "vegetable stock",
+    "unit": "200 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.19,
+      "aldi": 1.22
+    }
+  },
+  {
+    "canonical_name": "sojasauce",
+    "english_name": "soy sauce",
+    "unit": "150 ml",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.4,
+      "aldi": 1.42
+    }
+  },
+  {
+    "canonical_name": "nudelsauce bolognese glas",
+    "english_name": "pasta sauce bolognese",
+    "unit": "400 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.99,
+      "lidl": 1.91,
+      "aldi": 1.92
+    }
+  },
+  {
+    "canonical_name": "wrap sauce",
+    "english_name": "wrap sauce",
+    "unit": "250 ml",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.75,
+      "aldi": 1.74
+    }
+  },
+  {
+    "canonical_name": "backpulver",
+    "english_name": "baking powder",
+    "unit": "5x15 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 0.79,
+      "lidl": 0.7,
+      "aldi": 0.74
+    }
+  },
+  {
+    "canonical_name": "hackfleisch rind gemischt",
+    "english_name": "minced beef/pork",
+    "unit": "500 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 4.49,
+      "lidl": 4.39,
+      "aldi": 4.4
+    }
+  },
+  {
+    "canonical_name": "rinderhack",
+    "english_name": "ground beef",
+    "unit": "500 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 5.49,
+      "lidl": 5.46,
+      "aldi": 5.45
+    }
+  },
+  {
+    "canonical_name": "hähnchenbrustfilet",
+    "english_name": "chicken breast fillet",
+    "unit": "1 kg",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 7.79,
+      "lidl": 7.7,
+      "aldi": 7.74
+    }
+  },
+  {
+    "canonical_name": "putenschnitzel",
+    "english_name": "turkey schnitzel",
+    "unit": "500 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 4.49,
+      "lidl": 4.38,
+      "aldi": 4.47
+    }
+  },
+  {
+    "canonical_name": "bratwurst 5er",
+    "english_name": "bratwurst 5-pack",
+    "unit": "5 pcs",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 2.99,
+      "lidl": 2.97,
+      "aldi": 2.96
+    }
+  },
+  {
+    "canonical_name": "bockwurst 4er",
+    "english_name": "bockwurst 4-pack",
+    "unit": "4 pcs",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 2.69,
+      "lidl": 2.63,
+      "aldi": 2.62
+    }
+  },
+  {
+    "canonical_name": "lachsfilet tk",
+    "english_name": "salmon fillet frozen",
+    "unit": "300 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 4.29,
+      "lidl": 4.19,
+      "aldi": 4.24
+    }
+  },
+  {
+    "canonical_name": "pangasiusfilet tk",
+    "english_name": "pangasius fillet frozen",
+    "unit": "400 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 3.49,
+      "lidl": 3.44,
+      "aldi": 3.49
+    }
+  },
+  {
+    "canonical_name": "fischstäbchen",
+    "english_name": "fish fingers",
+    "unit": "450 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 2.79,
+      "lidl": 2.73,
+      "aldi": 2.75
+    }
+  },
+  {
+    "canonical_name": "tiefkühl pizza margherita",
+    "english_name": "frozen pizza margherita",
+    "unit": "1 pc",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 2.29,
+      "lidl": 2.24,
+      "aldi": 2.26
+    }
+  },
+  {
+    "canonical_name": "tiefkühl gemüse mischung",
+    "english_name": "frozen vegetable mix",
+    "unit": "750 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 1.99,
+      "lidl": 1.9,
+      "aldi": 1.94
+    }
+  },
+  {
+    "canonical_name": "pommes frites tk",
+    "english_name": "french fries frozen",
+    "unit": "1 kg",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 2.19,
+      "lidl": 2.16,
+      "aldi": 2.11
+    }
+  },
+  {
+    "canonical_name": "chicken nuggets tk",
+    "english_name": "chicken nuggets frozen",
+    "unit": "500 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 2.99,
+      "lidl": 2.94,
+      "aldi": 2.96
+    }
+  },
+  {
+    "canonical_name": "spinat blattspinat tk",
+    "english_name": "frozen spinach",
+    "unit": "450 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.24,
+      "aldi": 1.23
+    }
+  },
+  {
+    "canonical_name": "lasagne tk",
+    "english_name": "frozen lasagna",
+    "unit": "400 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.38,
+      "aldi": 2.43
+    }
+  },
+  {
+    "canonical_name": "frozen berries",
+    "english_name": "frozen berries",
+    "unit": "300 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.42,
+      "aldi": 2.48
+    }
+  },
+  {
+    "canonical_name": "shrimp tk",
+    "english_name": "shrimp frozen",
+    "unit": "250 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 3.99,
+      "lidl": 3.89,
+      "aldi": 3.9
+    }
+  },
+  {
+    "canonical_name": "schnitzel paniert tk",
+    "english_name": "breaded schnitzel frozen",
+    "unit": "500 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 3.49,
+      "lidl": 3.44,
+      "aldi": 3.47
+    }
+  },
+  {
+    "canonical_name": "schokolade vollmilch tafel",
+    "english_name": "milk chocolate bar",
+    "unit": "100 g",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.91,
+      "aldi": 0.97
+    }
+  },
+  {
+    "canonical_name": "kekse butterkekse",
+    "english_name": "butter biscuits",
+    "unit": "200 g",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 1.19,
+      "lidl": 1.09,
+      "aldi": 1.16
+    }
+  },
+  {
+    "canonical_name": "chips paprika",
+    "english_name": "paprika chips",
+    "unit": "200 g",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 1.59,
+      "lidl": 1.54,
+      "aldi": 1.57
+    }
+  },
+  {
+    "canonical_name": "tortilla chips",
+    "english_name": "tortilla chips",
+    "unit": "300 g",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.73,
+      "aldi": 1.71
+    }
+  },
+  {
+    "canonical_name": "erdnüsse geröstet gesalzen",
+    "english_name": "roasted salted peanuts",
+    "unit": "200 g",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.21,
+      "aldi": 1.29
+    }
+  },
+  {
+    "canonical_name": "gummibärchen",
+    "english_name": "gummy bears",
+    "unit": "200 g",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.96,
+      "aldi": 0.95
+    }
+  },
+  {
+    "canonical_name": "müsliriegel schoko",
+    "english_name": "cereal bar chocolate",
+    "unit": "6 pcs",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.73,
+      "aldi": 1.69
+    }
+  },
+  {
+    "canonical_name": "nutella glas",
+    "english_name": "nutella",
+    "unit": "450 g",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 3.29,
+      "lidl": 3.22,
+      "aldi": 3.29
+    }
+  },
+  {
+    "canonical_name": "cola 1,25l",
+    "english_name": "cola",
+    "unit": "1.25 l",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 1.25,
+      "lidl": 1.2,
+      "aldi": 1.2
+    }
+  },
+  {
+    "canonical_name": "apfelschorle 1,5l",
+    "english_name": "apple spritzer",
+    "unit": "1.5 l",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 0.89,
+      "lidl": 0.86,
+      "aldi": 0.8
+    }
+  },
+  {
+    "canonical_name": "mineralwasser still 1,5l",
+    "english_name": "still water",
+    "unit": "1.5 l",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 0.39,
+      "lidl": 0.28,
+      "aldi": 0.35
+    }
+  },
+  {
+    "canonical_name": "mineralwasser medium 1,5l",
+    "english_name": "medium water",
+    "unit": "1.5 l",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 0.39,
+      "lidl": 0.33,
+      "aldi": 0.31
+    }
+  },
+  {
+    "canonical_name": "orangensaft 1l",
+    "english_name": "orange juice",
+    "unit": "1 l",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 1.39,
+      "lidl": 1.28,
+      "aldi": 1.37
+    }
+  },
+  {
+    "canonical_name": "multivitaminsaft 1l",
+    "english_name": "multivitamin juice",
+    "unit": "1 l",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.38,
+      "aldi": 1.4
+    }
+  },
+  {
+    "canonical_name": "energie drink dose",
+    "english_name": "energy drink can",
+    "unit": "250 ml",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 0.79,
+      "lidl": 0.7,
+      "aldi": 0.77
+    }
+  },
+  {
+    "canonical_name": "kaffee to go",
+    "english_name": "iced coffee",
+    "unit": "250 ml",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.23,
+      "aldi": 1.21
+    }
+  },
+  {
+    "canonical_name": "kakao drink",
+    "english_name": "cocoa drink",
+    "unit": "500 ml",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.21,
+      "aldi": 1.29
+    }
+  },
+  {
+    "canonical_name": "eistee pfirsich",
+    "english_name": "iced tea peach",
+    "unit": "1.5 l",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.91,
+      "aldi": 0.9
+    }
+  },
+  {
+    "canonical_name": "eistee zitrone",
+    "english_name": "iced tea lemon",
+    "unit": "1.5 l",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.9,
+      "aldi": 0.91
+    }
+  },
+  {
+    "canonical_name": "studentenfutter",
+    "english_name": "trail mix",
+    "unit": "200 g",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 2.29,
+      "lidl": 2.2,
+      "aldi": 2.27
+    }
+  },
+  {
+    "canonical_name": "toilettenpapier 8 rollen",
+    "english_name": "toilet paper 8 rolls",
+    "unit": "8 rolls",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 3.29,
+      "lidl": 3.23,
+      "aldi": 3.27
+    }
+  },
+  {
+    "canonical_name": "küchenrolle 4 rollen",
+    "english_name": "kitchen towels 4 rolls",
+    "unit": "4 rolls",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.44,
+      "aldi": 2.45
+    }
+  },
+  {
+    "canonical_name": "geschirrspülmittel",
+    "english_name": "dishwashing liquid",
+    "unit": "500 ml",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 1.19,
+      "lidl": 1.1,
+      "aldi": 1.13
+    }
+  },
+  {
+    "canonical_name": "spülmaschinentabs 30er",
+    "english_name": "dishwasher tabs 30",
+    "unit": "30 pcs",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 5.49,
+      "lidl": 5.45,
+      "aldi": 5.51
+    }
+  },
+  {
+    "canonical_name": "waschmittel pulver 20 wl",
+    "english_name": "washing powder 20 wl",
+    "unit": "1 pack",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 3.99,
+      "lidl": 3.97,
+      "aldi": 3.99
+    }
+  },
+  {
+    "canonical_name": "weichspüler",
+    "english_name": "fabric softener",
+    "unit": "1 l",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.75,
+      "aldi": 1.75
+    }
+  },
+  {
+    "canonical_name": "allzweckreiniger",
+    "english_name": "all-purpose cleaner",
+    "unit": "1 l",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.41,
+      "aldi": 1.43
+    }
+  },
+  {
+    "canonical_name": "glasreiniger",
+    "english_name": "glass cleaner",
+    "unit": "750 ml",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.19,
+      "aldi": 1.23
+    }
+  },
+  {
+    "canonical_name": "müllbeutel 35l",
+    "english_name": "trash bags 35l",
+    "unit": "20 pcs",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.4,
+      "aldi": 1.42
+    }
+  },
+  {
+    "canonical_name": "alufolie",
+    "english_name": "aluminium foil",
+    "unit": "30 m",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 1.99,
+      "lidl": 1.9,
+      "aldi": 1.9
+    }
+  },
+  {
+    "canonical_name": "frischhaltefolie",
+    "english_name": "cling film",
+    "unit": "30 m",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.71,
+      "aldi": 1.72
+    }
+  },
+  {
+    "canonical_name": "backpapier",
+    "english_name": "baking paper",
+    "unit": "16 sheets",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 1.69,
+      "lidl": 1.68,
+      "aldi": 1.65
+    }
+  },
+  {
+    "canonical_name": "schwämme 6er",
+    "english_name": "sponges 6-pack",
+    "unit": "6 pcs",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.39,
+      "aldi": 1.45
+    }
+  },
+  {
+    "canonical_name": "wc reiniger",
+    "english_name": "toilet cleaner",
+    "unit": "750 ml",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 1.19,
+      "lidl": 1.1,
+      "aldi": 1.14
+    }
+  },
+  {
+    "canonical_name": "bodenreiniger",
+    "english_name": "floor cleaner",
+    "unit": "1 l",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.69,
+      "aldi": 1.79
+    }
+  },
+  {
+    "canonical_name": "duschgel",
+    "english_name": "shower gel",
+    "unit": "250 ml",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.18,
+      "aldi": 1.26
+    }
+  },
+  {
+    "canonical_name": "shampoo",
+    "english_name": "shampoo",
+    "unit": "250 ml",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.43,
+      "aldi": 1.44
+    }
+  },
+  {
+    "canonical_name": "zahnpasta",
+    "english_name": "toothpaste",
+    "unit": "75 ml",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.18,
+      "aldi": 1.19
+    }
+  },
+  {
+    "canonical_name": "zahnbürsten 2er",
+    "english_name": "toothbrushes 2-pack",
+    "unit": "2 pcs",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 1.99,
+      "lidl": 1.99,
+      "aldi": 1.94
+    }
+  },
+  {
+    "canonical_name": "deo spray",
+    "english_name": "deodorant spray",
+    "unit": "150 ml",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.7,
+      "aldi": 1.74
+    }
+  },
+  {
+    "canonical_name": "rasierklingen 4er",
+    "english_name": "razor blades 4-pack",
+    "unit": "4 pcs",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 5.99,
+      "lidl": 5.9,
+      "aldi": 5.97
+    }
+  },
+  {
+    "canonical_name": "baby windeln größe 3",
+    "english_name": "baby diapers size 3",
+    "unit": "36 pcs",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 6.99,
+      "lidl": 6.9,
+      "aldi": 6.91
+    }
+  },
+  {
+    "canonical_name": "baby feuchttücher",
+    "english_name": "baby wipes",
+    "unit": "80 pcs",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.72,
+      "aldi": 1.73
+    }
+  },
+  {
+    "canonical_name": "handseife flüssig",
+    "english_name": "liquid hand soap",
+    "unit": "500 ml",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.23,
+      "aldi": 1.19
+    }
+  },
+  {
+    "canonical_name": "bodylotion",
+    "english_name": "body lotion",
+    "unit": "250 ml",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.39,
+      "aldi": 2.44
+    }
+  },
+  {
+    "canonical_name": "gesichtscreme",
+    "english_name": "face cream",
+    "unit": "50 ml",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 2.99,
+      "lidl": 2.97,
+      "aldi": 2.95
+    }
+  },
+  {
+    "canonical_name": "ohrstäbchen",
+    "english_name": "cotton buds",
+    "unit": "200 pcs",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.93,
+      "aldi": 0.96
+    }
+  },
+  {
+    "canonical_name": "taschentücher box",
+    "english_name": "tissues box",
+    "unit": "100 pcs",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.95,
+      "aldi": 0.98
+    }
+  },
+  {
+    "canonical_name": "slipeinlagen 30er",
+    "english_name": "pantyliners 30",
+    "unit": "30 pcs",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.43,
+      "aldi": 1.49
+    }
+  },
+  {
+    "canonical_name": "binden 16er",
+    "english_name": "pads 16",
+    "unit": "16 pcs",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 1.99,
+      "lidl": 1.9,
+      "aldi": 1.9
+    }
+  },
+  {
+    "canonical_name": "kohlrabi",
+    "english_name": "kohlrabi",
+    "unit": "1 pc",
+    "category": "produce",
+    "prices": {
+      "kaufland": 0.79,
+      "lidl": 0.73,
+      "aldi": 0.77
+    }
+  },
+  {
+    "canonical_name": "brokkoli",
+    "english_name": "broccoli",
+    "unit": "500 g",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.59,
+      "lidl": 1.51,
+      "aldi": 1.52
+    }
+  },
+  {
+    "canonical_name": "blumenkohl",
+    "english_name": "cauliflower",
+    "unit": "1 pc",
+    "category": "produce",
+    "prices": {
+      "kaufland": 2.29,
+      "lidl": 2.22,
+      "aldi": 2.2
+    }
+  },
+  {
+    "canonical_name": "sellerie",
+    "english_name": "celery",
+    "unit": "1 pc",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.41,
+      "aldi": 1.42
+    }
+  },
+  {
+    "canonical_name": "porree",
+    "english_name": "leek",
+    "unit": "500 g",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.23,
+      "aldi": 1.28
+    }
+  },
+  {
+    "canonical_name": "radieschen",
+    "english_name": "radish bunch",
+    "unit": "1 bunch",
+    "category": "produce",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.96,
+      "aldi": 0.98
+    }
+  },
+  {
+    "canonical_name": "trauben hell",
+    "english_name": "white grapes",
+    "unit": "500 g",
+    "category": "produce",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.42,
+      "aldi": 2.43
+    }
+  },
+  {
+    "canonical_name": "trauben blau",
+    "english_name": "red grapes",
+    "unit": "500 g",
+    "category": "produce",
+    "prices": {
+      "kaufland": 2.59,
+      "lidl": 2.5,
+      "aldi": 2.51
+    }
+  },
+  {
+    "canonical_name": "pfirsiche",
+    "english_name": "peaches",
+    "unit": "1 kg",
+    "category": "produce",
+    "prices": {
+      "kaufland": 3.29,
+      "lidl": 3.23,
+      "aldi": 3.22
+    }
+  },
+  {
+    "canonical_name": "nectarinen",
+    "english_name": "nectarines",
+    "unit": "1 kg",
+    "category": "produce",
+    "prices": {
+      "kaufland": 3.29,
+      "lidl": 3.19,
+      "aldi": 3.2
+    }
+  },
+  {
+    "canonical_name": "birnen",
+    "english_name": "pears",
+    "unit": "1 kg",
+    "category": "produce",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.39,
+      "aldi": 2.49
+    }
+  },
+  {
+    "canonical_name": "mangos",
+    "english_name": "mango",
+    "unit": "1 pc",
+    "category": "produce",
+    "prices": {
+      "kaufland": 1.99,
+      "lidl": 1.9,
+      "aldi": 1.99
+    }
+  },
+  {
+    "canonical_name": "ananas",
+    "english_name": "pineapple",
+    "unit": "1 pc",
+    "category": "produce",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.46,
+      "aldi": 2.4
+    }
+  },
+  {
+    "canonical_name": "camembert",
+    "english_name": "camembert",
+    "unit": "250 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 1.69,
+      "lidl": 1.61,
+      "aldi": 1.66
+    }
+  },
+  {
+    "canonical_name": "mascarpone",
+    "english_name": "mascarpone",
+    "unit": "250 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 1.99,
+      "lidl": 1.94,
+      "aldi": 1.9
+    }
+  },
+  {
+    "canonical_name": "schafskäse",
+    "english_name": "sheep cheese",
+    "unit": "200 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 2.39,
+      "lidl": 2.31,
+      "aldi": 2.31
+    }
+  },
+  {
+    "canonical_name": "kondensmilch",
+    "english_name": "condensed milk",
+    "unit": "340 g",
+    "category": "dairy_eggs",
+    "prices": {
+      "kaufland": 1.19,
+      "lidl": 1.1,
+      "aldi": 1.1
+    }
+  },
+  {
+    "canonical_name": "pita brot",
+    "english_name": "pita bread",
+    "unit": "6 pcs",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 1.69,
+      "lidl": 1.61,
+      "aldi": 1.62
+    }
+  },
+  {
+    "canonical_name": "wraps vollkorn",
+    "english_name": "wholegrain wraps",
+    "unit": "6 pcs",
+    "category": "bakery",
+    "prices": {
+      "kaufland": 1.99,
+      "lidl": 1.94,
+      "aldi": 1.95
+    }
+  },
+  {
+    "canonical_name": "couscous",
+    "english_name": "couscous",
+    "unit": "500 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.7,
+      "aldi": 1.72
+    }
+  },
+  {
+    "canonical_name": "bulgur",
+    "english_name": "bulgur",
+    "unit": "500 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.75,
+      "aldi": 1.73
+    }
+  },
+  {
+    "canonical_name": "linsensuppe dose",
+    "english_name": "lentil soup can",
+    "unit": "400 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.47,
+      "aldi": 1.46
+    }
+  },
+  {
+    "canonical_name": "thunfisch dose",
+    "english_name": "tuna can",
+    "unit": "185 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.41,
+      "aldi": 1.48
+    }
+  },
+  {
+    "canonical_name": "pesto verde",
+    "english_name": "pesto green",
+    "unit": "190 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.99,
+      "lidl": 1.94,
+      "aldi": 1.99
+    }
+  },
+  {
+    "canonical_name": "pesto rosso",
+    "english_name": "pesto red",
+    "unit": "190 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.99,
+      "lidl": 1.9,
+      "aldi": 1.97
+    }
+  },
+  {
+    "canonical_name": "reiswaffeln",
+    "english_name": "rice cakes",
+    "unit": "100 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.95,
+      "aldi": 0.9
+    }
+  },
+  {
+    "canonical_name": "knäckebrot",
+    "english_name": "crispbread",
+    "unit": "250 g",
+    "category": "pantry",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.4,
+      "aldi": 1.41
+    }
+  },
+  {
+    "canonical_name": "frikadellen frisch",
+    "english_name": "fresh meatballs",
+    "unit": "400 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 2.99,
+      "lidl": 2.92,
+      "aldi": 2.98
+    }
+  },
+  {
+    "canonical_name": "würstchen im glas",
+    "english_name": "sausages in jar",
+    "unit": "540 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 2.99,
+      "lidl": 2.9,
+      "aldi": 2.98
+    }
+  },
+  {
+    "canonical_name": "hähnchenschenkel",
+    "english_name": "chicken legs",
+    "unit": "1 kg",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 4.49,
+      "lidl": 4.48,
+      "aldi": 4.47
+    }
+  },
+  {
+    "canonical_name": "rinderrouladen",
+    "english_name": "beef roulades",
+    "unit": "500 g",
+    "category": "meat_fish_frozen",
+    "prices": {
+      "kaufland": 6.49,
+      "lidl": 6.43,
+      "aldi": 6.46
+    }
+  },
+  {
+    "canonical_name": "salzstangen",
+    "english_name": "pretzel sticks",
+    "unit": "250 g",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 0.99,
+      "lidl": 0.94,
+      "aldi": 0.97
+    }
+  },
+  {
+    "canonical_name": "popcorn süß",
+    "english_name": "sweet popcorn",
+    "unit": "200 g",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.25,
+      "aldi": 1.24
+    }
+  },
+  {
+    "canonical_name": "kekse schoko",
+    "english_name": "chocolate cookies",
+    "unit": "200 g",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.47,
+      "aldi": 1.42
+    }
+  },
+  {
+    "canonical_name": "energydrink zuckerfrei",
+    "english_name": "energy drink sugarfree",
+    "unit": "250 ml",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 0.79,
+      "lidl": 0.71,
+      "aldi": 0.74
+    }
+  },
+  {
+    "canonical_name": "fruchtriegel",
+    "english_name": "fruit bar",
+    "unit": "6 pcs",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 1.69,
+      "lidl": 1.58,
+      "aldi": 1.64
+    }
+  },
+  {
+    "canonical_name": "eis am stiel multipack",
+    "english_name": "ice cream sticks multipack",
+    "unit": "8 pcs",
+    "category": "snacks_sweets_drinks",
+    "prices": {
+      "kaufland": 2.99,
+      "lidl": 2.97,
+      "aldi": 2.91
+    }
+  },
+  {
+    "canonical_name": "desinfektionsmittel",
+    "english_name": "disinfectant",
+    "unit": "500 ml",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 2.29,
+      "lidl": 2.17,
+      "aldi": 2.27
+    }
+  },
+  {
+    "canonical_name": "fleckenspray",
+    "english_name": "stain remover spray",
+    "unit": "500 ml",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 2.49,
+      "lidl": 2.47,
+      "aldi": 2.46
+    }
+  },
+  {
+    "canonical_name": "wc duftstein 2er",
+    "english_name": "toilet freshener 2-pack",
+    "unit": "2 pcs",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 1.69,
+      "lidl": 1.59,
+      "aldi": 1.67
+    }
+  },
+  {
+    "canonical_name": "geschirrreiniger pulver",
+    "english_name": "dishwasher powder",
+    "unit": "1 kg",
+    "category": "household_cleaning",
+    "prices": {
+      "kaufland": 3.99,
+      "lidl": 3.96,
+      "aldi": 3.94
+    }
+  },
+  {
+    "canonical_name": "haargel",
+    "english_name": "hair gel",
+    "unit": "150 ml",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 1.79,
+      "lidl": 1.69,
+      "aldi": 1.7
+    }
+  },
+  {
+    "canonical_name": "aftershave",
+    "english_name": "aftershave",
+    "unit": "100 ml",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 3.49,
+      "lidl": 3.44,
+      "aldi": 3.42
+    }
+  },
+  {
+    "canonical_name": "babypuder",
+    "english_name": "baby powder",
+    "unit": "200 g",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 2.29,
+      "lidl": 2.19,
+      "aldi": 2.23
+    }
+  },
+  {
+    "canonical_name": "feuchtes toilettenpapier",
+    "english_name": "moist toilet paper",
+    "unit": "42 pcs",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 1.49,
+      "lidl": 1.4,
+      "aldi": 1.46
+    }
+  },
+  {
+    "canonical_name": "lippenpflegestift",
+    "english_name": "lip balm",
+    "unit": "1 pc",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 1.29,
+      "lidl": 1.2,
+      "aldi": 1.23
+    }
+  },
+  {
+    "canonical_name": "sonnencreme spf30",
+    "english_name": "sunscreen spf30",
+    "unit": "200 ml",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 4.99,
+      "lidl": 4.9,
+      "aldi": 4.92
+    }
+  },
+  {
+    "canonical_name": "kontaktlinsenlösung",
+    "english_name": "contact lens solution",
+    "unit": "360 ml",
+    "category": "toiletries_baby",
+    "prices": {
+      "kaufland": 5.49,
+      "lidl": 5.4,
+      "aldi": 5.46
+    }
+  }
+]
