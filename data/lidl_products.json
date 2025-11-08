@@ -1,0 +1,3068 @@
+[
+  {
+    "product_name": "Acme™ Nova smoked salmon",
+    "price_now": "$7.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Acme™ wild Alaskan sockeye smoked salmon",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fish Market Chilean Atlantic salmon portion with Mediterranean herb",
+    "price_now": "$11.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fish Market Chilean Atlantic salmon skin on fillet portions",
+    "price_now": "$10.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fish Market Chilean Atlantic salmon skin on portion",
+    "price_now": "$9.19",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fish Market Chilean Atlantic salmon whole fillet",
+    "price_now": "$8.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fish Market Faroe Island Atlantic salmon skin on fillet",
+    "price_now": "$12.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fish Market Faroe Island Atlantic salmon skin on portions",
+    "price_now": "$10.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fish Market Faroe Island Atlantic salmon skinless portions",
+    "price_now": "$12.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fish Market Faroe Island Atlantic salmon, whole fillet",
+    "price_now": "$11.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fish Market skinless tilapia fillet",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "mylidl",
+    "price_now": "$0.90",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fish Market wild caught skinless pacific cod fillets",
+    "price_now": "$9.89",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fish Market wild caught sockeye salmon skin on fillet",
+    "price_now": "$12.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fresh Market steelhead trout skin on fillet",
+    "price_now": "$10.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Heimland sliced smoked salmon",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® baby wipes, clean scent",
+    "price_now": "$2.15",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® baby wipes, fresh scent",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "coupon",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® baby wipes, sensitive",
+    "price_now": "$2.15",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Pampers® baby wipes, sensitive",
+    "price_now": "$6.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® diapers, size 2",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® diapers, size 3",
+    "price_now": "$14.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® diapers, size 3",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® diapers, size 4",
+    "price_now": "$14.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® diapers, size 4",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® diapers, size 5",
+    "price_now": "$14.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® diapers, size 6",
+    "price_now": "$14.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® swim diapers, medium",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® training pants, 3T-4T",
+    "price_now": "$7.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® training pants, 4T-5T",
+    "price_now": "$6.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® swim diapers, small",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Pampers® swaddlers baby diapers, size 4",
+    "price_now": "$27.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Pampers® swaddlers baby diapers, size 5",
+    "price_now": "$27.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Pampers® swaddlers baby diapers, size 6",
+    "price_now": "$27.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Pampers® swaddlers baby diapers, size 7",
+    "price_now": "$27.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Pampers® swaddlers diapers",
+    "price_now": "$27.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu organic apple peach banana with yogurt baby food. stage 2",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu organic baby food, apple & mango",
+    "price_now": "$0.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "coupon",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu organic baby food, apple & sweet potato",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu organic baby food, fruit avocado & kale",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu organic baby food, fruit yogurt spinach & kale",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu organic baby food, pear apple & broccoli",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu organic baby food, pear, strawberry, blueberry, red beet & flax",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® organic apple carrot baby food, stage 1",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® organic apple, pumpkin, quinoa & cinnamon baby food, stage 2",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® organic baby food, apple, pear & green pea",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic apple banana blueberry baby food, stage 2",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic apple banana blueberry with oats baby food, stage 2",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic apple banana strawberry yogurt, stage 2",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic apple pear spinach baby food, stage 2",
+    "price_now": "$0.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "coupon",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic banana apple apricot with brown rice baby food, stage 2",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® baby lotion",
+    "price_now": "$2.95",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® baby oil",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® baby powder",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® baby wash & shampoo",
+    "price_now": "$2.95",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® diaper rash cream",
+    "price_now": "$2.95",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lupilu® safety cotton swabs",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "disposable baby bibs",
+    "price_now": "$0.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "disposable bed mats",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "nursing pads",
+    "price_now": "$1.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "chocolate vanilla twist",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "granola, coconut",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "maple pecan pastry",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "mini chocolate croissant",
+    "price_now": "$0.59",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Nature Valley™ protein granola, oats & dark chocolate",
+    "price_now": "$4.47",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Nature Valley™ protein granola, oats & honey",
+    "price_now": "$4.47",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "old fashioned oats",
+    "price_now": "$3.35",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "pain au chocolat",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cheese twist",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "ciabatta bread",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "coupon",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "classic baguette",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "demi baguette",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "farmer's bread",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "French baguette",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "German sourdough bread",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "hazelnut chocolate croissant",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "chocolate chunk cookie",
+    "price_now": "$0.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "oatmeal raisin cookie",
+    "price_now": "$0.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cheese twist",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "ciabatta bread",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "coupon",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "classic baguette",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "demi baguette",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "farmer's bread",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "French baguette",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "German sourdough bread",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "hazelnut chocolate croissant",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Italian bread",
+    "price_now": "$1.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Muffin Town® authentic cornbread",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "multi-seed croissant",
+    "price_now": "$0.89",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "multigrain seeded bread",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "coupon",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "rosemary olive oil bread",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "rustic baguette",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "San Francisco sourdough loaf",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "tomato olive focaccia bread",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "walnut bread",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "whole grain bread, pumpernickel",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "whole grain bread, rye",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "chocolate covered donut",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "chocolate donut",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "chocolate filled donut",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cinnamon roll donut",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cronuts",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "glazed cake donut",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "glazed yeast donut",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "jelly-filled donut",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "dinner roll",
+    "price_now": "$0.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "everything NY bagel",
+    "price_now": "$0.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "German pretzel roll",
+    "price_now": "$0.89",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "plain NY bagel",
+    "price_now": "$0.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "apple fritter",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "apple turnover",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "blueberry muffin",
+    "price_now": "$1.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "brioche buns",
+    "price_now": "$0.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "butter croissant",
+    "price_now": "$0.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cinnamon roll",
+    "price_now": "$1.29",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "double chocolate muffin",
+    "price_now": "$1.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "German pretzel",
+    "price_now": "$0.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "pastel de nata egg custard tart",
+    "price_now": "$0.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "pepper and onion pizza",
+    "price_now": "$1.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Country Crock® original",
+    "price_now": "$5.93",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Country Crock® plant butter with olive oil",
+    "price_now": "$3.98",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "homestyle 40% vegetable oil spread",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "I Can't Believe It's Not Butter!® spread, original",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "mylidl",
+    "price_now": "$0.48",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Imperial® vegetable oil spread",
+    "price_now": "$1.25",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Kerrygold™ grass-fed Irish unsalted butter",
+    "price_now": "$4.84",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Kerrygold™ grass-fed pure Irish salted butter",
+    "price_now": "$4.84",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Land O'Lakes® salted butter",
+    "price_now": "$4.46",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Land O'Lakes® unsalted butter",
+    "price_now": "$4.46",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lidl Preferred Selection 100% Irish unsalted butter",
+    "price_now": "$3.39",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "salted spreadable butter with canola oil, 71% fat",
+    "price_now": "$3.39",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "salted spreadable butter with canola oil, light",
+    "price_now": "$3.39",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "sea salted spreadable butter with olive oil",
+    "price_now": "$3.39",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "sweet cream butter, salted",
+    "price_now": "$3.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "sweet cream butter, unsalted",
+    "price_now": "$3.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "tastes like butter",
+    "price_now": "$2.89",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "crumbled goat cheese, original",
+    "price_now": "$2.45",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Daisy® cottage cheese with blueberries",
+    "price_now": "$1.48",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Daisy® cottage cheese with pineapple",
+    "price_now": "$1.48",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Kingston Creamery™ blue cheese crumbles",
+    "price_now": "$2.39",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "grated cheese, Parmesan",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "grated cheese, Parmesan & Romano",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lidl Preferred Selection cheese cubes, emmentaler",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lidl Preferred Selection cheese cubes, gouda & mimolette",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lidl Preferred Selection cheese cubes, gouda with caraway",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "shredded mozzarella cheese, family size",
+    "price_now": "$7.99",
+    "price_before": null,
+    "important_info": "description shredded mozzarella cheese, family size"
+  },
+  {
+    "product_name": "Artikaas® aged Gouda",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Artikaas® baby swiss cheese",
+    "price_now": "$3.39",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Artikaas® smoked Gouda",
+    "price_now": "$3.38",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Asiago cheese",
+    "price_now": "$3.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "BelGioioso® fresh mozzarella sliced log",
+    "price_now": "$7.47",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Biazzo® whole milk mozzarella cheese",
+    "price_now": "$3.74",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Colby Jack cheese block",
+    "price_now": "$2.24",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Dutch Morning double cream Gouda cheese",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "mylidl",
+    "price_now": "$1.26",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "finely shredded Colby Jack cheese",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "finely shredded Colby Jack cheese",
+    "price_now": "$4.22",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "finely shredded Italian blend cheese",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "finely shredded Italian blend cheese",
+    "price_now": "$4.22",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "finely shredded Mexican style cheese",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "finely shredded Mexican style cheese",
+    "price_now": "$4.22",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "finely shredded Mexican style cheese, reduced fat",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "finely shredded mild cheddar cheese",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "American singles",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "American singles, 2% milk",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "deli sliced Gouda cheese",
+    "price_now": "$2.24",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "deli sliced Havarti cheese",
+    "price_now": "$2.24",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "deli sliced mild cheddar cheese",
+    "price_now": "$1.59",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "deli sliced mozzarella cheese",
+    "price_now": "$2.24",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "deli sliced Muenster cheese",
+    "price_now": "$2.24",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "deli sliced non-smoked provolone cheese",
+    "price_now": "$2.24",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Babybel® mini original cheese",
+    "price_now": "$3.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cheese cubes, Colby Jack",
+    "price_now": "$1.89",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cheese cubes, mild cheddar",
+    "price_now": "$1.89",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lidl Preferred Selection cheese cubes, emmentaler",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lidl Preferred Selection cheese cubes, gouda & mimolette",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lidl Preferred Selection cheese cubes, gouda with caraway",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "premium snacking cheese bars, Colby Jack",
+    "price_now": "$2.74",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "premium snacking cheese bars, sharp cheddar",
+    "price_now": "$2.74",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Alouette® Brie, double crème",
+    "price_now": "$7.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Alouette® crème de brie spreadable cheese, garlic & herbs",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Alouette® crème de brie spreadable cheese, original",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "BelGioioso® burrata",
+    "price_now": "$5.47",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "BelGioioso® mozzarella pearls in water",
+    "price_now": "$4.26",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Boursin® cheese, garlic & fine herbs",
+    "price_now": "$5.29",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Camembert cheese",
+    "price_now": "$3.55",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Cello® feta crumbles",
+    "price_now": "$2.29",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "deli sliced Colby Jack cheese",
+    "price_now": "$2.24",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "mozzarella string cheese",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Cass-Clay® cultured sour cream",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Cass-Clay® light cultured sour cream",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cream cheese block, original",
+    "price_now": "$1.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cream cheese spread, chive & onion",
+    "price_now": "$1.75",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cream cheese spread, garden vegetable",
+    "price_now": "$1.75",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cream cheese spread, plain",
+    "price_now": "$1.75",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cream cheese spread, strawberry",
+    "price_now": "$1.75",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Daisy® cottage cheese 2%",
+    "price_now": "$3.94",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Daisy® cottage cheese 4%",
+    "price_now": "$3.94",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Daisy® cottage cheese with strawberries",
+    "price_now": "$1.48",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Daisy® Pure & Natural® sour cream",
+    "price_now": "$2.64",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Daisy® Pure & Natural® sour cream",
+    "price_now": "$2.84",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lidl Preferred Selection plain goat cheese, spreadable",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Neufchâtel cream cheese block",
+    "price_now": "$1.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Philadelphia® cream cheese, original",
+    "price_now": "$2.98",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "sweet and tangy pimiento cheese",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Eggland's Best® grade A large eggs",
+    "price_now": "$3.82",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Eggland's Best® large white eggs, grade A",
+    "price_now": "$5.62",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Eggland's Best® organic large brown eggs, 12 count",
+    "price_now": "$5.37",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "grade A large eggs",
+    "price_now": "$4.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Green Valley extra large eggs",
+    "price_now": "$2.32",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Green Valley Farms large white eggs, grade A",
+    "price_now": "$1.96",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Green Valley large white eggs, grade A",
+    "price_now": "$2.88",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "large cage free brown eggs, grade A",
+    "price_now": "$3.89",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "large cage free brown eggs, grade A",
+    "price_now": "$5.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "liquid egg whites",
+    "price_now": "$4.75",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Nellie's® free range medium eggs",
+    "price_now": "$4.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic cage free large brown eggs, grade A",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic free range large brown eggs, grade A",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "pasture raised large brown eggs, grade A",
+    "price_now": "$5.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Pete & Gerry's® organic medium brown eggs, grade A",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Sauder's Fresh hard boiled peeled eggs",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "0% skim milk",
+    "price_now": "$1.47",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "1% lowfat milk",
+    "price_now": "$1.51",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "1% lowfat milk",
+    "price_now": "$2.98",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "2% reduced fat milk",
+    "price_now": "$2.98",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "2% reduced fat milk",
+    "price_now": "$1.62",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "almondmilk, chocolate",
+    "price_now": "$2.29",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "almondmilk, original",
+    "price_now": "$2.29",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "almondmilk, vanilla",
+    "price_now": "$2.29",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Califia Farms® coconut almondmilk blend",
+    "price_now": "$3.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Chobani® coffee creamer, sweet cream",
+    "price_now": "$5.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Chobani® coffee creamer, vanilla",
+    "price_now": "$5.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "chocolate milk, 1% lowfat",
+    "price_now": "$1.67",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "chocolate whole milk",
+    "price_now": "$2.06",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "coffee creamer, French vanilla flavored",
+    "price_now": "$2.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "coffee creamer, hazelnut flavored",
+    "price_now": "$2.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "coffee creamer, Italian sweet cream flavored",
+    "price_now": "$2.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "coffee creamer, vanilla caramel flavored",
+    "price_now": "$2.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Coffee Mate® coffee creamer, French vanilla",
+    "price_now": "$3.98",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Coffee Mate® coffee creamer, hazelnut",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Coffee Mate® coffee creamer, Italian sweet crème",
+    "price_now": "$3.98",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "coupon",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Coffee Mate® vanilla caramel creamer",
+    "price_now": "$3.98",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Coffee Toppers coffee foam, vanilla",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Dairy Maid® vitamin D milk",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "dairy whipped topping, original",
+    "price_now": "$2.95",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "extra creamy whipped topping",
+    "price_now": "$2.95",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "fairlife fat free ultra-filtered milk",
+    "price_now": "$4.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fairlife® 2% reduced fat ultra-filtered milk",
+    "price_now": "$4.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "fairlife® 2% reduced fat ultra-filtered milk, chocolate",
+    "price_now": "$4.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fairlife® chocolate single serve",
+    "price_now": "$2.38",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Fairlife® strawberry single serve",
+    "price_now": "$2.38",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "fairlife® whole ultra-filtered milk",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "French vanilla coffee creamer, zero sugar",
+    "price_now": "$2.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "half & half",
+    "price_now": "$2.59",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "heavy whipping cream",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "heavy whipping cream, grade A",
+    "price_now": "$2.95",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lactaid® 2% milk",
+    "price_now": "$6.38",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lactaid® whole milk",
+    "price_now": "$6.38",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "lactose free 2% reduced fat milk",
+    "price_now": "$2.85",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "lactose free fat free milk",
+    "price_now": "$2.85",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "lactose free whole milk",
+    "price_now": "$2.85",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Land O' Lakes heavy whipping cream",
+    "price_now": "$7.92",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Land O'Lakes® half and half",
+    "price_now": "$3.57",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lifeway® organic kefir, blueberry",
+    "price_now": "$3.66",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "lowfat cultured buttermilk",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Natural By Nature organic oat milk",
+    "price_now": "$3.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Nestlé® Coffee mate® coffee creamer, French vanilla",
+    "price_now": "$4.98",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Nestlé® Coffee mate® coffee creamer, original",
+    "price_now": "$4.98",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic reduced fat milk, 2%",
+    "price_now": "$4.05",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic soymilk, original",
+    "price_now": "$2.75",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic whole milk",
+    "price_now": "$4.05",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Planet Oat® oatmilk, original",
+    "price_now": "$3.38",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Silk® almond creamer, sweet & creamy",
+    "price_now": "$4.90",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Silk® almondmilk coffee creamer vanilla",
+    "price_now": "$4.90",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "unsweetened almondmilk, original",
+    "price_now": "$2.29",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "unsweetened almondmilk, vanilla",
+    "price_now": "$2.29",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "whole milk",
+    "price_now": "$3.26",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "whole milk",
+    "price_now": "$1.77",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Chobani® 20g protein lowfat Greek yogurt, raspberry lemon",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Chobani® 20g protein lowfat Greek yogurt, strawberry kiwi",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Chobani® 20g protein lowfat Greek yogurt, vanilla",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Chobani® Flip® Greek yogurt, cookie dough",
+    "price_now": "$1.38",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Chobani® Greek yogurt, cherry cheesecake",
+    "price_now": "$1.38",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Chobani® Greek yogurt, mango",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Chobani® Greek yogurt, mixed berry",
+    "price_now": "$4.67",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Danimals® smoothie strawberry banana",
+    "price_now": "$3.37",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Danimals® smoothie, strawberry",
+    "price_now": "$3.37",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "on the go lowfat yogurt tubes, strawberry & vanilla",
+    "price_now": "$1.95",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "caramel flan",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Queen chocolate pudding, high protein",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "rice pudding",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "blended lowfat vanilla yogurt",
+    "price_now": "$2.45",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "blended nonfat plain yogurt",
+    "price_now": "$2.45",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Dannon Activia® lowfat probiotic yogurt, strawberry",
+    "price_now": "$2.98",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "light nonfat yogurt, blueberry",
+    "price_now": "$0.59",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "light nonfat yogurt, peach",
+    "price_now": "$0.59",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "light nonfat yogurt, strawberry",
+    "price_now": "$0.59",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "light yogurt, cherry",
+    "price_now": "$0.59",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "light yogurt, key lime pie",
+    "price_now": "$0.59",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Chobani® complete yogurt drink, mixed berry vanilla",
+    "price_now": "$2.47",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Chobani® Greek yogurt drink, mango",
+    "price_now": "$1.78",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Chobani® Greek yogurt drink, mixed berry",
+    "price_now": "$1.78",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Chobani® Greek yogurt drink, strawberry banana",
+    "price_now": "$1.78",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Danimals® Paw Patrol™ smoothies, strawberry & mixed berry",
+    "price_now": "$5.64",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Danimals® smoothie, strawberry",
+    "price_now": "$3.37",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lifeway® kefir cultured lowfat milk, plain",
+    "price_now": "$3.66",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lifeway® kefir cultured lowfat milk, strawberry",
+    "price_now": "$3.66",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "avocado",
+    "price_now": "$0.59",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "mylidl",
+    "price_now": "$0.20",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "avocados",
+    "price_now": "$3.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "bananas",
+    "price_now": "$0.53",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "bartlett pear",
+    "price_now": "$4.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bartlett pears",
+    "price_now": "$1.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "black seedless grapes",
+    "price_now": "$1.87",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "blackberries",
+    "price_now": "$1.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "mylidl",
+    "price_now": "$1.08",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "blackberries",
+    "price_now": "$4.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cranberries",
+    "price_now": "$1.42",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Del Monte® melon trio spears",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "jumbo blueberries",
+    "price_now": "$4.92",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Peak Harvest mango spears",
+    "price_now": "$5.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Peak Harvest pineapple spears",
+    "price_now": "$4.58",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Pure Palm® coconut date bites",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Pure Palm® medjool dates",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "watermelon chunks",
+    "price_now": "$4.58",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "apple feta salad kit",
+    "price_now": "$3.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "mylidl",
+    "price_now": "$6.00",
+    "price_before": null,
+    "important_info": "description Must buy 2"
+  },
+  {
+    "product_name": "asparagus spears",
+    "price_now": "$3.84",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "baby spinach",
+    "price_now": "$4.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "bella sweets™ super sweet mini peppers",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "broccoli florets",
+    "price_now": "$2.47",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "butternut squash, diced",
+    "price_now": "$2.47",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "carrot chips",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "celery sticks",
+    "price_now": "$2.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "acorn squash",
+    "price_now": "$1.28",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "asparagus",
+    "price_now": "$3.52",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "baby carrots, 2 lb.",
+    "price_now": "$1.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "beefsteak tomatoes",
+    "price_now": "$1.89",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "beets",
+    "price_now": "$2.00",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "bella sweets™ super sweet mini peppers",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "broccoli crowns",
+    "price_now": "$1.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "broccoli florets",
+    "price_now": "$5.78",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Caesar salad kit",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic avocados, 4 count",
+    "price_now": "$2.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic baby carrots",
+    "price_now": "$1.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic bananas",
+    "price_now": "$0.68",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic blueberries",
+    "price_now": "$5.58",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic broccoli bunch",
+    "price_now": "$3.39",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic English cucumber",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic Gala apples, 2 lb. bag",
+    "price_now": "$3.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bolthouse Farms™ classic ranch dressing",
+    "price_now": "$3.78",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bolthouse Farms™ creamy Caesar dressing",
+    "price_now": "$3.78",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bothouse Farms™ cilantro avocado dressing",
+    "price_now": "$3.78",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cilantro",
+    "price_now": "$0.83",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "cranberries",
+    "price_now": "$1.42",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "organic potted basil",
+    "price_now": "$3.29",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "vegetable holiday hash",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Banquet® Brown 'N Serve™ frozen original sausage links",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Banquet® Brown 'N Serve™ frozen turkey sausage links",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Banquet® Brown 'N Serve™ frozen Vermont maple sausage links",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen blueberry waffles",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen buttermilk pancakes",
+    "price_now": "$3.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen buttermilk waffles",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen French toast sticks, double cinnamon",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen French toast sticks, original",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Atlanta Cheesecake Company® frozen chocolate lovers' variety cheesecake",
+    "price_now": "$11.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Edward's® Hershey's® frozen chocolate crème pie",
+    "price_now": "$6.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Edwards® frozen key lime pie",
+    "price_now": "$6.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen cheesecake bites",
+    "price_now": "$9.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen cheesecake sampler",
+    "price_now": "$4.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen cheesecake sampler",
+    "price_now": "$12.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen New York style two slice cheesecake",
+    "price_now": "$1.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen NY style cheesecake",
+    "price_now": "$11.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen mango chunks",
+    "price_now": "$2.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen mixed berries",
+    "price_now": "$6.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen organic mixed berries",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen tropical blend",
+    "price_now": "$5.65",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen wild blueberries",
+    "price_now": "$8.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Peak Harvest frozen blueberries",
+    "price_now": "$2.45",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Peak Harvest frozen blueberries, family size",
+    "price_now": "$6.99",
+    "price_before": null,
+    "important_info": "description Peak Harvest frozen blueberries, family size"
+  },
+  {
+    "product_name": "Peak Harvest frozen cherry berry blend",
+    "price_now": "$5.19",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bubba burger® frozen Angus beef burgers",
+    "price_now": "$14.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bubba burger® frozen beef burgers, original",
+    "price_now": "$13.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bubba burger® frozen turkey burgers",
+    "price_now": "$9.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Culver Duck frozen whole duck with orange sauce",
+    "price_now": "$3.29",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen 100% Angus sweet onion burger",
+    "price_now": "$9.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen Angus beef burgers, unseasoned",
+    "price_now": "$9.59",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen Buffalo style boneless chicken wyngz",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen crispy breaded dino nuggets",
+    "price_now": "$5.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "1001 delights frozen pide Turkish style pizza with cheese",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Caulipower® frozen uncured pepperoni pizza",
+    "price_now": "$7.86",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Caulipower® frozen white pizza",
+    "price_now": "$7.86",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "DiGiorno® frozen personal size pizza, four cheese",
+    "price_now": "$3.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "DiGiorno® frozen personal size pizza, pepperoni",
+    "price_now": "$3.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "DiGiorno® frozen rising crust pizza, four cheese",
+    "price_now": "$5.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "DiGiorno® frozen rising crust pizza, pepperoni",
+    "price_now": "$5.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Ellio's® frozen cheese pizza",
+    "price_now": "$3.76",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Alexia® frozen waffle cut sweet potato seasoned fries",
+    "price_now": "$5.42",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Alpenfest frozen soft pretzels",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Arby's® frozen seasoned curly fries",
+    "price_now": "$4.52",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Banquet® frozen beef pot pie",
+    "price_now": "$1.00",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Banquet® frozen chicken pot pie",
+    "price_now": "$1.00",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bibigo frozen mini wontons, chicken & vegetables",
+    "price_now": "$6.98",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "bibigo frozen pork & vegetable dumplings, mini wontons",
+    "price_now": "$6.98",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "bibigo frozen steamed dumplings, chicken & vegetable",
+    "price_now": "$3.52",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Eridanous frozen mussel meat",
+    "price_now": "$6.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen bay scallops",
+    "price_now": "$8.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen jumbo cooked shrimp, 26-30",
+    "price_now": "$6.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen medium cooked shrimp, 71-90",
+    "price_now": "$6.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen medium raw shrimp, 51-60",
+    "price_now": "$6.39",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen salad shrimp, 150-250",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen skinless tilapia fillets",
+    "price_now": "$8.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen wild caught pink salmon, boneless skin-on fillets",
+    "price_now": "$11.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Eridanous frozen whole flat beans",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen chopped spinach",
+    "price_now": "$1.16",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen organic cut green beans",
+    "price_now": "$1.19",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen skillet-ready seasoned vegetable blend, Asian style",
+    "price_now": "$3.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen skillet-ready seasoned vegetable blend, Italian style",
+    "price_now": "$3.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen skillet-ready seasoned vegetable blend, Mexican style",
+    "price_now": "$3.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen steamable Brussels sprouts",
+    "price_now": "$1.39",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "frozen steamable organic mixed vegetables",
+    "price_now": "$1.19",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bubba burger® frozen Angus beef burgers",
+    "price_now": "$14.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bubba burger® frozen beef burgers, original",
+    "price_now": "$13.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bubba burger® frozen turkey burgers",
+    "price_now": "$9.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Northern Chef® frozen boom boom shrimp",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Carlstadt Ice bagged ice",
+    "price_now": "$2.35",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bon Gelati frozen almond dairy dessert bars, family pack",
+    "price_now": "$6.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bon Gelati frozen chocolate crisp dairy dessert bars",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bon Gelati frozen chocolate gelato",
+    "price_now": "$4.39",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bon Gelati frozen dairy dessert bars, classic",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bon Gelati frozen dairy dessert bars, white almond",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bon Gelati frozen dairy dessert cones, chocolate vanilla",
+    "price_now": "$2.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bon Gelati frozen dairy dessert cones, hazelnut vanilla",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bon Gelati frozen dairy dessert cones, strawberry vanilla",
+    "price_now": "$2.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Peak Harvest frozen organic mixed vegetables",
+    "price_now": "$1.19",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Peak Harvest frozen organic steamable butternut squash",
+    "price_now": "$1.39",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Peak Harvest frozen organic sweet peas",
+    "price_now": "$1.19",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Peak Harvest frozen sweet potatoes",
+    "price_now": "$1.39",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "applewood smoked thick cut bacon, family size",
+    "price_now": "$5.99",
+    "price_before": null,
+    "important_info": "description applewood smoked thick cut bacon, family size"
+  },
+  {
+    "product_name": "Butterball® turkey bacon, lower sodium",
+    "price_now": "$3.48",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Butterball® turkey bacon, original",
+    "price_now": "$3.48",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "fully cooked bacon",
+    "price_now": "$3.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "hickory smoked bacon",
+    "price_now": "$4.72",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Jimmy Dean® applewood smoked bacon",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Jimmy Dean® Hickory smoked bacon",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "baby back pork ribs with barbecue sauce",
+    "price_now": "$10.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Ball Park® angus beef franks, bun size",
+    "price_now": "$7.24",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Ball Park® bun size beef franks",
+    "price_now": "$4.92",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "bone-in ham steak",
+    "price_now": "$3.97",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "bun length classic franks, family size",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description bun length classic franks, family size"
+  },
+  {
+    "product_name": "Butcher's Specialty beef bottom round roast, boneless",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Butcher's Specialty beef carne asada, boneless",
+    "price_now": "$7.49",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Butcher's Specialty beef ribeye steak",
+    "price_now": "$10.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "andouille chicken sausage",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Butcher's Specialty bone-in chicken thighs",
+    "price_now": "$1.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Butcher's Specialty bone-in chicken thighs",
+    "price_now": "$2.29",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Butcher's Specialty boneless / skinless chicken breast, family size",
+    "price_now": "$2.69",
+    "price_before": null,
+    "important_info": "description Butcher's Specialty boneless / skinless chicken breast, family size"
+  },
+  {
+    "product_name": "Butcher's Specialty boneless / skinless chicken breast, thin sliced",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Butcher's Specialty boneless/skinless chicken tenderloins",
+    "price_now": "$2.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "mylidl",
+    "price_now": "$1.50",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Butcher's Specialty chicken breasts with rib meat, boneless / skinless",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Butcher's Specialty chicken drumsticks",
+    "price_now": "$1.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "view more arrow-right-white",
+    "price_now": null,
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Butcher's Specialty grass-fed ground beef, 85% lean",
+    "price_now": "$6.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Butcher's Specialty grass-fed sirloin steak",
+    "price_now": "$6.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Hormel® original pepperoni",
+    "price_now": "$3.57",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Hormel® turkey pepperoni",
+    "price_now": "$3.57",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Lidl Preferred Selection pepperoni",
+    "price_now": "$4.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "original pepperoni slices",
+    "price_now": "$2.79",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Impossible® frozen ground beef",
+    "price_now": "$6.78",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Vemondo organic extra firm tofu",
+    "price_now": "$1.45",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Ball Park® bun size franks",
+    "price_now": "$3.48",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bar-S® smoked Polish sausage, family pack",
+    "price_now": "$6.48",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "breakfast sausage patties, original",
+    "price_now": "$2.69",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bridgford® summer sausage, garlic",
+    "price_now": "$6.62",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Bridgford® summer sausage, original",
+    "price_now": "$6.62",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "chicken sausage, spicy jalapeño",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Dulano apple chicken sausage",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  },
+  {
+    "product_name": "Dulano chicken sausage, Italian style",
+    "price_now": "$3.99",
+    "price_before": null,
+    "important_info": "description"
+  }
+]

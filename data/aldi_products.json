@@ -1,0 +1,4412 @@
+[
+  {
+    "product_name": "MÜLLER Müller Milk 400 ml, Banana",
+    "price": "€1.49",
+    "details": "each (1 L = €3.73)"
+  },
+  {
+    "product_name": "MÜLLER Müllermilch 400 ml, Chocolate",
+    "price": "€1.49",
+    "details": "each (1 L = €3.73)"
+  },
+  {
+    "product_name": "Eifel homemade sausage 160 g, liver sausage",
+    "price": "€1.89",
+    "details": "each (1 kg = €11.81)"
+  },
+  {
+    "product_name": "LANGNESE Family Mix",
+    "price": "€4.49",
+    "details": "each (1 L = €9.72)"
+  },
+  {
+    "product_name": "MILSANI active drink 8 x 100 g, natural",
+    "price": "€1.99",
+    "details": "each (1 kg = €2.49)"
+  },
+  {
+    "product_name": "MILSANI active drink 8 x 100 g, pomegranate",
+    "price": "€1.99",
+    "details": "each (1 kg = €2.49)"
+  },
+  {
+    "product_name": "MILSANI active drink 8 x 100 g, natural 0.1%",
+    "price": "€1.99",
+    "details": "each (1 kg = €2.49)"
+  },
+  {
+    "product_name": "MILSANI active drink 8 x 100 g, multifruit",
+    "price": "€1.99",
+    "details": "each (1 kg = €2.49)"
+  },
+  {
+    "product_name": "MILSANI milk drink 500 ml, banana",
+    "price": "€0.89",
+    "details": "each (1 L = €1.78)"
+  },
+  {
+    "product_name": "MILSANI Milk Drink 500 ml, Vanilla",
+    "price": "€0.89",
+    "details": "each (1 L = €1.78)"
+  },
+  {
+    "product_name": "MILSANI Fruit Buttermilk Dessert 200g, Cherry-Vanilla",
+    "price": "€0.65",
+    "details": "each (1 kg = €3.25)"
+  },
+  {
+    "product_name": "MILSANI Fruit Buttermilk Dessert 200g, Orange-Sea Buckthorn",
+    "price": "€0.65",
+    "details": "each (1 kg = €3.25)"
+  },
+  {
+    "product_name": "MILSANI Fruit Buttermilk Dessert 200g, Lemon-Lime",
+    "price": "€0.65",
+    "details": "each (1 kg = €3.25)"
+  },
+  {
+    "product_name": "MILSANI Soft Cheese Mini Cake 50% 150g, Natural",
+    "price": "€1.79",
+    "details": "each (1 kg = €11.93)"
+  },
+  {
+    "product_name": "MILSANI Soft Cheese Mini Cake 50% 150g, Pepper",
+    "price": "€1.79",
+    "details": "each (1 kg = €11.93)"
+  },
+  {
+    "product_name": "MILSANI Cream Kefir Fruit 250 g, Lemon",
+    "price": "€0.59",
+    "details": "each (1 kg = €2.36)"
+  },
+  {
+    "product_name": "MILSANI Cream Kefir Fruit 250g, Plum",
+    "price": "€0.59",
+    "details": "each (1 kg = €2.36)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Premium Sandwich 185 g, Caesar's Chicken",
+    "price": "€2.59",
+    "details": "each (1 kg = €14.00)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Premium Sandwich 185 g, Farmer Ham and Mozzarella.",
+    "price": "€2.59",
+    "details": "each (1 kg = €14.00)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Premium Sandwich 185 g, salmon",
+    "price": "€2.59",
+    "details": "each (1 kg = €14.00)"
+  },
+  {
+    "product_name": "MILSANI drinking yogurt 500 g, vanilla",
+    "price": "€0.95",
+    "details": "each (1 kg = €1.90)"
+  },
+  {
+    "product_name": "MILSANI Drinking Yogurt 500g, Peach-Passion Fruit",
+    "price": "€0.95",
+    "details": "each (1 kg = €1.90)"
+  },
+  {
+    "product_name": "MILSANI active drink 10 x 100 g, classic",
+    "price": "€2.49",
+    "details": "each (1 kg = €2.49)"
+  },
+  {
+    "product_name": "MILSANI active drink 10 x 100 g, strawberry",
+    "price": "€2.49",
+    "details": "each (1 kg = €2.49)"
+  },
+  {
+    "product_name": "MILSANI Fruit Yogurt 1 kg, Stracciatella",
+    "price": "€2.49",
+    "details": "each (1 kg = €2.49)"
+  },
+  {
+    "product_name": "MILSANI FruitYogurt 1 kg, Peach-Passion Fruit",
+    "price": "€2.49",
+    "details": "each (1 kg = €2.49)"
+  },
+  {
+    "product_name": "MILSANI Fruit Yogurt 1 kg, Strawberry",
+    "price": "€2.49",
+    "details": "each (1 kg = €2.49)"
+  },
+  {
+    "product_name": "MILSANI Fruit Yogurt 1 kg, Cherry",
+    "price": "€2.49",
+    "details": "each (1 kg = €2.49)"
+  },
+  {
+    "product_name": "MILSANI Natural Yogurt 1 kg, 3.5% fat",
+    "price": "€1.79",
+    "details": "each"
+  },
+  {
+    "product_name": "MILSANI Natural Yogurt 1 kg, 1.5% fat",
+    "price": "€1.79",
+    "details": "each"
+  },
+  {
+    "product_name": "MILSANI BiACTiv, low-fat yogurt natural 1.8% fat 200 g",
+    "price": "€0.39",
+    "details": "each (1 kg = €1.95)"
+  },
+  {
+    "product_name": "MILSANI Premium Yogurt 200g, Forest Fruit",
+    "price": "€0.49",
+    "details": "each (1 kg = €2.45)"
+  },
+  {
+    "product_name": "MILSANI skimmed milk yogurt 0.1% fat 500 g, mild natural yogurt",
+    "price": "€0.89",
+    "details": "each (1 kg = €1.78)"
+  },
+  {
+    "product_name": "MILSANI Yogurt 1.5% Fat 500g, mild natural yogurt, low-fat",
+    "price": "€0.89",
+    "details": "each (1 kg = €1.78)"
+  },
+  {
+    "product_name": "GOURMET Organic Gnocchi, unfilled, 500g, Classic",
+    "price": "€2.79",
+    "details": "each (1 kg = €5.58)"
+  },
+  {
+    "product_name": "MILSANI Fruit Compote 500 g, Red Berry Compote",
+    "price": "€2.19",
+    "details": "each (1 kg = €4.38)"
+  },
+  {
+    "product_name": "MILSANI Alpine yogurt 150 g, blackberry-blackcurrant",
+    "price": "€0.29",
+    "details": "each (1 kg = €1.93)"
+  },
+  {
+    "product_name": "MILSANI Fruit Junior 400g, Strawberry-Raspberry",
+    "price": "€0.99",
+    "details": "each (1 kg = €2.48)"
+  },
+  {
+    "product_name": "MILSANI Fruit Junior 400g, Strawberry-Cherry",
+    "price": "€0.99",
+    "details": "each (1 kg = €2.48)"
+  },
+  {
+    "product_name": "MILSANI Coffee Creamer Pot 12% 200 g",
+    "price": "€0.79",
+    "details": "each (1 kg = €3.95)"
+  },
+  {
+    "product_name": "MILSANI spray cream 250 ml, BeLight",
+    "price": "€2.29",
+    "details": "each (1 L = € 9.16)"
+  },
+  {
+    "product_name": "MILSANI Skyr Fruit 500g, Strawberry",
+    "price": "€1.69",
+    "details": "each (1 kg = €3.38)"
+  },
+  {
+    "product_name": "MILSANI Skyr fruit 500 g, vanilla",
+    "price": "€1.69",
+    "details": "each (1 kg = €3.38)"
+  },
+  {
+    "product_name": "MILSANI Skyr Fruit 500g, Cherry",
+    "price": "€1.69",
+    "details": "each (1 kg = €3.38)"
+  },
+  {
+    "product_name": "MILSANI Skyr Fruit 500g, Blueberry-Elderberry",
+    "price": "€1.69",
+    "details": "each (1 kg = €3.38)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Gourmet Salami 200 g, Brie",
+    "price": "€3.99",
+    "details": "each (1 kg = €19.95)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Gourmet Salami 200 g, Smoked",
+    "price": "€3.99",
+    "details": "each (1 kg = €19.95)"
+  },
+  {
+    "product_name": "GOURMET organic soups 400 ml, lentil",
+    "price": "€2.79",
+    "details": "each (1 L = €6.98)"
+  },
+  {
+    "product_name": "GOURMET Organic Soups 400 ml, Pumpkin",
+    "price": "€2.79",
+    "details": "each (1 L = €6.98)"
+  },
+  {
+    "product_name": "MILSANI Fruit Buttermilk Dessert 200g, Pear-Vanilla",
+    "price": "€0.65",
+    "details": "each (1 kg = €3.25)"
+  },
+  {
+    "product_name": "MILSANI Fruit Buttermilk Dessert 200g, Raspberry-Vanilla",
+    "price": "€0.65",
+    "details": "each (1 kg = €3.25)"
+  },
+  {
+    "product_name": "MILSANI Cream Kefir Fruit 250g, Cherry",
+    "price": "€0.59",
+    "details": "each (1 kg = €2.36)"
+  },
+  {
+    "product_name": "MILSANI Skyr fruit 500 g, vanilla",
+    "price": "€1.69",
+    "details": "each (1 kg = €3.38)"
+  },
+  {
+    "product_name": "MILSANI Skyr Fruit 500g, Cherry",
+    "price": "€1.69",
+    "details": "each (1 kg = €3.38)"
+  },
+  {
+    "product_name": "MILSANI Fruit Buttermilk Dessert 200g, Rhubarb",
+    "price": "€0.65",
+    "details": "each (1 kg = €3.25)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Chocolate Mousse 80 g, White Chocolate",
+    "price": "€1.69",
+    "details": "each (1 kg = €21.13)"
+  },
+  {
+    "product_name": "MILSANI Melting Slices 250 g, Toast",
+    "price": "€1.69",
+    "details": "each (1 kg = €6.76)"
+  },
+  {
+    "product_name": "MILSANI Quark Cream with Chocolate Shavings 200 g, Raspberry",
+    "price": "€0.85",
+    "details": "each (1 kg = €4.25)"
+  },
+  {
+    "product_name": "MILSANI cheese slices 150 g, Tilsiter",
+    "price": "€0.99",
+    "details": "each (1 kg = €6.60)"
+  },
+  {
+    "product_name": "MILSANI cheese slices 150 g, butter cheese",
+    "price": "€0.99",
+    "details": "each (1 kg = €6.60)"
+  },
+  {
+    "product_name": "MILSANI cheese slices 150 g, Edam",
+    "price": "€0.99",
+    "details": "each (1 kg = €6.60)"
+  },
+  {
+    "product_name": "MILSANI My Country Cheese 150g, Creamy",
+    "price": "€1.99",
+    "details": "each (1 kg = €13.27)"
+  },
+  {
+    "product_name": "MILSANI My Country Cheese 150g, Mild",
+    "price": "€1.99",
+    "details": "each (1 kg = €13.27)"
+  },
+  {
+    "product_name": "MILSANI My Country Cheese 150g, Spicy",
+    "price": "€1.99",
+    "details": "each (1 kg = €13.27)"
+  },
+  {
+    "product_name": "MILSANI My Country Cheese 120g, Fine",
+    "price": "€1.99",
+    "details": "each (1 kg = €16.58)"
+  },
+  {
+    "product_name": "Organic ready meals 350g, Chili sin Carne",
+    "price": "€1.69",
+    "details": "each (1 kg = €4.83)"
+  },
+  {
+    "product_name": "Organic ready meals 350g, tomato ravioli",
+    "price": "€1.69",
+    "details": "each (1 kg = €4.83)"
+  },
+  {
+    "product_name": "Organic Cocktail Vienna Sausages 160g",
+    "price": "€2.39",
+    "details": "Pack (1 kg = €14.94)"
+  },
+  {
+    "product_name": "Organic vegetable assortment 750g, young peas",
+    "price": "€2.69",
+    "details": "each (1 kg = €3.59)"
+  },
+  {
+    "product_name": "Organic vegetable assortment 750 g, leaf spinach",
+    "price": "€2.69",
+    "details": "each (1 kg = €3.59)"
+  },
+  {
+    "product_name": "GUT BIO Organic Yogurt 1.8% Fat 500g, Low Fat, Natural Yogurt",
+    "price": "€1.15",
+    "details": "each (1 kg = €2.30)"
+  },
+  {
+    "product_name": "GUT BIO Organic Yogurt 3.8% Fat 500g, creamy natural yogurt",
+    "price": "€1.15",
+    "details": "each (1 kg = €2.30)"
+  },
+  {
+    "product_name": "Organic vegetable assortment 750g, mixed carrots",
+    "price": "€2.69",
+    "details": "each (1 kg = €3.59)"
+  },
+  {
+    "product_name": "Organic vegetable assortment 750g, broccoli",
+    "price": "€2.69",
+    "details": "each (1 kg = €3.59)"
+  },
+  {
+    "product_name": "GOURMET organic soups 400 ml, tomato",
+    "price": "€2.79",
+    "details": "each (1 L = €6.98)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Liver pâtés 125 g, pepper",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €14.32)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Liver Pâtés 125 g, Truffle",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €14.32)"
+  },
+  {
+    "product_name": "Organic natural yogurt 1 kg, 3.8% fat",
+    "price": "€1.99",
+    "details": "each"
+  },
+  {
+    "product_name": "Organic salami 125g, pepper",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €19.92)"
+  },
+  {
+    "product_name": "Organic Vegetable Stir-fry 600g, French Style",
+    "price": "€2.49",
+    "details": "each (1 kg = €4.15)"
+  },
+  {
+    "product_name": "GUT BIO Organic French Country Cheese 130g, Herbs",
+    "price": "€2.59",
+    "details": "each (1 kg = €19.92)"
+  },
+  {
+    "product_name": "Organic Mountain Farmer's Cheese Varieties 250g, Snack Cheese",
+    "price": "€2.99",
+    "details": "each (1 kg = €11.96)"
+  },
+  {
+    "product_name": "Organic pasture-raised cheese 140g, Spicy Tilsiter",
+    "price": "€2.59",
+    "details": "each (1 kg = €18.50)"
+  },
+  {
+    "product_name": "GOURMET Organic Filled Gnocchi 250g, Tomato-Mozzarella",
+    "price": "€2.19",
+    "details": "each (1 kg = €8.76)"
+  },
+  {
+    "product_name": "GOURMET Spätzle 500g, Spelt",
+    "price": "€2.39",
+    "details": "each (1 kg = €4.78)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Roasted Duck Breast 80g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €24.88)"
+  },
+  {
+    "product_name": "GOURMET Spätzle 500g, Spinach",
+    "price": "€2.39",
+    "details": "each (1 kg = €4.78)"
+  },
+  {
+    "product_name": "GOURMET Spätzle 500 g, egg spaetzle",
+    "price": "€2.39",
+    "details": "each (1 kg = €4.78)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Dessert in a glass, praline",
+    "price": "€1.19",
+    "details": "each (1 kg = €19.83)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Dessert in a glass, Red berry compote",
+    "price": "€1.19",
+    "details": "each (1 kg = €19.83)"
+  },
+  {
+    "product_name": "ORGANIC organic cheese enjoyment 200 g, Gouda",
+    "price": "€1.99",
+    "details": "each (1 kg = €9.95)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Organic Gourmet Capers 180g, Capers with Garlic",
+    "price": "€3.49",
+    "details": "each (1 kg = €19.39)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Dessert in a glass 60 g, Strawberry-Pistachio",
+    "price": "€1.19",
+    "details": "each (1 kg = €19.83)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Dessert in a glass, chocolate eggnog",
+    "price": "€1.19",
+    "details": "each (1 kg = €19.83)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Dessert in a glass 60 g, Cheesecake-Red Fruits",
+    "price": "€1.19",
+    "details": "each (1 kg = €19.83)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Dessert in a glass 60 g, Double Chocolate",
+    "price": "€1.19",
+    "details": "each (1 kg = €19.83)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Macarons 144 g, Fruity",
+    "price": "€3.99",
+    "details": "each (1 kg = €27.71)"
+  },
+  {
+    "product_name": "Organic sliced ​​sausage 125g, fine liverwurst",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €14.32)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE venison medallions 300 g, venison medallions",
+    "price": "€8.99",
+    "details": "each (1 kg = €29.97)"
+  },
+  {
+    "product_name": "Organic soup/stew 400g, chicken soup",
+    "price": "€1.39",
+    "details": "each (1 kg = €3.48)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Prosciutto Cotto 120 g",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €24.92)"
+  },
+  {
+    "product_name": "Organic tortelloni 300g, meat",
+    "price": "€1.99",
+    "details": "each (1 kg = €6.63)"
+  },
+  {
+    "product_name": "ORGANIC organic tortelloni 300 g, spinach-ricotta",
+    "price": "€1.99",
+    "details": "each (1 kg = €6.63)"
+  },
+  {
+    "product_name": "GOURMET Stuffed Gnocchi 400g, Truffle",
+    "price": "€1.99",
+    "details": "each (1 kg = €4.98)"
+  },
+  {
+    "product_name": "GOURMET Stuffed Gnocchi 400g, Tomato-Mozzarella",
+    "price": "€1.99",
+    "details": "each (1 kg = €4.98)"
+  },
+  {
+    "product_name": "LE GUSTO Fix Mix 35 g, lasagna",
+    "price": "€0.39",
+    "details": "each (1 kg = €11.14)"
+  },
+  {
+    "product_name": "LE GUSTO Fix Mix 35 g, roast roulade",
+    "price": "€0.39",
+    "details": "each (1 kg = €11.14)"
+  },
+  {
+    "product_name": "BBQ grilled cheese 150 g, herbs",
+    "price": "€1.99",
+    "details": "each (1 kg = €13.27)"
+  },
+  {
+    "product_name": "BBQ marinated grilled cheese 200 g, herbs",
+    "price": "€2.59",
+    "details": "each (1 kg = €12.95)"
+  },
+  {
+    "product_name": "LE GUSTO Seasonal Soup 750 ml, Tomato Cream",
+    "price": null,
+    "details": null
+  },
+  {
+    "product_name": "LE GUSTO Saison soup 750 ml, asparagus cream",
+    "price": null,
+    "details": null
+  },
+  {
+    "product_name": "LE GUSTO Seasonal Soup 750 ml, Wild Mushroom",
+    "price": null,
+    "details": null
+  },
+  {
+    "product_name": "LE GUSTO instant soup 750 ml, onion soup",
+    "price": "€0.59",
+    "details": "each (1 L = €0.79)"
+  },
+  {
+    "product_name": "LE GUSTO Beef Broth",
+    "price": "€0.99",
+    "details": "each (1 kg = €7.86)"
+  },
+  {
+    "product_name": "LE GUSTO Chicken Broth",
+    "price": "€0.99",
+    "details": "each (1 kg = €7.86)"
+  },
+  {
+    "product_name": "BBQ baguettes, twin pack, 350g, garlic",
+    "price": "€1.49",
+    "details": "each (1 kg = €4.26)"
+  },
+  {
+    "product_name": "BBQ Fried and Grilled Cheese Patties 240 g, Vegetable Patties",
+    "price": "€2.54",
+    "details": "each (1 kg = €10.58)"
+  },
+  {
+    "product_name": "WONNEMEYER Meat Salad 200 g, Fine Meat Salad",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "ASIA GREEN GARDEN Asian Ready Meals 400g, Chili",
+    "price": "€1.79",
+    "details": "each (1 kg = €4.48)"
+  },
+  {
+    "product_name": "ASIA GREEN GARDEN Asian Ready Meals 400g, Peanut",
+    "price": "€1.79",
+    "details": "each (1 kg = €4.48)"
+  },
+  {
+    "product_name": "ASIA GREEN GARDEN Asian Ready Meals 400g, Teriyaki",
+    "price": "€1.79",
+    "details": "each (1 kg = €4.48)"
+  },
+  {
+    "product_name": "ZOTT Creamy Yogurt 150g, Peach-Passion Fruit",
+    "price": "€0.89",
+    "details": "each (1 kg = €5.93)"
+  },
+  {
+    "product_name": "ZOTT Creamy Yogurt 150g, Lemon",
+    "price": "€0.89",
+    "details": "each (1 kg = €5.93)"
+  },
+  {
+    "product_name": "WONNEMEYER Sushi Maki Mix 120 g, avocado",
+    "price": "€1.99",
+    "details": "each (1 kg = €16.58)"
+  },
+  {
+    "product_name": "WONNEMEYER Sushi Maki Mix 120 g, Cucumber",
+    "price": "€1.99",
+    "details": "each (1 kg = €16.58)"
+  },
+  {
+    "product_name": "EHRMANN High Protein Yogurt 200g, Strawberry",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "EHRMANN High Protein Yogurt 200g, Chocolate Balls",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Fruit Yogurt 250g, Berry Mix",
+    "price": "€0.89",
+    "details": "each (1 kg = €3.56)"
+  },
+  {
+    "product_name": "LYTTOS Greek-style yogurt 600g, honey",
+    "price": "€1.59",
+    "details": "each (1 kg = €2.65)"
+  },
+  {
+    "product_name": "LYTTOS Greek-style fruit yogurt 600g, cherry",
+    "price": "€1.59",
+    "details": "each (1 kg = €2.65)"
+  },
+  {
+    "product_name": "LYTTOS Greek-style fruit yogurt 600g, blood orange-pomegranate",
+    "price": "€1.59",
+    "details": "each (1 kg = €2.65)"
+  },
+  {
+    "product_name": "WONNEMEYER Baguette 175 g, Garlic",
+    "price": "€0.99",
+    "details": "each (1 kg = €5.66)"
+  },
+  {
+    "product_name": "WONNEMEYER Olive Assortment 100g, Olive Mix",
+    "price": "€1.19",
+    "details": "each (1 kg = €11.90)"
+  },
+  {
+    "product_name": "WONNEMEYER Olive Assortment 100g, Olives with Cream Cheese and Lemon",
+    "price": "€1.19",
+    "details": "each (1 kg = €11.90)"
+  },
+  {
+    "product_name": "WONNEMEYER Olive Assortment 100g, Olives with Almonds",
+    "price": "€1.19",
+    "details": "each (1 kg = €11.90)"
+  },
+  {
+    "product_name": "ASIA GREEN GARDEN Spring Rolls 360 g, Samosa",
+    "price": "€2.79",
+    "details": "each (1 kg = €7.75)"
+  },
+  {
+    "product_name": "ASIA GREEN GARDEN Spring Rolls 400g, Vegetarian",
+    "price": "€2.79",
+    "details": "each (1 kg = €6.98)"
+  },
+  {
+    "product_name": "WONNEMEYER salad menu Classic 350 g, tomato & mozzarella",
+    "price": "€2.99",
+    "details": "each (1 kg = €8.54)"
+  },
+  {
+    "product_name": "EHRMANN Almighurt 150 g, Peach-Passion Fruit",
+    "price": "€0.89",
+    "details": "each (1 kg = €5.93)"
+  },
+  {
+    "product_name": "EHRMANN Almighurt 150 g, Pineapple",
+    "price": "€0.89",
+    "details": "each (1 kg = €5.93)"
+  },
+  {
+    "product_name": "EHRMANN Almighurt 150 g, Cherry",
+    "price": "€0.89",
+    "details": "each (1 kg = €5.93)"
+  },
+  {
+    "product_name": "EHRMANN Almighurt 150 g, Blueberry",
+    "price": "€0.89",
+    "details": "each (1 kg = €5.93)"
+  },
+  {
+    "product_name": "EHRMANN Almighurt 150 g, Apricot",
+    "price": "€0.89",
+    "details": "each (1 kg = €5.93)"
+  },
+  {
+    "product_name": "EHRMANN Almighurt 150 g, Strawberry",
+    "price": "€0.89",
+    "details": "each (1 kg = €5.93)"
+  },
+  {
+    "product_name": "EHRMANN Almighurt 150 g, Raspberry",
+    "price": "€0.89",
+    "details": "each (1 kg = €5.93)"
+  },
+  {
+    "product_name": "BAUER The Big Farmer 250 g, Vanilla",
+    "price": "€0.99",
+    "details": "each (1 kg = €3.96)"
+  },
+  {
+    "product_name": "BAUER The Big Farmer 250g, Strawberry",
+    "price": "€0.99",
+    "details": "each (1 kg = €3.96)"
+  },
+  {
+    "product_name": "BAUER The Big Farmer 250 g, Cherry",
+    "price": "€0.99",
+    "details": "each (1 kg = €3.96)"
+  },
+  {
+    "product_name": "BAUER The Big Farmer 250 g, Peach-Passion Fruit",
+    "price": "€0.99",
+    "details": "each (1 kg = €3.96)"
+  },
+  {
+    "product_name": "BAUER The Big Farmer 250 g, Raspberry",
+    "price": "€0.99",
+    "details": "each (1 kg = €3.96)"
+  },
+  {
+    "product_name": "BAUER Der Grosse Bauer 250 g, Blueberry-Blackcurrant",
+    "price": "€0.99",
+    "details": "each (1 kg = €3.96)"
+  },
+  {
+    "product_name": "EHRMANN Almighurt 150 g, Lemon",
+    "price": "€0.89",
+    "details": "each (1 kg = €5.93)"
+  },
+  {
+    "product_name": "WONNEMEYER Delicatessen Salad 400g, Coleslaw with Cream",
+    "price": "€1.49",
+    "details": "each (1 kg = €3.73)"
+  },
+  {
+    "product_name": "WONNEMEYER Delicatessen Salad 250 g, Egg",
+    "price": "€1.69",
+    "details": "each (1 kg = €6.76)"
+  },
+  {
+    "product_name": "WONNEMEYER Delicatessen Salad 400 g, Pasta",
+    "price": "€1.49",
+    "details": "each (1 kg = €3.73)"
+  },
+  {
+    "product_name": "WONNEMEYER Delicatessen Salad 250 g, Lyoner",
+    "price": "€1.69",
+    "details": "each (1 kg = €6.76)"
+  },
+  {
+    "product_name": "WONNEMEYER Delicatessen Salad 400 g, Egg / Cucumber",
+    "price": "€1.49",
+    "details": "each (1 kg = €3.73)"
+  },
+  {
+    "product_name": "WONNEMEYER pasta salads 250 g, penne feta",
+    "price": "€1.99",
+    "details": "each (1 kg = €7.96)"
+  },
+  {
+    "product_name": "WONNEMEYER Pasta Salads 250 g, Penne with Ham",
+    "price": "€1.99",
+    "details": "each (1 kg = €7.96)"
+  },
+  {
+    "product_name": "WONNEMEYER Pasta Salads 250 g, Fusilli Chicken",
+    "price": "€1.99",
+    "details": "each (1 kg = €7.96)"
+  },
+  {
+    "product_name": "WONNEMEYER pasta salads 250 g, macaroni and tomato",
+    "price": "€1.99",
+    "details": "each (1 kg = €7.96)"
+  },
+  {
+    "product_name": "WONNEMEYER Mediterranean Antipasti 150 g, Dried Tomatoes",
+    "price": "€1.99",
+    "details": "each (1 kg = €13.27)"
+  },
+  {
+    "product_name": "WONNEMEYER Pasta Salads 250 g, Farfalle Chicken",
+    "price": "€1.99",
+    "details": "each (1 kg = €7.96)"
+  },
+  {
+    "product_name": "WONNEMEYER pasta salads 250 g, rigatoni bacon",
+    "price": "€1.99",
+    "details": "each (1 kg = €7.96)"
+  },
+  {
+    "product_name": "WONNEMEYER Salad Menu Variety 350g, Pasta with Pulled Pork",
+    "price": "€2.99",
+    "details": "each (1 kg = €8.54)"
+  },
+  {
+    "product_name": "WONNEMEYER Salad Mix 350g, Lentils with Chicken",
+    "price": "€2.99",
+    "details": "each (1 kg = €8.54)"
+  },
+  {
+    "product_name": "WONNEMEYER cherry peppers 150 g, peppers",
+    "price": "€1.99",
+    "details": "each (1 kg = €13.27)"
+  },
+  {
+    "product_name": "ZOTT cream yoghurt 140 g, strawberry",
+    "price": "€0.89",
+    "details": "each (1 kg = €6.36)"
+  },
+  {
+    "product_name": "ZOTT Creamy Yogurt 140g, Peach-Passion Fruit",
+    "price": "€0.89",
+    "details": "each (1 kg = €6.36)"
+  },
+  {
+    "product_name": "ZOTT Creamy Yogurt 140g, Baked Apple",
+    "price": "€0.89",
+    "details": "each (1 kg = €6.36)"
+  },
+  {
+    "product_name": "ZOTT Creamy Yogurt 140g, Amarena Cherry",
+    "price": "€0.89",
+    "details": "each (1 kg = €6.36)"
+  },
+  {
+    "product_name": "WONNEMEYER Meat Salad 400g, without cucumber",
+    "price": "€1.69",
+    "details": "each"
+  },
+  {
+    "product_name": "MUCCI Less and Tasty 0.5 l, vanilla walnut",
+    "price": "€1.99",
+    "details": "each (1 L = €3.98)"
+  },
+  {
+    "product_name": "MARS Snickers Ice Cream White 204 g",
+    "price": "€3.49",
+    "details": "each (1 L = €15.65)"
+  },
+  {
+    "product_name": "LANGNESE Kids & Classics ice cream 420 ml, Cuja Mara Split",
+    "price": "€3.89",
+    "details": "each (1 L = € 9.26)"
+  },
+  {
+    "product_name": "MUCCI Ice Cream Bar 300 ml, Coconut",
+    "price": "€1.79",
+    "details": "each (1 L = € 5.97)"
+  },
+  {
+    "product_name": "MUCCI Buttermilk Ice Cream Sandwich 217g, Lemon",
+    "price": "€1.99",
+    "details": "each (1 L = €3.69)"
+  },
+  {
+    "product_name": "MAGNUM Mini 330 ml, Classic",
+    "price": "€4.49",
+    "details": "each (1 L = €13.61)"
+  },
+  {
+    "product_name": "MAGNUM Double Sunlover 255 ml",
+    "price": "€3.99",
+    "details": "each (1 L = €15.65)"
+  },
+  {
+    "product_name": "MUCCI Fruit Ice Cream Bars 600g, Pineapple",
+    "price": "€1.59",
+    "details": "each (1 L = € 2.65)"
+  },
+  {
+    "product_name": "BERNBACHER Bolognaise Sauce 170 ml",
+    "price": "€1.79",
+    "details": "each (1 L = €10.53)"
+  },
+  {
+    "product_name": "MARS Ice Cream 200g",
+    "price": "€3.49",
+    "details": "each (1 L = €14.13)"
+  },
+  {
+    "product_name": "KIDS Bueno Ice Cream 360 ml, White",
+    "price": "€3.89",
+    "details": "each (1 L = €10.81)"
+  },
+  {
+    "product_name": "MAGNUM Double Gold Caramel Billionaire 255 ml",
+    "price": "€3.99",
+    "details": "each (1 L = €15.65)"
+  },
+  {
+    "product_name": "MUCCI Swirly 3 x 140 ml, chocolate beans",
+    "price": "€2.99",
+    "details": "each (1 L = €7.12)"
+  },
+  {
+    "product_name": "MUCCI Swirly 3 x 140 ml, Black & White",
+    "price": "€2.99",
+    "details": "each (1 L = €7.12)"
+  },
+  {
+    "product_name": "MUCCI Mochi Ice Cream 210g, Mango",
+    "price": "€2.69",
+    "details": "each (1 L = €12.45)"
+  },
+  {
+    "product_name": "MUCCI Super Soft Ice Cream Cone 560 ml, Tricolore",
+    "price": "€1.69",
+    "details": "each (1 L = €3.02)"
+  },
+  {
+    "product_name": "MUCCI Super Soft Ice Cream Cone 560 ml, Cookies & Cream",
+    "price": "€1.69",
+    "details": "each (1 L = €3.02)"
+  },
+  {
+    "product_name": "MUCCI Ice Cream Tub Tricolor 1 l, Cafe-Vanilla-Chocolate",
+    "price": "€1.99",
+    "details": "each (1 L = €1.99)"
+  },
+  {
+    "product_name": "MUCCI Chocolate Ice Cream Sticks, Hazelnut 432 ml",
+    "price": "€1.99",
+    "details": "each (1 L = €4.61)"
+  },
+  {
+    "product_name": "MUCCI Chocolate Nougat Ice Cream Bars 444 ml",
+    "price": "€1.99",
+    "details": "each (1 L = €4.48)"
+  },
+  {
+    "product_name": "MUCCI Ice Cream Sandwich Stracciatella 510 ml",
+    "price": "€1.79",
+    "details": "each (1 L = €3.51)"
+  },
+  {
+    "product_name": "LANDBECK Saletti 2 chain 50 g, classic",
+    "price": "€0.99",
+    "details": "each (1 kg = €19.80)"
+  },
+  {
+    "product_name": "LANDBECK Salametti 100 g, Mediterranean",
+    "price": "€1.99",
+    "details": "each (1 kg = €19.90)"
+  },
+  {
+    "product_name": "FANTASTIC! Flammkuchen 255g, 4-cheese",
+    "price": "€2.39",
+    "details": "each (1 kg = €9.37)"
+  },
+  {
+    "product_name": "PIZZ'AH frozen baguettes 6 x 125 g, Provence",
+    "price": "€2.99",
+    "details": "each (1 kg = €3.99)"
+  },
+  {
+    "product_name": "CUCINA Grana Padano 200 g",
+    "price": "€4.29",
+    "details": "each (1 kg = €21.45)"
+  },
+  {
+    "product_name": "GÜLDENHOF Poultry Meatballs 500g, Mini Peppers",
+    "price": "€3.19",
+    "details": "Pack (1 kg = €6.38)"
+  },
+  {
+    "product_name": "BEST FROM THE REGION Bavarian Soft Cheese 350g, Spicy",
+    "price": "€3.59",
+    "details": "each (1 kg = €10.26)"
+  },
+  {
+    "product_name": "ALL SEASONS Stir-fried Vegetables 750g, Asian Style",
+    "price": "€1.99",
+    "details": "each (1 kg = €2.65)"
+  },
+  {
+    "product_name": "ALL SEASONS Stir-fried Vegetables 750g, Gourmet Style",
+    "price": "€1.99",
+    "details": "each (1 kg = €2.65)"
+  },
+  {
+    "product_name": "MEAL TIME Microwave Fries 140g, Curly",
+    "price": "€1.39",
+    "details": "each (1 kg = €9.93)"
+  },
+  {
+    "product_name": "MEAL TIME Microwave Fries 140g, Extra Thin",
+    "price": "€1.39",
+    "details": "each (1 kg = €9.93)"
+  },
+  {
+    "product_name": "MY CAKE WORLD Cherry Strudel 500 g",
+    "price": "€2.19",
+    "details": "each (1 kg = €4.38)"
+  },
+  {
+    "product_name": "MY CAKE WORLD Blueberry Quark Strudel 500 g",
+    "price": "€2.19",
+    "details": "each (1 kg = €4.38)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Meatballs 500 g, Mini Frikadellen",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €5.98)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Gratin Cheese 150g, Mountain Cheese",
+    "price": "€1.99",
+    "details": "each (1 kg = €13.27)"
+  },
+  {
+    "product_name": "MEAL TIME Pasta Specialties 750g, Penne Bolognese",
+    "price": "€2.99",
+    "details": "each (1 kg = €3.99)"
+  },
+  {
+    "product_name": "ALL SEASONS Strawberries 750g, unsweetened",
+    "price": "€3.49",
+    "details": "each (1 kg = €4.65)"
+  },
+  {
+    "product_name": "ALL SEASONS Summer Fruit 750g, unsweetened",
+    "price": "€3.49",
+    "details": "each (1 kg = €4.65)"
+  },
+  {
+    "product_name": "ALL SEASONS Winter Fruit 750 g, unsweetened",
+    "price": "€3.49",
+    "details": "each (1 kg = €4.65)"
+  },
+  {
+    "product_name": "MY CHEESE COUNTER Bavarian Soft Cheese 350 g, Classic",
+    "price": "€3.59",
+    "details": "each (1 kg = €10.26)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Mountain Farmers Soft Cheese 200g, Spicy",
+    "price": "€3.69",
+    "details": "each (1 kg = €18.45)"
+  },
+  {
+    "product_name": "CUCINA NOBILE Fresh Pasta Specialties 400g, Pork",
+    "price": "€1.89",
+    "details": "each (1 kg = €4.73)"
+  },
+  {
+    "product_name": "ROI DE TREFLE Tender slices 175 g, Spicy and aromatic",
+    "price": "€2.69",
+    "details": "each"
+  },
+  {
+    "product_name": "PIZZ'AH Wood-fired Pizza 350g, Tricolore",
+    "price": "€2.99",
+    "details": "each (1 kg = €8.54)"
+  },
+  {
+    "product_name": "PIZZ'AH Wood-fired Pizza 400g, Fantasia",
+    "price": "€2.99",
+    "details": "each (1 kg = €7.48)"
+  },
+  {
+    "product_name": "PIZZ'AH Wood-fired Pizza 350g, Mediterranea",
+    "price": "€2.99",
+    "details": "each (1 kg = €8.54)"
+  },
+  {
+    "product_name": "PIZZ'AH Pizzeria Pizza, Diavolo 2 x 355 g",
+    "price": "€3.49",
+    "details": "each (1 kg = €4.99)"
+  },
+  {
+    "product_name": "PHILADELPHIA Cream Cheese 175g, Chives",
+    "price": "€2.29",
+    "details": "each (1 kg = €13.09)"
+  },
+  {
+    "product_name": "PHILADELPHIA Cream Cheese 195 g, Balance",
+    "price": "€2.29",
+    "details": "each (1 kg = €11.74)"
+  },
+  {
+    "product_name": "PHILADELPHIA Cream Cheese 195 g, Herbs",
+    "price": "€2.29",
+    "details": "each (1 kg = €11.74)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Cheese Slices 150g, Mountain Cheese",
+    "price": "€2.39",
+    "details": "each (1 kg = €15.93)"
+  },
+  {
+    "product_name": "PHILADELPHIA Cream Cheese 195 g, Double Cream Original",
+    "price": "€2.29",
+    "details": "each (1 kg = €11.74)"
+  },
+  {
+    "product_name": "PIZZ'AH Gigante 460 g, Salami",
+    "price": "€3.49",
+    "details": "each (1 kg = €7.59)"
+  },
+  {
+    "product_name": "PIZZ'AH Gigante 480 g, Ham",
+    "price": "€3.49",
+    "details": "each (1 kg = €7.27)"
+  },
+  {
+    "product_name": "DR. OETKER High Protein Pudding 400 g, Chocolate",
+    "price": "€1.99",
+    "details": "each (1 kg = €4.98)"
+  },
+  {
+    "product_name": "ROI DE TREFLE Fraîcho 150 g, sea salt",
+    "price": "€0.99",
+    "details": "each (1 kg = €6.60)"
+  },
+  {
+    "product_name": "ROI DE TREFLE Fraîcho 150 g, fine herbs",
+    "price": "€0.99",
+    "details": "each (1 kg = €6.60)"
+  },
+  {
+    "product_name": "ROI DE TREFLE Fraîcho 150 g, green pepper",
+    "price": "€0.99",
+    "details": "each (1 kg = €6.60)"
+  },
+  {
+    "product_name": "PIZZ'AH Pizzeria Pizza 680g, 4-Cheese",
+    "price": "€3.49",
+    "details": "each (1 kg = €5.13)"
+  },
+  {
+    "product_name": "MY VAY Vegan Vegetable Balls 200g",
+    "price": "€1.99",
+    "details": "each (1 kg = €9.95)"
+  },
+  {
+    "product_name": "GÜLDENHOF Poultry Meatballs 500 g, Meatball Balls",
+    "price": "€3.19",
+    "details": "Pack (1 kg = €6.38)"
+  },
+  {
+    "product_name": "MILRAM cheese slices 260 g, Müritzer",
+    "price": "€2.99",
+    "details": "each (1 kg = €11.50)"
+  },
+  {
+    "product_name": "LANDFREUDE Potato Variations 500g, Fried Potatoes",
+    "price": "€1.69",
+    "details": "each (1 kg = €3.38)"
+  },
+  {
+    "product_name": "SNACK TIME Sushi Box 220 g, Yodo",
+    "price": "€2.99",
+    "details": "each (1 kg = €13.59)"
+  },
+  {
+    "product_name": "ROI DE TREFLE French soft cheese 200 g, Spicy",
+    "price": "€1.89",
+    "details": "each (1 kg = €9.45)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Grated Cheese 150g, Emmental",
+    "price": "€1.89",
+    "details": "each (1 kg = €12.60)"
+  },
+  {
+    "product_name": "ALMARE SEAFOOD herring fillet 200 g, tomato mozzarella",
+    "price": "€1.09",
+    "details": "each (1 kg = €5.45)"
+  },
+  {
+    "product_name": "MEAL TIME Potato wedges 750 g, bell peppers",
+    "price": "€1.59",
+    "details": "each (1 kg = €2.12)"
+  },
+  {
+    "product_name": "MEAL TIME Potato wedges 750 g, Mediterranean",
+    "price": "€1.59",
+    "details": "each (1 kg = €2.12)"
+  },
+  {
+    "product_name": "DINNERTIME Steakhouse Fries 750g, Rustic",
+    "price": "€1.49",
+    "details": "each (1 kg = €1.99)"
+  },
+  {
+    "product_name": "ALMARE Matjes herring fillet with sauce 250 g, Sylt-style sauce",
+    "price": "€2.69",
+    "details": "each (1 kg = €10.76)"
+  },
+  {
+    "product_name": "MÜLLER Kalinka Kefir 0.5 l",
+    "price": "€0.88",
+    "details": "each (1 kg = €1.76)"
+  },
+  {
+    "product_name": "LANDBECK Kabanos 200 g, Paprika",
+    "price": "€2.39",
+    "details": "each (1 kg = €11.95)"
+  },
+  {
+    "product_name": "SAUPIQUET Tuna for Pasta 160g, Garlic-Peperoncino",
+    "price": "€2.19",
+    "details": "each (1 kg = €13.69)"
+  },
+  {
+    "product_name": "EHRMANN Grand Dessert 190 g, Double Coffee",
+    "price": "€0.49",
+    "details": "each (1 kg = €2.58)"
+  },
+  {
+    "product_name": "MÜLLER Rice Pudding 200 g, Vanilla",
+    "price": "€0.39",
+    "details": "each (1 kg = €1.95)"
+  },
+  {
+    "product_name": "MÜLLER Rice Pudding 200g, Chocolate",
+    "price": "€0.39",
+    "details": "each (1 kg = €1.95)"
+  },
+  {
+    "product_name": "MY BUTCHER SHOP Mettwurst Specialties 200g, Onion Mettwurst",
+    "price": "€2.29",
+    "details": "Pack (1 kg = €11.45)"
+  },
+  {
+    "product_name": "GÜLDENHOF Reduced Fat Poultry Salami 100g, Paprika",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €19.90)"
+  },
+  {
+    "product_name": "ALL SEASONS Mushroom Mix 300g, Chanterelles",
+    "price": "€2.99",
+    "details": "each (1 kg = €9.97)"
+  },
+  {
+    "product_name": "MY VAY Mozzalino 100 g, mozzarella basil",
+    "price": "€1.39",
+    "details": "each (1 kg = €13.90)"
+  },
+  {
+    "product_name": "CUCINA NOBILE Original Italian Pinsa 230 g, Whole Grain",
+    "price": "€2.59",
+    "details": "each (1 kg = €11.26)"
+  },
+  {
+    "product_name": "NUR NUR NATUR Bio-Suppe 375 ml, Karotte-Ingwer",
+    "price": "€1.99",
+    "details": "each (1 L = € 5.31)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Soup 375 ml, Potato Soup",
+    "price": "€1.99",
+    "details": "each (1 L = € 5.31)"
+  },
+  {
+    "product_name": "LANDFREUDE Knöpfle 500 g",
+    "price": "€1.79",
+    "details": "each (1 kg = €3.58)"
+  },
+  {
+    "product_name": "CUCINA Salsiccia 300 g, classic",
+    "price": "€3.49",
+    "details": "Pack (1 kg = €11.63)"
+  },
+  {
+    "product_name": "MEAL TIME Ravioli 800 g, Bolognese",
+    "price": "€1.79",
+    "details": "each (1 kg = €2.24)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Premium Bowls 300 g, beef kidney bean",
+    "price": "€3.49",
+    "details": "each (1 kg = €11.63)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Premium Bowls 300g, Salmon and Radish",
+    "price": "€3.49",
+    "details": "each (1 kg = €11.63)"
+  },
+  {
+    "product_name": "ERGÜLLÜ Antipasti Creams 125 g, Spicy Greek",
+    "price": "€2.59",
+    "details": "each (1 kg = €20.72)"
+  },
+  {
+    "product_name": "ERGÜLLÜ Antipasti Creams 125 g, White Greek",
+    "price": "€2.59",
+    "details": "each (1 kg = €20.72)"
+  },
+  {
+    "product_name": "CUCINA Pinsa 350 g, tomato mozzarella",
+    "price": "€3.49",
+    "details": "each (1 kg = €9.97)"
+  },
+  {
+    "product_name": "CUCINA Pinsa 350 g, Salami",
+    "price": "€3.49",
+    "details": "each (1 kg = €9.97)"
+  },
+  {
+    "product_name": "CUCINA organic salami Milano 160 g, classic",
+    "price": "€2.99",
+    "details": "each (1 kg = €18.69)"
+  },
+  {
+    "product_name": "RÜGENWALDER MÜHLE Vegan Pork Delight 70 g, Ham Type",
+    "price": "€1.59",
+    "details": "each (1 kg = €22.71)"
+  },
+  {
+    "product_name": "RÜGENWALDER MÜHLE Vegan Delight 70g, Salami Type",
+    "price": "€1.59",
+    "details": "each (1 kg = €22.71)"
+  },
+  {
+    "product_name": "Rügenwalder Teewurst 250g, Fine",
+    "price": "€2.79",
+    "details": "each (1 kg = €11.16)"
+  },
+  {
+    "product_name": "Rügenwalder Teewurst 250g, Fine Pepper",
+    "price": "€2.79",
+    "details": "each (1 kg = €11.16)"
+  },
+  {
+    "product_name": "EHRMANN High Protein Pudding with Topping 200 g, Vanilla",
+    "price": "€1.49",
+    "details": "each (1 kg = €7.45)"
+  },
+  {
+    "product_name": "EHRMANN High Protein Pudding with Topping 200 g, White Chocolate",
+    "price": "€1.49",
+    "details": "each (1 kg = €7.45)"
+  },
+  {
+    "product_name": "EHRMANN, High Protein Pudding with Topping 200g, Double Chocolate",
+    "price": "€1.49",
+    "details": "each (1 kg = €7.45)"
+  },
+  {
+    "product_name": "GRÜNLÄNDER Plus Pack 156 g, Spicy",
+    "price": "€2.99",
+    "details": "each (1 kg = €19.17)"
+  },
+  {
+    "product_name": "GRÜNLÄNDER Plus Pack 156 g, Mild Nutty",
+    "price": "€2.99",
+    "details": "each (1 kg = €19.17)"
+  },
+  {
+    "product_name": "GRÜNLÄNDER Plus Pack 156 g, Wild Garlic",
+    "price": "€2.99",
+    "details": "each (1 kg = €19.17)"
+  },
+  {
+    "product_name": "GRÜNLÄNDER Plus Pack 156 g, Chili Paprika",
+    "price": "€2.99",
+    "details": "each (1 kg = €19.17)"
+  },
+  {
+    "product_name": "ALMARE SEAFOOD Gourmet Fish 170g, Sea Bream",
+    "price": "€3.79",
+    "details": "each (1 kg = €22.29)"
+  },
+  {
+    "product_name": "OUR BAVARIA Bavarian Sausage 125 g, Gelbwurst",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €15.92)"
+  },
+  {
+    "product_name": "DR. OETKER soul warmer 63 g, rice pudding",
+    "price": "€1.29",
+    "details": "each (1 kg = €21.50)"
+  },
+  {
+    "product_name": "DR. OETKER soul warmer 63 g, semolina",
+    "price": "€1.29",
+    "details": "each (1 kg = €21.50)"
+  },
+  {
+    "product_name": "MY VAY Vegan Gourmet Mix 200g, Herbs",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "MY VAY Vegan Delicatessen Mix 150g, Egg and Bacon",
+    "price": "€0.99",
+    "details": "each (1 kg = €6.60)"
+  },
+  {
+    "product_name": "MY VAY Vegan Delicatessen Mix 150g, Egg and Chives",
+    "price": "€0.99",
+    "details": "each (1 kg = €6.60)"
+  },
+  {
+    "product_name": "MY VAY Vegan Delicatessen Mix 150g, Paprika",
+    "price": "€0.99",
+    "details": "each (1 kg = €6.60)"
+  },
+  {
+    "product_name": "LE GUSTO Seasonal Soup 750 ml, Chicken with Noodles",
+    "price": null,
+    "details": null
+  },
+  {
+    "product_name": "SCHWÄLBCHEN Sour Cream 200 g",
+    "price": "€1.39",
+    "details": "each (1 kg = €6.95)"
+  },
+  {
+    "product_name": "GOLDEN SEAFOOD Alaska Pollock 0.8 kg, Breaded",
+    "price": "€4.79",
+    "details": "each (1 kg = €5.99)"
+  },
+  {
+    "product_name": "GOLDEN SEAFOOD Alaska Pollock 0.6 kg, Müllerin",
+    "price": "€4.79",
+    "details": "each (1 kg = €7.98)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Wild salmon fillet in puff pastry 300 g, dill",
+    "price": "€2.99",
+    "details": "each (1 kg = €9.97)"
+  },
+  {
+    "product_name": "PIZZ'AH Pizzeria Pizza, Spinaci 2 x 390 g",
+    "price": "€3.49",
+    "details": "each (1 kg = €4.47)"
+  },
+  {
+    "product_name": "PIZZ'AH Pizzeria Pizza, Funghi 2 x 365 g",
+    "price": "€3.49",
+    "details": "each (1 kg = €4.78)"
+  },
+  {
+    "product_name": "GOLDEN SEAFOOD Gourmet Fish Fillet 400g, Italian Style",
+    "price": "€2.49",
+    "details": "each (1 kg = €6.23)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Crusted Ham 100 g",
+    "price": "€1.69",
+    "details": "Pack (1 kg = €16.90)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Fruit Sorbet 500 ml, Strawberry",
+    "price": "€2.49",
+    "details": "each (1 L = €4.98)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Ice Cream 500 ml, Chocolate",
+    "price": "€2.49",
+    "details": "each (1 L = €4.98)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Fruit Sorbet 500 ml, Mango",
+    "price": "€2.49",
+    "details": "each (1 L = €4.98)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Schnitzel Specialties 300 g, Pork Schnitzel",
+    "price": "€3.29",
+    "details": "Pack (1 kg = €10.97)"
+  },
+  {
+    "product_name": "LANDBECK Snack Bites 300g, Cheese",
+    "price": "€3.59",
+    "details": "each (1 kg = €11.97)"
+  },
+  {
+    "product_name": "GOLDÄHREN Lye Pretzels 868 g",
+    "price": "€1.99",
+    "details": "each (1 kg = €2.29)"
+  },
+  {
+    "product_name": "MUCCI water ice cream Swip 660 ml, orange",
+    "price": "€1.99",
+    "details": "each (1 L = €3.02)"
+  },
+  {
+    "product_name": "MUCCI Waffle Cone 720 ml, Chocolate-Vanilla",
+    "price": "€2.19",
+    "details": "each (1 L = €3.04)"
+  },
+  {
+    "product_name": "MUCCI Waffle Cone 720 ml, Vanilla",
+    "price": "€2.19",
+    "details": "each (1 L = €3.04)"
+  },
+  {
+    "product_name": "MUCCI Waffle Cone 720 ml, Lemon-Buttermilk",
+    "price": "€2.19",
+    "details": "each (1 L = €3.04)"
+  },
+  {
+    "product_name": "MUCCI Swip Water Ice 660 ml, Lime",
+    "price": "€1.99",
+    "details": "each (1 L = €3.02)"
+  },
+  {
+    "product_name": "MY BUTCHER Ready-to-cook pork cordon bleu 500g",
+    "price": "€4.99",
+    "details": "each (1 kg = €9.98)"
+  },
+  {
+    "product_name": "MILSANI Alpine yogurt 150 g, cherry",
+    "price": "€0.29",
+    "details": "each (1 kg = €1.93)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Hand-laid cooked ham 125 g, dark smoked",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €15.92)"
+  },
+  {
+    "product_name": "Eifel homemade sausage 160 g, onion sausage",
+    "price": "€1.89",
+    "details": "each (1 kg = €11.81)"
+  },
+  {
+    "product_name": "KAMAR Sucuk 250 g, individual pieces",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €11.96)"
+  },
+  {
+    "product_name": "HANDL TYROL Finest Bacon 100 g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €19.90)"
+  },
+  {
+    "product_name": "LANDBECK Tyrolean Kaminwurzerl 150 g, air-dried",
+    "price": "€2.19",
+    "details": "each (1 kg = €14.60)"
+  },
+  {
+    "product_name": "MUCCI Supreme Rich & Creamy 0.5 l, Salted Caramel",
+    "price": "€2.99",
+    "details": "each (1 L = € 5.98)"
+  },
+  {
+    "product_name": "MILSANI High Protein Pudding 200 g, vanilla",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "KERRYGOLD Extra 250 g, Unsalted",
+    "price": "€3.99",
+    "details": "each (1 kg = €15.96)"
+  },
+  {
+    "product_name": "GOLDEN SEAFOOD crispy fillets 400 g, baking dough",
+    "price": "€2.79",
+    "details": "each (1 kg = €6.98)"
+  },
+  {
+    "product_name": "GOLDEN SEAFOOD crispy fillets 400 g, cheese and herbs",
+    "price": "€2.79",
+    "details": "each (1 kg = €6.98)"
+  },
+  {
+    "product_name": "GOLDEN SEAFOOD crispy fillets 400 g, mustard-honey",
+    "price": "€2.79",
+    "details": "each (1 kg = €6.98)"
+  },
+  {
+    "product_name": "OUR BAVARIAN Vienna Sausages 400 g",
+    "price": "€3.19",
+    "details": "Pack (1 kg = €7.98)"
+  },
+  {
+    "product_name": "REMAGEN Master Bratwurst 0.5 kg",
+    "price": "€5.39",
+    "details": "Pack (1 kg = €10.78)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN (Three Oaks) Head Cheese 350g, Kasseler (smoked pork loin)",
+    "price": "€3.89",
+    "details": "Pack (1 kg = €11.11)"
+  },
+  {
+    "product_name": "ORGANIC organic yellow sausage, classic 100 g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €19.90)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Belgian Liver Pâté 125 g, Green Pepper",
+    "price": "€1.39",
+    "details": "Pack (1 kg = €11.12)"
+  },
+  {
+    "product_name": "REHM Oven-baked meatloaf 220 g, Pizza",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €11.32)"
+  },
+  {
+    "product_name": "REHM Oven-baked meatloaf 220 g, Fine",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €11.32)"
+  },
+  {
+    "product_name": "OUR BAVARIA Kasseler Sliced ​​Pork 100g, Pepper",
+    "price": "€1.39",
+    "details": "Pack (1 kg = €13.90)"
+  },
+  {
+    "product_name": "Organic beef goulash 400g",
+    "price": "€7.99",
+    "details": "each (1 kg = €19.98)"
+  },
+  {
+    "product_name": "MILSANI Creamy Yogurt 150g, Raspberry",
+    "price": "€0.39",
+    "details": "each (1 kg = €2.60)"
+  },
+  {
+    "product_name": "MILSANI cream yogurt 150 g, stracciatella",
+    "price": "€0.39",
+    "details": "each (1 kg = €2.60)"
+  },
+  {
+    "product_name": "LYTTOS Greek-style yogurt, natural, 600g",
+    "price": "€1.49",
+    "details": "each (1 kg = €2.48)"
+  },
+  {
+    "product_name": "MILSANI Creamy Yogurt 150g, Blueberry",
+    "price": "€0.39",
+    "details": "each (1 kg = €2.60)"
+  },
+  {
+    "product_name": "MILSANI Creamy Yogurt 150g, Peach-Passion Fruit",
+    "price": "€0.39",
+    "details": "each (1 kg = €2.60)"
+  },
+  {
+    "product_name": "MILSANI Creamy Yogurt 150g, Baked Apple",
+    "price": "€0.39",
+    "details": "each (1 kg = €2.60)"
+  },
+  {
+    "product_name": "GUTFRIED Junior, 115g Chicken Lyoner",
+    "price": "€1.69",
+    "details": "Pack (1 kg = €14.70)"
+  },
+  {
+    "product_name": "GUTFRIED Junior, 100g Poultry Mini Sausages",
+    "price": "€1.69",
+    "details": "Pack (1 kg = €16.90)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Mini Plate 50 g, Pepper Salami",
+    "price": "€0.99",
+    "details": "Pack (1 kg = €19.80)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Mini Plate 60 g, Paprika-Ham Sausage",
+    "price": "€0.99",
+    "details": "Pack (1 kg = €16.50)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Mini Plates 50 g, Fine Salami",
+    "price": "€0.99",
+    "details": "Pack (1 kg = €19.80)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Mini Plate 60 g, Meat Sausage",
+    "price": "€0.99",
+    "details": "Pack (1 kg = €16.50)"
+  },
+  {
+    "product_name": "GÜLDENHOF Mini Plates 50g, Baked Chicken Breast",
+    "price": "€0.99",
+    "details": "Pack (1 kg = €19.80)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Mini Plates 50 g, Baked Cooked Ham",
+    "price": "€0.99",
+    "details": "Pack (1 kg = €19.80)"
+  },
+  {
+    "product_name": "GUTFRIED Junior 50g, Poultry Mini Salami",
+    "price": "€1.69",
+    "details": "Pack (1 kg = €33.80)"
+  },
+  {
+    "product_name": "WONNEMEYER Oriental Salad 200 g, Sweet Bulgur",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "WONNEMEYER Oriental Salad 200 g, Lentil-Bulgur",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "WONNEMEYER Oriental Salad 200 g, Couscous Herbs",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "MY VAY Vegan Burger Assortment 227 g, American Burger",
+    "price": "€2.25",
+    "details": "each (1 kg = €9.91)"
+  },
+  {
+    "product_name": "MY VAY Vegan Burger Assortment 200 g, Crispy Chicken Style",
+    "price": "€2.25",
+    "details": "each (1 kg = €11.25)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Ham Lyoner 200 g",
+    "price": "€0.99",
+    "details": "Pack (1 kg = €4.95)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Salami smoked 250 g",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €5.96)"
+  },
+  {
+    "product_name": "TANNENHOF Smoked Farmer's Sausages 240 g",
+    "price": "€3.29",
+    "details": "Pack (1 kg = €13.71)"
+  },
+  {
+    "product_name": "MY BUTCHER Mixed minced meat 500 g",
+    "price": "€4.99",
+    "details": "each (1 kg = €9.98)"
+  },
+  {
+    "product_name": "MILSANI Quark Cream with Chocolate Shavings 200 g, Cherry",
+    "price": "€0.85",
+    "details": "each (1 kg = €4.25)"
+  },
+  {
+    "product_name": "MILSANI Quark Cream with Chocolate Shavings 200 g, Strawberry",
+    "price": "€0.85",
+    "details": "each (1 kg = €4.25)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Country Liver Sausage 250 g, Apple-Onion",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €5.96)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Country Liver Sausage 250 g, Coarse",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €5.96)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Aspic Sliced ​​Meat 200 g, Ham Aspic with Mushrooms",
+    "price": "€2.19",
+    "details": "Pack (1 kg = €10.95)"
+  },
+  {
+    "product_name": "MY VAY Vegan Sliced ​​Meat 100g, Mixed Pepper",
+    "price": "€0.95",
+    "details": "each (1 kg = €9.50)"
+  },
+  {
+    "product_name": "MY VAY Vegan Cold Cuts 100g, Grilled Vegetables",
+    "price": "€0.95",
+    "details": "each (1 kg = €9.50)"
+  },
+  {
+    "product_name": "Organic liverwurst 125g, coarse",
+    "price": "€1.69",
+    "details": "Pack (1 kg = €13.52)"
+  },
+  {
+    "product_name": "Organic tea sausage 100g, fine",
+    "price": "€1.69",
+    "details": "Pack (1 kg = €16.90)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Ham Sausages 300 g",
+    "price": "€3.99",
+    "details": "Pack (1 kg = €13.30)"
+  },
+  {
+    "product_name": "MÜLLER Müller Milk 400 ml, Strawberry",
+    "price": "€1.49",
+    "details": "each (1 L = €3.73)"
+  },
+  {
+    "product_name": "CurryStar 220 g",
+    "price": "€1.39",
+    "details": "Pack (1 kg = €6.32)"
+  },
+  {
+    "product_name": "EHRMANN Protein Pudding 200 g, White Chocolate",
+    "price": null,
+    "details": null
+  },
+  {
+    "product_name": "GÜLDENHOF Fresh Sausage Slices 300g, Poultry Mortadella",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €4.97)"
+  },
+  {
+    "product_name": "ORGANIC organic tortelloni 300 g, cheese",
+    "price": "€1.99",
+    "details": "each (1 kg = €6.63)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN QS Cooked Ham 200 g",
+    "price": "€1.69",
+    "details": "Pack (1 kg = €8.45)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Eggs 6-pack",
+    "price": "€2.59",
+    "details": "each"
+  },
+  {
+    "product_name": "GRÜNLÄNDER Plus Pack 156 g, Creamy",
+    "price": "€2.99",
+    "details": "each (1 kg = €19.17)"
+  },
+  {
+    "product_name": "DOVGAN Plombir Vanilla Ice Cream 780 ml",
+    "price": "€3.39",
+    "details": "each (1 L = €4.35)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Belly Bacon & Bacon Strips 300 g, Belly Bacon",
+    "price": "€2.79",
+    "details": "Pack (1 kg = €9.30)"
+  },
+  {
+    "product_name": "FAIR & GOOD Chicken Breast Fillet 400g",
+    "price": "€4.99",
+    "details": "each (1 kg = €12.48)"
+  },
+  {
+    "product_name": "CUCINA Pizza Ariosa 391 g, Nduja",
+    "price": "€2.99",
+    "details": "each (1 kg = €7.65)"
+  },
+  {
+    "product_name": "Organic natural yogurt 1 kg, 1.8% fat",
+    "price": "€1.99",
+    "details": "each"
+  },
+  {
+    "product_name": "CUCINA organic salami Milano 160 g, chili",
+    "price": "€2.99",
+    "details": "each (1 kg = €18.69)"
+  },
+  {
+    "product_name": "MILSANI lactose-free sour cream 200 g",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "DR. OETKER Soul Warmer 58 g, Vanilla",
+    "price": "€1.29",
+    "details": "each (1 kg = €22.24)"
+  },
+  {
+    "product_name": "HOFBURGER Tilsiter Slices 400 g",
+    "price": "€2.49",
+    "details": "each (1 kg = €6.23)"
+  },
+  {
+    "product_name": "WILD Delicatessen Salad 400g, Farmer's Salad",
+    "price": "€1.49",
+    "details": "each (1 kg = €3.73)"
+  },
+  {
+    "product_name": "SCHWAMM Flammkuchen bases 480 g",
+    "price": "€2.99",
+    "details": "each (1 kg = €6.23)"
+  },
+  {
+    "product_name": "GOLDSTEIG Almdammer wafer-thin 125 g",
+    "price": "€1.79",
+    "details": "each (1 kg = €14.32)"
+  },
+  {
+    "product_name": "SAUPIQUET Tuna for Pasta 160g, Arrabiata",
+    "price": "€2.19",
+    "details": "each (1 kg = €13.69)"
+  },
+  {
+    "product_name": "APOSTELS Tzatziki 200 g",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "ASIA GREEN GARDEN Asian Ready Meals 400g, Curry",
+    "price": "€1.79",
+    "details": "each (1 kg = €4.48)"
+  },
+  {
+    "product_name": "HOFBURGER Baked Camembert 350 g",
+    "price": "€2.99",
+    "details": "each (1 kg = €8.54)"
+  },
+  {
+    "product_name": "WILD Delicatessen Salad 400g, Creamy Radish Salad",
+    "price": "€1.49",
+    "details": "each (1 kg = €3.73)"
+  },
+  {
+    "product_name": "SAUPIQUET Tuna for Pasta 160g, Puttanesca",
+    "price": "€2.19",
+    "details": "each (1 kg = €13.69)"
+  },
+  {
+    "product_name": "Organic farmer's ham 100g",
+    "price": "€2.89",
+    "details": "Pack (1 kg = €28.90)"
+  },
+  {
+    "product_name": "Organic salami 80 g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €24.88)"
+  },
+  {
+    "product_name": "Organic crusty ham 100g",
+    "price": "€2.79",
+    "details": "Pack (1 kg = €27.90)"
+  },
+  {
+    "product_name": "Organic ham strips 80 g",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €37.38)"
+  },
+  {
+    "product_name": "Organic mini ham sausages 200 g",
+    "price": "€3.99",
+    "details": "Pack (1 kg = €19.95)"
+  },
+  {
+    "product_name": "Organic red sausage in a curly casing, 1 kg",
+    "price": "€16.90",
+    "details": "kg (1 kg = €16.90)"
+  },
+  {
+    "product_name": "Organic smoked chicken breast fillet, 80g",
+    "price": "€3.19",
+    "details": "Pack (1 kg = €39.88)"
+  },
+  {
+    "product_name": "Organic chicken breast fillet 80g, baked",
+    "price": "€3.19",
+    "details": "Pack (1 kg = €39.88)"
+  },
+  {
+    "product_name": "ADLER SCHWARZWALD Fanwurst 400 g",
+    "price": "€4.99",
+    "details": "Pack (1 kg = €12.48)"
+  },
+  {
+    "product_name": "ADLER SCHWARZWALD Veal Sausage 360 ​​g",
+    "price": "€4.99",
+    "details": "Pack (1 kg = €13.86)"
+  },
+  {
+    "product_name": "GENUINE FRANCONIAN Franconian dumpling dough 750 g",
+    "price": "€1.79",
+    "details": "each (1 kg = €2.39)"
+  },
+  {
+    "product_name": "Organic meatloaf 100g",
+    "price": "€1.39",
+    "details": "Pack (1 kg = €13.90)"
+  },
+  {
+    "product_name": "HEINZELMANN Meat Salad 250g",
+    "price": "€2.29",
+    "details": "each (1 kg = €9.16)"
+  },
+  {
+    "product_name": "Organic pancetta 70 g",
+    "price": "€2.79",
+    "details": "Pack (1 kg = €39.86)"
+  },
+  {
+    "product_name": "Organic Merano ham 90g",
+    "price": "€3.19",
+    "details": "Pack (1 kg = €35.44)"
+  },
+  {
+    "product_name": "BREU spicy sausage snack 18 g",
+    "price": "€0.69",
+    "details": "each (1 kg = €38.33)"
+  },
+  {
+    "product_name": "Eifel homemade sausage 160 g, farmer's breakfast",
+    "price": "€1.89",
+    "details": "each (1 kg = €11.81)"
+  },
+  {
+    "product_name": "Organic meatballs 200g",
+    "price": "€3.79",
+    "details": "Pack (1 kg = €18.95)"
+  },
+  {
+    "product_name": "Organic sliced ​​cheese fenugreek 150 g",
+    "price": "€2.29",
+    "details": "each (1 kg = €15.27)"
+  },
+  {
+    "product_name": "LANGNESE Kids Mix",
+    "price": "€4.49",
+    "details": "each (1 L = €11.28)"
+  },
+  {
+    "product_name": "Organic salami with pepper 80 g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €24.88)"
+  },
+  {
+    "product_name": "Organic liverwurst in a curly casing, 1 kg",
+    "price": "€16.90",
+    "details": "kg (1 kg = €16.90)"
+  },
+  {
+    "product_name": "GOURMET Comte AOP 170 g",
+    "price": "€2.79",
+    "details": "each (1 kg = €16.41)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Organic Raclette Cheese 200 g",
+    "price": "€2.89",
+    "details": "each"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Premium Sandwich 185 g, Roasted Chicken",
+    "price": "€2.59",
+    "details": "each (1 kg = €14.00)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Very fine Serrano 70 g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €28.43)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Prosciutto di Parma DOP 80 g",
+    "price": "€2.79",
+    "details": "Pack (1 kg = €34.88)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Liver Pâtés 125g, Poultry",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €14.32)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Liver pâtés 125 g, duck",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €14.32)"
+  },
+  {
+    "product_name": "GOURMET organic gnocchi unfilled 500 g, tricolor",
+    "price": "€2.79",
+    "details": "each (1 kg = €5.58)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Hand-laid cooked ham 125 g, juniper-cured ham",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €15.92)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Hand-laid cooked ham 125 g, lightly smoked",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €15.92)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Sea Salt Ham 100g, Classic",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €24.90)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Sea salt ham 100 g, pepper",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €24.90)"
+  },
+  {
+    "product_name": "GOURMET Tête de Moine 100 g",
+    "price": "€3.99",
+    "details": "each (1 kg = €39.90)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Vitel Tonnè 160 g",
+    "price": "€3.99",
+    "details": "Pack (1 kg = €24.94)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Black Angus Pastrami 120 g, pepper",
+    "price": "€3.59",
+    "details": "Pack (1 kg = €29.92)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Black Angus Pastrami 120 g, spice crust",
+    "price": "€3.59",
+    "details": "Pack (1 kg = €29.92)"
+  },
+  {
+    "product_name": "GOURMET Organic Filled Gnocchi 250g, Gorgonzola and Fig",
+    "price": "€2.19",
+    "details": "each (1 kg = €8.76)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Dessert in a glass 60 g, Apple-Caramel-Cinnamon",
+    "price": "€1.19",
+    "details": "each (1 kg = €19.83)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Dessert in a glass 60 g, Coffee",
+    "price": "€1.19",
+    "details": "each (1 kg = €19.83)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Dessert, passion fruit mango",
+    "price": "€1.19",
+    "details": "each (1 kg = €19.83)"
+  },
+  {
+    "product_name": "Organic Sour Cream 200g",
+    "price": "€0.85",
+    "details": "each (1 kg = €4.25)"
+  },
+  {
+    "product_name": "ORGANIC organic salami 125 g, air-dried",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €19.92)"
+  },
+  {
+    "product_name": "Organic Vegetable Stir-fry 600g, Summer Delight",
+    "price": "€2.49",
+    "details": "each (1 kg = €4.15)"
+  },
+  {
+    "product_name": "Organic Vegetable Stir-fry 600g, Winter Delight",
+    "price": "€2.49",
+    "details": "each (1 kg = €4.15)"
+  },
+  {
+    "product_name": "Organic Vegetable Stir-fry 600g, Asian Style",
+    "price": "€2.49",
+    "details": "each (1 kg = €4.15)"
+  },
+  {
+    "product_name": "Organic yogurt 500g, 1.8% fat",
+    "price": "€1.15",
+    "details": "each (1 kg = €2.30)"
+  },
+  {
+    "product_name": "Organic yogurt 500g, 3.8% fat",
+    "price": "€1.15",
+    "details": "each (1 kg = €2.30)"
+  },
+  {
+    "product_name": "Organic Mini Bernese Sausages 187 g",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €15.99)"
+  },
+  {
+    "product_name": "Organic Mini Vienna Sausages 160 g",
+    "price": "€2.39",
+    "details": "Pack (1 kg = €14.94)"
+  },
+  {
+    "product_name": "Organic yellow sausage, chicken 80g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €24.88)"
+  },
+  {
+    "product_name": "Organic Cheese Krakow 260g",
+    "price": "€3.89",
+    "details": "Pack (1 kg = €14.96)"
+  },
+  {
+    "product_name": "Organic Mini Bernese Sausages 185 g",
+    "price": "€2.99",
+    "details": "pack"
+  },
+  {
+    "product_name": "Organic beef sausage 300 g",
+    "price": "€5.29",
+    "details": "Pack (1 kg = €17.63)"
+  },
+  {
+    "product_name": "Organic Buttered Vegetables 300g",
+    "price": "€1.49",
+    "details": "each (1 kg = €4.97)"
+  },
+  {
+    "product_name": "Organic UHT milk, 1.5% fat, 1 liter",
+    "price": "€1.15",
+    "details": "each (1 L = €1.15)"
+  },
+  {
+    "product_name": "Organic Mountain Farmer's Cheese Varieties 250g, Alpine Cheese",
+    "price": "€3.49",
+    "details": "each (1 kg = €13.96)"
+  },
+  {
+    "product_name": "Organic Mountain Farmer's Cheese Varieties 250g, Summit Cheese",
+    "price": "€3.49",
+    "details": "each (1 kg = €13.96)"
+  },
+  {
+    "product_name": "Organic grated cheese 150g, Gouda",
+    "price": "€1.59",
+    "details": "each (1 kg = €10.60)"
+  },
+  {
+    "product_name": "Organic Bacon 100g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €19.90)"
+  },
+  {
+    "product_name": "Organic Cottage Cheese 200g",
+    "price": "€1.45",
+    "details": "each (1 kg = €7.25)"
+  },
+  {
+    "product_name": "Organic diced ham 80g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €24.88)"
+  },
+  {
+    "product_name": "Organic Bacon Cubes 100g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €19.90)"
+  },
+  {
+    "product_name": "Organic sliced ​​sausage 125g, ham Lyoner",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €14.32)"
+  },
+  {
+    "product_name": "Organic cooked ham 100g",
+    "price": "€2.89",
+    "details": "Pack (1 kg = €28.90)"
+  },
+  {
+    "product_name": "Organic sliced ​​sausage 125g, Paprika Lyoner",
+    "price": null,
+    "details": null
+  },
+  {
+    "product_name": "Organic, organic beef mince 800g",
+    "price": "€11.99",
+    "details": "each (1 kg = €14.99)"
+  },
+  {
+    "product_name": "Organic UHT whole milk 3.8% fat 1 l",
+    "price": "€1.25",
+    "details": "each (1 L = €1.25)"
+  },
+  {
+    "product_name": "Organic soup/stew 400g, pea stew",
+    "price": "€1.39",
+    "details": "each (1 kg = €3.48)"
+  },
+  {
+    "product_name": "Organic soup/stew 400g, lentil stew",
+    "price": "€1.39",
+    "details": "each (1 kg = €3.48)"
+  },
+  {
+    "product_name": "Organic mixed minced meat 400 g",
+    "price": "€6.19",
+    "details": "each (1 kg = €15.48)"
+  },
+  {
+    "product_name": "ORGANIC organic butter 250 g, sweet cream butter",
+    "price": "€2.69",
+    "details": "each (1 kg = €10.76)"
+  },
+  {
+    "product_name": "Organic whipping cream 200 g",
+    "price": "€1.19",
+    "details": "each (1 kg = €5.95)"
+  },
+  {
+    "product_name": "Organic grated cheese 150g, mozzarella",
+    "price": "€1.59",
+    "details": "each (1 kg = €10.60)"
+  },
+  {
+    "product_name": "Organic liverwurst 125g, fine",
+    "price": "€1.69",
+    "details": "Pack (1 kg = €13.52)"
+  },
+  {
+    "product_name": "MILSANI Kefir 500 g",
+    "price": "€0.89",
+    "details": "each (1 kg = €1.78)"
+  },
+  {
+    "product_name": "GUT BIO Organic Kabanos Minis 90g, Classic",
+    "price": "€1.89",
+    "details": "each"
+  },
+  {
+    "product_name": "GUT BIO Organic Kabanos Minis 90g, Cheese",
+    "price": "€1.89",
+    "details": "each"
+  },
+  {
+    "product_name": "MILSANI Baked Camembert with Wild Cranberry Dip 350 g",
+    "price": "€2.99",
+    "details": "each (1 kg = €8.54)"
+  },
+  {
+    "product_name": "MILSANI Ayran 250 ml",
+    "price": "€0.49",
+    "details": "each (1 L = €1.96)"
+  },
+  {
+    "product_name": "MILSANI Fruit Junior 400g, Strawberry-Banana",
+    "price": "€0.99",
+    "details": "each (1 kg = €2.48)"
+  },
+  {
+    "product_name": "MILSANI Fruit Junior 400g, Strawberry-Apricot",
+    "price": "€0.99",
+    "details": "each (1 kg = €2.48)"
+  },
+  {
+    "product_name": "MILSANI Creamy Yogurt 150g, Strawberry",
+    "price": "€0.39",
+    "details": "each (1 kg = €2.60)"
+  },
+  {
+    "product_name": "Organic Mountain Farmer's Cheese 150g, Nutty",
+    "price": "€2.59",
+    "details": "each (1 kg = €17.27)"
+  },
+  {
+    "product_name": "MILSANI Reduced-Fat Condensed Milk 4% 340g",
+    "price": "€0.79",
+    "details": "each (1 kg = €2.32)"
+  },
+  {
+    "product_name": "MILSANI Condensed Milk 7.5% 340g",
+    "price": "€0.89",
+    "details": "each (1 kg = €2.62)"
+  },
+  {
+    "product_name": "MILSANI Condensed Milk 10% 340g",
+    "price": "€0.99",
+    "details": "each (1 kg = €2.91)"
+  },
+  {
+    "product_name": "MILSANI UHT Milk 1.5% 1 l, Lactose-free - low-fat",
+    "price": "€1.19",
+    "details": "each"
+  },
+  {
+    "product_name": "MILSANI High Protein Pudding 200 g, caramel",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "MILSANI Spray Cream 250 ml, Full Fat",
+    "price": "€2.29",
+    "details": "each (1 L = € 9.16)"
+  },
+  {
+    "product_name": "MILSANI Quark 40% 250g, Standard",
+    "price": "€0.89",
+    "details": "each (1 kg = €3.56)"
+  },
+  {
+    "product_name": "MILSANI UHT Cream 200 g",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "MILSANI High Protein Pudding 200g, Chocolate",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "MILSANI Quark 20% Fat 250g, Standard",
+    "price": "€0.79",
+    "details": "each (1 kg = €3.16)"
+  },
+  {
+    "product_name": "MILSANI Lactose-Free UHT Milk 3.5% 1 l",
+    "price": "€1.29",
+    "details": "each (1 L = €1.29)"
+  },
+  {
+    "product_name": "MILSANI Cream Cheese 300g, Herbs",
+    "price": "€1.69",
+    "details": "each (1 kg = €5.63)"
+  },
+  {
+    "product_name": "MILSANI clarified butter 500 g",
+    "price": "€7.49",
+    "details": "each (1 kg = €14.98)"
+  },
+  {
+    "product_name": "Organic cheese delight 200g, butter cheese",
+    "price": "€1.99",
+    "details": "each (1 kg = €9.95)"
+  },
+  {
+    "product_name": "Organic cheese delight 200g, Maasdam",
+    "price": "€1.99",
+    "details": "each (1 kg = €9.95)"
+  },
+  {
+    "product_name": "MILSANI Cream Kefir Fruit 250g, Strawberry",
+    "price": "€0.59",
+    "details": "each (1 kg = €2.36)"
+  },
+  {
+    "product_name": "MILSANI Cream Kefir Fruit 250g, Blueberry",
+    "price": "€0.59",
+    "details": "each (1 kg = €2.36)"
+  },
+  {
+    "product_name": "MILSANI Skyr 500 g",
+    "price": "€1.49",
+    "details": "each (1 kg = €2.98)"
+  },
+  {
+    "product_name": "MILSANI Skyr 500 g",
+    "price": "€1.49",
+    "details": "each (1 kg = €2.98)"
+  },
+  {
+    "product_name": "MILSANI Creme a la Cuisine Cooking Cream 250 ml, 7%",
+    "price": "€0.89",
+    "details": "each (1 L = €3.56)"
+  },
+  {
+    "product_name": "MILSANI Creme a la Cuisine Cooking Cream 250 ml, 15%",
+    "price": "€0.89",
+    "details": "each (1 L = €3.56)"
+  },
+  {
+    "product_name": "MILSANI Whipped Cream 200 g",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "MILSANI Skyr Fruit 500g, Blueberry-Elderberry",
+    "price": "€1.69",
+    "details": "each (1 kg = €3.38)"
+  },
+  {
+    "product_name": "MILSANI Skyr Fruit 500g, Strawberry",
+    "price": "€1.69",
+    "details": "each (1 kg = €3.38)"
+  },
+  {
+    "product_name": "MILSANI Cream Cheese 300g, Natural",
+    "price": "€1.69",
+    "details": "each (1 kg = €5.63)"
+  },
+  {
+    "product_name": "MILSANI Fresh Milk 1.5% 1 l, low fat",
+    "price": "€0.99",
+    "details": "each (1 L = €0.99)"
+  },
+  {
+    "product_name": "MILSANI Fresh Whole Milk 3.5% 1 l²",
+    "price": "€1.09",
+    "details": "each"
+  },
+  {
+    "product_name": "MILSANI Maasdamer 300 g",
+    "price": "€2.39",
+    "details": "each (1 kg = €7.97)"
+  },
+  {
+    "product_name": "MILSANI Harz cheese 200 g, caraway",
+    "price": "€1.99",
+    "details": "each (1 kg = €9.95)"
+  },
+  {
+    "product_name": "MILSANI High Protein Semolina Pudding 500 g, Classic",
+    "price": "€1.69",
+    "details": "each (1 kg = €3.38)"
+  },
+  {
+    "product_name": "MILSANI High Protein Semolina Pudding 500g, Cinnamon",
+    "price": "€1.69",
+    "details": "each (1 kg = €3.38)"
+  },
+  {
+    "product_name": "MILSANI processed cheese spread 200 g, cream",
+    "price": "€1.59",
+    "details": "each (1 kg = €7.95)"
+  },
+  {
+    "product_name": "MILSANI Processed Cheese Preparation 200 g, Light",
+    "price": "€1.59",
+    "details": "each (1 kg = €7.95)"
+  },
+  {
+    "product_name": "Organic Feta 200g",
+    "price": "€2.65",
+    "details": "each (1 kg = €13.25)"
+  },
+  {
+    "product_name": "MILSANI Sweet Cream Butter 250 g",
+    "price": "€1.39",
+    "details": "each (1 kg = €5.56)"
+  },
+  {
+    "product_name": "MILSANI Irish Butter 250 g",
+    "price": "€2.29",
+    "details": "each (1 kg = €9.16)"
+  },
+  {
+    "product_name": "MILSANI German Brand Butter 250 g",
+    "price": "€1.39",
+    "details": "each (1 kg = €5.56)"
+  },
+  {
+    "product_name": "MILSANI Melting Discs 250 g, Allgäu",
+    "price": "€1.69",
+    "details": "each (1 kg = €6.76)"
+  },
+  {
+    "product_name": "MILSANI Melting Discs 250 g, Light",
+    "price": "€1.69",
+    "details": "each (1 kg = €6.76)"
+  },
+  {
+    "product_name": "MILSANI Reduced Fat Cheese 200g, Nutty Maasdam",
+    "price": "€1.99",
+    "details": "each (1 kg = €9.95)"
+  },
+  {
+    "product_name": "MILSANI Reduced Fat Cheese 200g, Mild Gouda",
+    "price": "€1.99",
+    "details": "each (1 kg = €9.95)"
+  },
+  {
+    "product_name": "MILSANI Yogurt 3.5% Fat 4 x 150 g, mild natural yogurt",
+    "price": "€0.99",
+    "details": "each (1 kg = €1.65)"
+  },
+  {
+    "product_name": "MILSANI Spreadable Unsalted 250 g",
+    "price": "€1.29",
+    "details": "each (1 kg = €5.16)"
+  },
+  {
+    "product_name": "MILSANI Spreadable Salted 250 g",
+    "price": "€1.29",
+    "details": "each (1 kg = €5.16)"
+  },
+  {
+    "product_name": "MILSANI Quark Cream with Chocolate Shavings 200 g, Stracciatella",
+    "price": "€0.85",
+    "details": "each (1 kg = €4.25)"
+  },
+  {
+    "product_name": "MILSANI Quark Cream with Chocolate Shavings 200 g, Zabaione",
+    "price": "€0.85",
+    "details": "each (1 kg = €4.25)"
+  },
+  {
+    "product_name": "MILSANI grass-fed butter 250 g",
+    "price": "€1.89",
+    "details": "each (1 kg = €7.56)"
+  },
+  {
+    "product_name": "MILSANI young Gouda 250 g",
+    "price": "€1.69",
+    "details": "each (1 kg = €6.76)"
+  },
+  {
+    "product_name": "MILSANI Mozzarella, grated 250 g",
+    "price": "€1.79",
+    "details": "each (1 kg = €7.16)"
+  },
+  {
+    "product_name": "GUT BIO Organic Sour Cream 150 g",
+    "price": "€0.99",
+    "details": "each (1 kg = €6.60)"
+  },
+  {
+    "product_name": "MILSANI Low-Fat Quark 250g",
+    "price": "€0.69",
+    "details": "each (1 kg = €2.76)"
+  },
+  {
+    "product_name": "MILSANI Butter Cheese Slices 400 g",
+    "price": "€2.49",
+    "details": "each (1 kg = €6.23)"
+  },
+  {
+    "product_name": "MILSANI Gouda Slices, 400 g",
+    "price": "€2.49",
+    "details": "each (1 kg = €6.23)"
+  },
+  {
+    "product_name": "MILSANI Low-Fat Quark 500g, 0.3%",
+    "price": "€1.29",
+    "details": "each (1 kg = €2.58)"
+  },
+  {
+    "product_name": "MILSANI Quark 250g, 20% fat",
+    "price": "€0.79",
+    "details": "each (1 kg = €3.16)"
+  },
+  {
+    "product_name": "MILSANI Quark 250g, 40% fat",
+    "price": "€0.89",
+    "details": "each (1 kg = €3.56)"
+  },
+  {
+    "product_name": "MILSANI Lactose-Free UHT Cream 200 g",
+    "price": "€1.15",
+    "details": "each (1 kg = €5.75)"
+  },
+  {
+    "product_name": "MILSANI Emmentaler 250 g",
+    "price": "€2.49",
+    "details": "each (1 kg = €9.96)"
+  },
+  {
+    "product_name": "MILSANI Whipped Cream 200 g",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "MILSANI Sour Cream 200 g",
+    "price": "€0.69",
+    "details": "each (1 kg = €3.45)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Rostbratwurst 0.54 kg",
+    "price": "€3.79",
+    "details": "Pack (1 kg = €7.02)"
+  },
+  {
+    "product_name": "BBQ Frying and Grilling Cheese Medallions 280 g, Gouda",
+    "price": "€2.54",
+    "details": "each (1 kg = €9.07)"
+  },
+  {
+    "product_name": "BBQ Fried and Grilled Cheese Medallions 280 g, Paprika-Chili",
+    "price": "€2.54",
+    "details": "each (1 kg = €9.07)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Country Liver Sausage 250 g, Fine",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €5.96)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Country Liver Sausage 250 g, Chives",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €5.96)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Ham Cube Assortment 250 g, Country Ham",
+    "price": "€2.39",
+    "details": "Pack (1 kg = €9.56)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Ham Diced Assortment 150 g, Reduced Fat",
+    "price": "€2.39",
+    "details": "Pack (1 kg = €15.93)"
+  },
+  {
+    "product_name": "BBQ Grilled Cheese Medallions 200g, Camembert",
+    "price": "€2.54",
+    "details": "each (1 kg = €12.70)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Gourmet Ham 80 g, Farmer's Ham",
+    "price": "€1.39",
+    "details": "Pack (1 kg = €17.38)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Gourmet Ham 80 g, Black Forest Ham",
+    "price": "€1.39",
+    "details": "Pack (1 kg = €17.38)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Gourmet Ham 80 g, Ham Bacon",
+    "price": "€1.39",
+    "details": "Pack (1 kg = €17.38)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Liverwurst in a tub 175 g, Fine",
+    "price": "€1.39",
+    "details": "Pack (1 kg = €7.94)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Pepper Bites 300 g",
+    "price": "€3.99",
+    "details": "Pack (1 kg = €13.30)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Natural Yogurt 150 g",
+    "price": "€0.45",
+    "details": "each (1 kg = €3.00)"
+  },
+  {
+    "product_name": "MY BUTCHER SHOP Mett Specialties 200 g, Snack Mett",
+    "price": "€2.29",
+    "details": "Pack (1 kg = €11.45)"
+  },
+  {
+    "product_name": "MY BUTCHER SHOP Mettwurst specialties 200 g, Paprika",
+    "price": "€2.29",
+    "details": "Pack (1 kg = €11.45)"
+  },
+  {
+    "product_name": "MY BUTCHER Pork Neck Steak Natural 500g",
+    "price": "€4.99",
+    "details": "each (1 kg = €9.98)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Pasture Butter 250 g",
+    "price": "€3.49",
+    "details": "each (1 kg = €13.96)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Pasture Milk Mozzarella 125g",
+    "price": "€1.29",
+    "details": "each"
+  },
+  {
+    "product_name": "MY BUTCHER Fresh pork neck chop 700 g",
+    "price": "€4.99",
+    "details": "each (1 kg = €7.13)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Vienna Sausages 200g",
+    "price": "€3.19",
+    "details": "Pack (1 kg = €15.95)"
+  },
+  {
+    "product_name": "BBQ Thuringian Rostbratwurst 500 g",
+    "price": "€3.79",
+    "details": "Pack (1 kg = €7.58)"
+  },
+  {
+    "product_name": "BBQ Bernese Sausages 250g, Mini",
+    "price": "€2.69",
+    "details": "Pack (1 kg = €10.76)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Vienna Sausages 400 g",
+    "price": "€3.19",
+    "details": "Pack (1 kg = €7.98)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Rostbratwurst 0.54 kg",
+    "price": "€4.29",
+    "details": "Pack (1 kg = €7.94)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Cheese Krainer 300 g",
+    "price": "€3.19",
+    "details": "Pack (1 kg = €10.63)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Debrecziner 300 g",
+    "price": "€3.19",
+    "details": "Pack (1 kg = €10.63)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Franconian Rostbratwurst 350 g",
+    "price": "€3.69",
+    "details": "Pack (1 kg = €10.54)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Bratwurst 1 kg",
+    "price": "€5.59",
+    "details": "pack"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Bierschinken 150 g",
+    "price": "€1.29",
+    "details": "Pack (1 kg = €8.60)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Oven-baked cold cuts 150 g, Paprika Lyoner",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €11.93)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Oven-baked cold cuts 150 g, beer ham",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €14.32)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Cold Cut Specialties 150 g, Ham",
+    "price": "€1.89",
+    "details": "Pack (1 kg = €12.60)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Black Forest Ham 200 g",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €12.45)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Nuremberg Rostbratwurst 300 g, Classic",
+    "price": "€3.29",
+    "details": "Pack (1 kg = €10.97)"
+  },
+  {
+    "product_name": "GUT DREI OACHEN Pork Roast 100 g",
+    "price": "€1.69",
+    "details": "Pack (1 kg = €16.90)"
+  },
+  {
+    "product_name": "BBQ Grill Cheese 150g, Natural",
+    "price": "€1.99",
+    "details": "each (1 kg = €13.27)"
+  },
+  {
+    "product_name": "BBQ marinated grilled cheese 200 g, peppers",
+    "price": "€2.59",
+    "details": "each (1 kg = €12.95)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Meatballs 500 g, Classic",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €5.98)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Nuremberg Rostbratwurst 250 g, reduced fat",
+    "price": "€3.29",
+    "details": "Pack (1 kg = €13.16)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Gourmet Salami 125 g, Hazelnut",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €15.92)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Munich White Sausage XXL 1 kg",
+    "price": "€5.79",
+    "details": "pack"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Gourmet Salami 125 g, Classic",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €15.92)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Salami Sliced ​​Meat Platters 125 g, Premium",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €19.92)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Buffet Cooked Ham 150 g, Cooked Ham",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €13.27)"
+  },
+  {
+    "product_name": "BBQ baguettes, twin pack, 350g, herbs",
+    "price": "€1.49",
+    "details": "each (1 kg = €4.26)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Original Swiss Bündnerfleisch 50 g",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €59.80)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Ham Sausage 500 g",
+    "price": "€3.59",
+    "details": "Pack (1 kg = €7.18)"
+  },
+  {
+    "product_name": "GUT DREI OACHEN Reduced-fat ham sausage 500 g",
+    "price": "€3.59",
+    "details": "Pack (1 kg = €7.18)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN (Three Oaks) Head Cheese 350 g, Roast Meat",
+    "price": "€3.89",
+    "details": "Pack (1 kg = €11.11)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Ham Tea Sausage 250 g, Fine",
+    "price": "€2.79",
+    "details": "Pack (1 kg = €11.16)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Belgian Liver Pâté 125 g, Chives",
+    "price": "€1.39",
+    "details": "Pack (1 kg = €11.12)"
+  },
+  {
+    "product_name": "GUT DREI OACHEN Belly Bacon Crooked Things 1 kg",
+    "price": "€5.99",
+    "details": "kg (1 kg = € 5.99)"
+  },
+  {
+    "product_name": "BBQ Emmental Cheese Bockwurst 400g",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €7.48)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Vienna Sausages 1 kg",
+    "price": "€6.99",
+    "details": "pack"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Wollwurst 400 g",
+    "price": "€4.49",
+    "details": "Pack (1 kg = €11.23)"
+  },
+  {
+    "product_name": "GUT DREI OACHEN Bacon 150 g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €13.27)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Salami Sliced ​​Meat Platters 125 g, Mix",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €19.92)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Beef Sausage 400 g",
+    "price": "€5.49",
+    "details": "Pack (1 kg = €13.73)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Salmon Ham Slices 150 g, Classic",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €16.60)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Vienna Sausages 400 g",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €6.23)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Spreadable Minis 130 g, Teewurst",
+    "price": "€1.59",
+    "details": "Pack (1 kg = €12.23)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Spreadable Minis 130 g, Reduced-Fat Liverwurst",
+    "price": "€1.59",
+    "details": "Pack (1 kg = €12.23)"
+  },
+  {
+    "product_name": "BBQ chicken steaks marinated 550g, French herbs",
+    "price": "€4.99",
+    "details": "each (1 kg = €9.07)"
+  },
+  {
+    "product_name": "BBQ marinated chicken steaks 550g, red bell peppers",
+    "price": "€4.99",
+    "details": "each (1 kg = €9.07)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Hearty Premium Salami 150 g",
+    "price": "€1.69",
+    "details": "Pack (1 kg = €11.27)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Lyoner 400 g",
+    "price": "€2.89",
+    "details": "Pack (1 kg = €7.23)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Ham Sausage 650 g",
+    "price": "€3.49",
+    "details": "Pack (1 kg = €5.37)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Munich white sausage with mustard 300 g and 45 ml mustard",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €9.97)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Hearty Premium Salami 150 g",
+    "price": "€1.69",
+    "details": "Pack (1 kg = €11.27)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Bavarian Leberkäse Sliced ​​Meatloaf 180 g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €11.06)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Mini Wiener 320 g, Natural",
+    "price": "€2.00",
+    "details": "Pack (1 kg = €6.25)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Bavarian Leberkäs 350 g, Pizza",
+    "price": "€3.49",
+    "details": "Pack (1 kg = €9.97)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Bavarian Leberkäse 400 g, Fine",
+    "price": "€3.49",
+    "details": "Pack (1 kg = € 8.73)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Bavarian Leberkäs 400 g, Coarse",
+    "price": "€3.49",
+    "details": "Pack (1 kg = € 8.73)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Ice Cream 500 ml, Vanilla",
+    "price": "€2.49",
+    "details": "each (1 L = €4.98)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Soups 375 ml, Broccoli",
+    "price": "€1.99",
+    "details": "each (1 L = € 5.31)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Soup 375 ml, Tomato Soup",
+    "price": "€1.99",
+    "details": "each (1 L = € 5.31)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Nuremberg Rostbratwurst 250 g",
+    "price": "€3.99",
+    "details": "Pack (1 kg = €15.96)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Kimchi 220g, Mild",
+    "price": "€3.99",
+    "details": "each (1 kg = €18.14)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Grated Cheese 150g, Emmental",
+    "price": "€1.99",
+    "details": "each (1 kg = €13.27)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Spelt Pizza 315g, Margherita",
+    "price": "€2.99",
+    "details": "each (1 kg = €9.49)"
+  },
+  {
+    "product_name": "MY BUTCHER Chicken Strips Gyros 500g",
+    "price": "€4.79",
+    "details": "each (1 kg = €9.58)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Free-Range Chicken Thigh Steaks 350g",
+    "price": "€6.19",
+    "details": "each (1 kg = €17.69)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Quark 250g, Low-fat",
+    "price": "€1.15",
+    "details": "each (1 kg = €4.60)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Yogurt 3.8% Fat 400g, mild natural yogurt",
+    "price": "€0.99",
+    "details": "each (1 kg = €2.48)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Fruit Yogurt 250g, Mango",
+    "price": "€0.89",
+    "details": "each (1 kg = €3.56)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Fruit Yogurt 250g, Peach-Passion Fruit",
+    "price": "€0.89",
+    "details": "each (1 kg = €3.56)"
+  },
+  {
+    "product_name": "MY BUTCHER Chicken Inner Fillet 800g",
+    "price": "€5.69",
+    "details": "each (1 kg = €5.69)"
+  },
+  {
+    "product_name": "MY BUTCHER Pork Goulash 500g",
+    "price": "€4.19",
+    "details": "each (1 kg = € 8.38)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Free-Range Chicken Mini Steaks 350g",
+    "price": "€8.99",
+    "details": "each (1 kg = €25.69)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Mountain Farmers Soft Cheese 200g, Mild",
+    "price": "€3.69",
+    "details": "each (1 kg = €18.45)"
+  },
+  {
+    "product_name": "MY BUTCHER Chicken drumsticks 1 kg",
+    "price": "€8.99",
+    "details": "each (1 kg = €11.24)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Cheese Slices 150g, Emmental",
+    "price": "€2.39",
+    "details": "each (1 kg = €15.93)"
+  },
+  {
+    "product_name": "MY BUTCHER Ham 175 g",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €17.09)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Free-Range Chicken Wings 350g, Natural",
+    "price": "€2.99",
+    "details": "each (1 kg = €7.11)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Salami 80g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €24.88)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Munich White Sausage 250 g",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €9.96)"
+  },
+  {
+    "product_name": "MY BUTCHER SHOP Chicken Burger XXL 800 g",
+    "price": "€7.29",
+    "details": "each (1 kg = €9.11)"
+  },
+  {
+    "product_name": "ONLY NATURE Fresh Organic Whole Milk 3.8% 1 l",
+    "price": "€1.45",
+    "details": "each"
+  },
+  {
+    "product_name": "MY BUTCHER SHOP Cold Cuts 125g, Liverwurst",
+    "price": "€1.29",
+    "details": "Pack (1 kg = €10.32)"
+  },
+  {
+    "product_name": "MY BUTCHER SHOP Cold Cuts 100g, Beer Ham",
+    "price": "€1.29",
+    "details": "Pack (1 kg = €12.90)"
+  },
+  {
+    "product_name": "MY BUTCHER Cold Cuts, Kaiserjagdwurst 100g",
+    "price": "€1.29",
+    "details": "Pack (1 kg = €12.90)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Quark 250 g, 20%",
+    "price": "€1.15",
+    "details": "each (1 kg = €4.60)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Grated Cheese 150g, Gratin Cheese",
+    "price": "€1.89",
+    "details": "each (1 kg = €12.60)"
+  },
+  {
+    "product_name": "MY BUTCHER Chicken Inner Fillet 400g",
+    "price": "€4.99",
+    "details": "each (1 kg = €12.48)"
+  },
+  {
+    "product_name": "MY BUTCHER Chicken breast fillet portion 1 kg",
+    "price": "€9.99",
+    "details": "each"
+  },
+  {
+    "product_name": "MY BUTCHER Chicken thighs with back piece 2 kg",
+    "price": "€8.49",
+    "details": "each (1 kg = €4.25)"
+  },
+  {
+    "product_name": "MY BUTCHER Homemade Sausage 150g, Coarse Liverwurst",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €13.27)"
+  },
+  {
+    "product_name": "MY BUTCHER Homemade Sausage 150g, Fine Liverwurst",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €13.27)"
+  },
+  {
+    "product_name": "MY BUTCHER Homemade Sausage 150g, Blood Sausage",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €13.27)"
+  },
+  {
+    "product_name": "MY BUTCHER Chicken breast fillet portion 600 g",
+    "price": "€6.79",
+    "details": "each (1 kg = €11.32)"
+  },
+  {
+    "product_name": "MY BUTCHER Chicken Minute Schnitzel 400g",
+    "price": "€4.99",
+    "details": "each (1 kg = €12.48)"
+  },
+  {
+    "product_name": "MY BUTCHER Chicken drumsticks 600g",
+    "price": "€3.99",
+    "details": "each (1 kg = €6.65)"
+  },
+  {
+    "product_name": "MY BUTCHER Gyros 500g",
+    "price": "€4.29",
+    "details": "each (1 kg = € 8.58)"
+  },
+  {
+    "product_name": "MY BUTCHER Chicken Strips 400g",
+    "price": "€4.39",
+    "details": "each (1 kg = €10.98)"
+  },
+  {
+    "product_name": "MY BUTCHER Schnitzel 500g",
+    "price": "€4.99",
+    "details": "each (1 kg = €9.98)"
+  },
+  {
+    "product_name": "MY BUTCHER SHOP Sliced ​​meat 125g, Lyoner sausage",
+    "price": "€1.29",
+    "details": "Pack (1 kg = €10.32)"
+  },
+  {
+    "product_name": "MY BUTCHER Pork Minute Steaks 400g",
+    "price": "€2.99",
+    "details": "each (1 kg = €7.48)"
+  },
+  {
+    "product_name": "MY BUTCHER Coarse Pork Bratwurst 400 g",
+    "price": "€2.89",
+    "details": "each (1 kg = €7.23)"
+  },
+  {
+    "product_name": "LE GUSTO Fix Mix 35 g, Pasta-Ham",
+    "price": "€0.39",
+    "details": "each (1 kg = €11.14)"
+  },
+  {
+    "product_name": "LE GUSTO Fix Mix 35 g, Mushroom",
+    "price": "€0.39",
+    "details": "each (1 kg = €11.14)"
+  },
+  {
+    "product_name": "FAIR & GOOD Chicken Inner Fillet 350 g",
+    "price": "€4.99",
+    "details": "each (1 kg = €14.26)"
+  },
+  {
+    "product_name": "FAIR & GOOD Chicken Strips 350g",
+    "price": "€4.99",
+    "details": "each (1 kg = €14.26)"
+  },
+  {
+    "product_name": "FAIR & GOOD Chicken Wings 500g",
+    "price": "€2.99",
+    "details": "each (1 kg = €5.98)"
+  },
+  {
+    "product_name": "WONNEMEYER Meat Salad 200 g, Spicy",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "WONNEMEYER Meat Salad 200 g, Herbs",
+    "price": "€0.99",
+    "details": "each (1 kg = €4.95)"
+  },
+  {
+    "product_name": "WONNEMEYER Baguette 175 g, Herbs",
+    "price": "€0.99",
+    "details": "each (1 kg = €5.66)"
+  },
+  {
+    "product_name": "WONNEMEYER Olive Assortment 100g, Olives with Tomato Marinade",
+    "price": "€1.19",
+    "details": "each (1 kg = €11.90)"
+  },
+  {
+    "product_name": "WONNEMEYER Olive Assortment 100g, Black Olives",
+    "price": "€1.19",
+    "details": "each (1 kg = €11.90)"
+  },
+  {
+    "product_name": "ASIA GREEN GARDEN Spring Rolls 400g, Chicken with Broccoli",
+    "price": "€2.79",
+    "details": "each (1 kg = €6.98)"
+  },
+  {
+    "product_name": "ASIA GREEN GARDEN Spring Rolls 400g, Mini Rolls Vegetarian",
+    "price": "€2.79",
+    "details": "each (1 kg = €6.98)"
+  },
+  {
+    "product_name": "WONNEMEYER Salad Menu Classic 350g, Quinoa with Goat Cheese & Ham",
+    "price": "€2.99",
+    "details": "each (1 kg = €8.54)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Kimchi 220g, Original",
+    "price": "€3.99",
+    "details": "each (1 kg = €18.14)"
+  },
+  {
+    "product_name": "EHRMANN Protein Pudding 200 g, Vanilla",
+    "price": "€1.49",
+    "details": "each (1 kg = €7.45)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Gourmet Salami 125 g, Brie",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €15.92)"
+  },
+  {
+    "product_name": "DAYLICIOUS Salad Cup 300g, Greek Style",
+    "price": "€2.49",
+    "details": "each (1 kg = €8.30)"
+  },
+  {
+    "product_name": "DAYLICIOUS Salad Cup 300g, Cheese and Ham",
+    "price": "€2.49",
+    "details": "each (1 kg = €8.30)"
+  },
+  {
+    "product_name": "DAYLICIOUS salad cup 300 g, Sylt item",
+    "price": "€2.49",
+    "details": "each (1 kg = €8.30)"
+  },
+  {
+    "product_name": "DAYLICIOUS Salad Cup 300g, Chicken",
+    "price": "€2.49",
+    "details": "each (1 kg = €8.30)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Salami Sliced ​​Meat Platters 125 g, Pepper",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €19.92)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Salami Cold Cuts 125g, Cheese",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €19.92)"
+  },
+  {
+    "product_name": "MEAL TIME Potato dishes 400 g, potato gratin",
+    "price": "€1.49",
+    "details": "each (1 kg = €3.73)"
+  },
+  {
+    "product_name": "MÜLLER Fruit Buttermilk 500g, Strawberry",
+    "price": "€1.39",
+    "details": "each (1 kg = €2.78)"
+  },
+  {
+    "product_name": "MÜLLER Fruit Buttermilk 500g, Peach-Nectarine",
+    "price": "€1.39",
+    "details": "each (1 kg = €2.78)"
+  },
+  {
+    "product_name": "MÜLLER Fruit Buttermilk 500g, Multivitamin",
+    "price": "€1.39",
+    "details": "each (1 kg = €2.78)"
+  },
+  {
+    "product_name": "FROSTA Ready Meal 375g, Fried Noodles Bami-Style",
+    "price": "€2.99",
+    "details": "each (1 kg = €7.97)"
+  },
+  {
+    "product_name": "FROSTA Ready Meal 375g, Pasta with Wild Salmon",
+    "price": "€2.99",
+    "details": "each (1 kg = €7.97)"
+  },
+  {
+    "product_name": "MY VAY Vegan Mini Schnitzel 300 g",
+    "price": "€2.29",
+    "details": "each (1 kg = €7.63)"
+  },
+  {
+    "product_name": "MY VAY Vegan Cordon Bleu 300 g",
+    "price": "€2.29",
+    "details": "each (1 kg = €7.63)"
+  },
+  {
+    "product_name": "MY VAY Vegan Nuggets 300g",
+    "price": "€2.29",
+    "details": "each (1 kg = €7.63)"
+  },
+  {
+    "product_name": "CUCINA Pizza Ariosa 346 g, Margherita",
+    "price": "€2.99",
+    "details": "each (1 kg = €8.64)"
+  },
+  {
+    "product_name": "CUCINA Pizza Ariosa 383 g, salami",
+    "price": "€2.99",
+    "details": "each (1 kg = €7.81)"
+  },
+  {
+    "product_name": "EHRMANN Protein Pudding 200 g, Chocolate",
+    "price": "€1.49",
+    "details": "each (1 kg = €7.45)"
+  },
+  {
+    "product_name": "PATROS Feta 150g, Herbs",
+    "price": "€3.29",
+    "details": "each (1 kg = €21.93)"
+  },
+  {
+    "product_name": "PATROS Feta 150g, Light",
+    "price": "€3.29",
+    "details": "each (1 kg = €21.93)"
+  },
+  {
+    "product_name": "COPPENRATH & WIESE Cafeteria fine & creamy 530 g, almond-bee stalk.",
+    "price": "€5.99",
+    "details": "each (1 kg = €11.30)"
+  },
+  {
+    "product_name": "COPPENRATH & WIESE Cafeteria fine & creamy 600 g, Strawberry Yogurt",
+    "price": "€5.99",
+    "details": "each (1 kg = €9.98)"
+  },
+  {
+    "product_name": "COPPENRATH & WIESE Cafeteria fine & creamy 560 g, Cheese-Cream Mandarin.",
+    "price": "€5.99",
+    "details": "each (1 kg = €10.70)"
+  },
+  {
+    "product_name": "MÜLLER Müllermilch 400 ml, Chocolate",
+    "price": "€1.49",
+    "details": "each (1 L = €3.73)"
+  },
+  {
+    "product_name": "MÜLLER Müller Milk 400 ml, Banana",
+    "price": "€1.49",
+    "details": "each (1 L = €3.73)"
+  },
+  {
+    "product_name": "WILTMANN Gourmet Plate, Pepperoni 80 g",
+    "price": "€2.29",
+    "details": "Pack (1 kg = €28.63)"
+  },
+  {
+    "product_name": "WILTMANN Gourmet Plate, Pepper 80 g",
+    "price": "€2.29",
+    "details": "Pack (1 kg = €28.63)"
+  },
+  {
+    "product_name": "WEIHENSTEPHAN UHT Milk 3.5% 1 l",
+    "price": "€1.79",
+    "details": "each (1 L = €1.79)"
+  },
+  {
+    "product_name": "FROSTA Ready Meals 500g, Chicken Fricassee",
+    "price": "€4.79",
+    "details": "each (1 kg = €9.58)"
+  },
+  {
+    "product_name": "FROSTA Ready Meals 500g, Chicken Strips",
+    "price": "€4.79",
+    "details": "each (1 kg = €9.58)"
+  },
+  {
+    "product_name": "FROSTA Ready Meals 500g, Fried Potato Pan with Chicken",
+    "price": "€4.79",
+    "details": "each (1 kg = €9.58)"
+  },
+  {
+    "product_name": "FROSTA Ready Meals 450g, Wild Salmon Pasta",
+    "price": "€4.79",
+    "details": "each (1 kg = €10.64)"
+  },
+  {
+    "product_name": "IGLO gourmet fillet 380 g, Bordelaise crispy",
+    "price": "€4.49",
+    "details": "each (1 kg = €11.82)"
+  },
+  {
+    "product_name": "GÜLDENHOF Fine Delight 150g, Natural Turkey Breast",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €16.60)"
+  },
+  {
+    "product_name": "GÜLDENHOF Fine Delight 150 g, Chicken Breast Peppers",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €16.60)"
+  },
+  {
+    "product_name": "GÜLDENHOF Fine Delight 150g, Baked Chicken Breast",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €16.60)"
+  },
+  {
+    "product_name": "Leerdammer Caractère 125 g",
+    "price": "€2.89",
+    "details": "each (1 kg = €23.12)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Spreadable Minis 130 g, Cream Liverwurst",
+    "price": "€1.59",
+    "details": "Pack (1 kg = €12.23)"
+  },
+  {
+    "product_name": "GUT DREI OACHEN Spreadable Minis 130 g, Mixed Pack",
+    "price": "€1.59",
+    "details": "Pack (1 kg = €12.23)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Spreadable Minis 130 g, Coarse Tea Sausage",
+    "price": "€1.59",
+    "details": "Pack (1 kg = €12.23)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Free-Range Chicken Wings 350g, Seasoned",
+    "price": "€2.99",
+    "details": "each (1 kg = €7.11)"
+  },
+  {
+    "product_name": "GÜLDENHOF Mini Chicken Breast Fillet Pieces 150 g, Paprika",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €13.27)"
+  },
+  {
+    "product_name": "LYTTOS Snack Cubes 160 g, Herbs",
+    "price": "€2.49",
+    "details": "each (1 kg = €15.56)"
+  },
+  {
+    "product_name": "LYTTOS Snack Cubes 150 g, Natural",
+    "price": "€2.49",
+    "details": "each (1 kg = €16.60)"
+  },
+  {
+    "product_name": "LYTTOS snack cubes 150 g, Arrabiata",
+    "price": "€2.49",
+    "details": "each (1 kg = €16.60)"
+  },
+  {
+    "product_name": "LANDFREUDE Potato Dumplings 400g, Mini",
+    "price": "€1.29",
+    "details": "each (1 kg = €3.23)"
+  },
+  {
+    "product_name": "GOURMET counter salads 175 g, egg salad",
+    "price": "€1.99",
+    "details": "each (1 kg = €11.37)"
+  },
+  {
+    "product_name": "MY VAY Vegan Dinosaurs 300g",
+    "price": "€2.29",
+    "details": "each (1 kg = €7.63)"
+  },
+  {
+    "product_name": "JACK'S FARM oat fattening goose 4.4 kg",
+    "price": "€39.56",
+    "details": "each (1 kg = €8.99)"
+  },
+  {
+    "product_name": "GOURMET counter salads 150 g, cheese salad",
+    "price": "€1.99",
+    "details": "each (1 kg = €13.27)"
+  },
+  {
+    "product_name": "GOURMET deli salads 150g, poultry salad",
+    "price": "€1.99",
+    "details": "each (1 kg = €13.27)"
+  },
+  {
+    "product_name": "JACK'S FARM goose legs 900 g",
+    "price": "€13.49",
+    "details": "each (1 kg = €14.99)"
+  },
+  {
+    "product_name": "JACK'S FARM goose legs 950 g",
+    "price": "€14.19",
+    "details": "each (1 kg = €14.94)"
+  },
+  {
+    "product_name": "LA FINESSE Gourmet Soups 400 ml, Thai Soup",
+    "price": "€1.29",
+    "details": "each (1 L = € 3.23)"
+  },
+  {
+    "product_name": "LA FINESSE Gourmet Soups 400 ml, Tomato Soup",
+    "price": "€1.29",
+    "details": "each (1 L = € 3.23)"
+  },
+  {
+    "product_name": "CUCINA Gnocchi Variety 400g, Spinach-Basil",
+    "price": "€1.99",
+    "details": "each (1 kg = €4.98)"
+  },
+  {
+    "product_name": "CUCINA Gnocchi Variety 400g, Beetroot",
+    "price": "€1.99",
+    "details": "each (1 kg = €4.98)"
+  },
+  {
+    "product_name": "FAIR & GOOD Chicken Wings 500g, Natural",
+    "price": "€3.19",
+    "details": "each (1 kg = €6.38)"
+  },
+  {
+    "product_name": "FAIR & GOOD Chicken Wings 500g, Seasoned",
+    "price": "€3.19",
+    "details": "each (1 kg = €6.38)"
+  },
+  {
+    "product_name": "LANDFREUDE Potato Pancakes 300g, Mini",
+    "price": "€1.69",
+    "details": "each (1 kg = €5.63)"
+  },
+  {
+    "product_name": "JACK'S FARM Pork Cordon Bleu 670g",
+    "price": "€5.99",
+    "details": "each (1 kg = €8.94)"
+  },
+  {
+    "product_name": "JACK'S FARM schnitzel assortment 500 g, Alm",
+    "price": "€4.79",
+    "details": "each (1 kg = €9.58)"
+  },
+  {
+    "product_name": "JACK'S FARM Schnitzel Assortment 500g, Tuscan Style",
+    "price": "€4.79",
+    "details": "each (1 kg = €9.58)"
+  },
+  {
+    "product_name": "GÜLDENHOF Cold Cut Specialties 150g, Chicken",
+    "price": "€1.89",
+    "details": "Pack (1 kg = €12.60)"
+  },
+  {
+    "product_name": "TANNENHOF Black Forest Firewood Rods 130 g",
+    "price": "€2.79",
+    "details": "each (1 kg = €21.46)"
+  },
+  {
+    "product_name": "HERTA Juicy Meat Sausage 0.5 kg, Beechwood Smoked",
+    "price": "€3.79",
+    "details": "Pack (1 kg = €7.58)"
+  },
+  {
+    "product_name": "SETTELE Soup Garnishes 250 g, Wedding Soup",
+    "price": "€1.99",
+    "details": "each (1 kg = €7.96)"
+  },
+  {
+    "product_name": "SETTELE Soup Garnishes 250 g, Semolina Dumplings",
+    "price": "€1.99",
+    "details": "each (1 kg = €7.96)"
+  },
+  {
+    "product_name": "SETTELE Soup Garnishes 250 g, Flädle",
+    "price": "€1.99",
+    "details": "each (1 kg = €7.96)"
+  },
+  {
+    "product_name": "FAIR&GUT beef burger 260 g, Prime Burger",
+    "price": "€3.99",
+    "details": "each (1 kg = €15.35)"
+  },
+  {
+    "product_name": "HOFBURGER Cream Cheese Ring 125g, Pineapple",
+    "price": "€1.59",
+    "details": "each (1 kg = €12.72)"
+  },
+  {
+    "product_name": "HERTA Juicy Meat Sausage 0.5 kg, Garlic",
+    "price": "€3.79",
+    "details": "Pack (1 kg = €7.58)"
+  },
+  {
+    "product_name": "TULIP Bacon 125 g",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €15.92)"
+  },
+  {
+    "product_name": "GÜLDENHOF Poultry Vienna Sausages 400 g",
+    "price": "€2.49",
+    "details": "Pack (1 kg = €6.23)"
+  },
+  {
+    "product_name": "GIOVANNI RANA Rana Tortelloni 250 g, tomato-mozzarella",
+    "price": "€3.79",
+    "details": "each (1 kg = €15.16)"
+  },
+  {
+    "product_name": "DAYLICIOUS Sandwiches 185g, Ham and Cheese",
+    "price": "€1.99",
+    "details": "each (1 kg = €10.76)"
+  },
+  {
+    "product_name": "DAYLICIOUS Wraps 190 g, Chicken Sweet Chili",
+    "price": "€1.99",
+    "details": "each (1 kg = €10.47)"
+  },
+  {
+    "product_name": "DAYLICIOUS sandwiches 185 g, salami-Edam",
+    "price": "€1.99",
+    "details": "each (1 kg = €10.76)"
+  },
+  {
+    "product_name": "DAYLICIOUS sandwiches 185 g, turkey egg",
+    "price": "€1.99",
+    "details": "each (1 kg = €10.76)"
+  },
+  {
+    "product_name": "DR. OETKER Soul Warmer 58 g, Almond Cream",
+    "price": "€1.29",
+    "details": "each (1 kg = €22.24)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Fresh Sausage Slices 300 g, Mortadella with Mushrooms.",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €4.97)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Fresh Sausage Slices 300 g, Mortadella with Paprika",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €4.97)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Fresh Sausage Slices 300 g, Meat Red Sausage",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €4.97)"
+  },
+  {
+    "product_name": "GÜLDENHOF Fresh Sausage Slices 300 g, Poultry Estate Pâté",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €4.97)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Fresh Sausage Slices 300 g, Mortadella-Pistachio",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €4.97)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Fresh Sausage Slices 300 g, Paprika Lyoner",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €4.97)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Fresh Sausage Slices 300 g, Hunting Sausage",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €4.97)"
+  },
+  {
+    "product_name": "GÜLDENHOF Fresh Sausage Slices 300g, Poultry Paprika Lyoner",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €4.97)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Fresh Sausage Slices 225 g, Beer Ham",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €6.62)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Fresh Sausage Slices 300 g, Beer Sausage",
+    "price": "€1.49",
+    "details": "Pack (1 kg = €4.97)"
+  },
+  {
+    "product_name": "DR. OETKER Soul Warmer 59 g, Chocolate",
+    "price": "€1.29",
+    "details": "each (1 kg = €21.86)"
+  },
+  {
+    "product_name": "HOUDEK Organic Kabanos 150 g, Cheese Mini",
+    "price": "€2.99",
+    "details": "each (1 kg = €19.93)"
+  },
+  {
+    "product_name": "HOUDEK Organic Kabanos 150 g, Classic",
+    "price": "€2.99",
+    "details": "each (1 kg = €19.93)"
+  },
+  {
+    "product_name": "HOUDEK organic kabanos 150 g, peppers",
+    "price": "€2.99",
+    "details": "each (1 kg = €19.93)"
+  },
+  {
+    "product_name": "HOUDEK Organic Kabanos 150 g, Classic Mini",
+    "price": "€2.99",
+    "details": "each (1 kg = €19.93)"
+  },
+  {
+    "product_name": "MEAL TIME Ready meals 400 g, Cevapcici",
+    "price": "€2.29",
+    "details": "each (1 kg = €5.73)"
+  },
+  {
+    "product_name": "MEAL TIME Ready meals 480 g, minced steak",
+    "price": "€2.29",
+    "details": "each (1 kg = €4.77)"
+  },
+  {
+    "product_name": "MEAL TIME Ready meals 480 g, Turkey strips",
+    "price": "€2.29",
+    "details": "each (1 kg = €4.77)"
+  },
+  {
+    "product_name": "BILLIE GREEN Vegan salami 75 g, pepper",
+    "price": "€1.69",
+    "details": "each (1 kg = €22.53)"
+  },
+  {
+    "product_name": "BILLIE GREEN Vegan Salami 70g, Raw Ham",
+    "price": "€1.69",
+    "details": "each (1 kg = €24.14)"
+  },
+  {
+    "product_name": "BILLIE GREEN Vegan salami 70 g, baguette",
+    "price": "€1.69",
+    "details": "each (1 kg = €24.14)"
+  },
+  {
+    "product_name": "GOLDEN SEAFOOD crispy fillets 400 g, tomato mozzarella",
+    "price": "€2.79",
+    "details": "each (1 kg = €6.98)"
+  },
+  {
+    "product_name": "ALMARE Arctic Prawns 100g",
+    "price": "€1.99",
+    "details": "each (1 kg = €19.90)"
+  },
+  {
+    "product_name": "MY BUTCHER Corn-fed chicken 1.4 kg",
+    "price": "€7.79",
+    "details": "each (1 kg = €5.56)"
+  },
+  {
+    "product_name": "MUCCI Sensation Mini Chocolate 600 ml",
+    "price": "€3.49",
+    "details": "each (1 L = € 5.82)"
+  },
+  {
+    "product_name": "MY VAY Vegan Schnitzel 200g",
+    "price": "€1.99",
+    "details": "each (1 kg = €9.95)"
+  },
+  {
+    "product_name": "MY VAY Veggie / Vegan Sausages 200 g, Veggie Wieners",
+    "price": "€1.99",
+    "details": "each (1 kg = €9.95)"
+  },
+  {
+    "product_name": "JACK'S FARM Chicken Wings 750 g, mild",
+    "price": "€4.49",
+    "details": "each (1 kg = €5.99)"
+  },
+  {
+    "product_name": "GÜLDENHOF Poultry Fresh Sausage Slices 200 g, Estate Turkey",
+    "price": "€1.29",
+    "details": "Pack (1 kg = €6.45)"
+  },
+  {
+    "product_name": "MUCCI ice cream sandwich 720 ml, Classic",
+    "price": "€1.99",
+    "details": "each (1 L = € 2.76)"
+  },
+  {
+    "product_name": "MUCCI Ice Cream Sandwich 720 ml, Fürst-Pückler",
+    "price": "€1.99",
+    "details": "each (1 L = € 2.76)"
+  },
+  {
+    "product_name": "BILLIE GREEN Vegan Salami 75 g, Classic",
+    "price": "€1.69",
+    "details": "each (1 kg = €22.53)"
+  },
+  {
+    "product_name": "HOFBURGER Grated Cheese 250g, Standard",
+    "price": "€1.79",
+    "details": "each (1 kg = €7.16)"
+  },
+  {
+    "product_name": "ALMARE Tuna Salad 160g, Pasta",
+    "price": "€1.39",
+    "details": "each (1 kg = €8.69)"
+  },
+  {
+    "product_name": "ALMARE Tuna Salad 160g, Lentils",
+    "price": "€1.39",
+    "details": "each (1 kg = €8.69)"
+  },
+  {
+    "product_name": "ALMARE Tuna Salads 160g, Mexico",
+    "price": "€1.39",
+    "details": "each (1 kg = €8.69)"
+  },
+  {
+    "product_name": "MUCCI Mini Fruit Ice Cream Bars 600 ml",
+    "price": "€1.89",
+    "details": "each (1 L = €3.15)"
+  },
+  {
+    "product_name": "MY CAKE WORLD Muffins 360 g, Chocolate Stracciatella",
+    "price": "€1.89",
+    "details": "each (1 kg = €5.25)"
+  },
+  {
+    "product_name": "MUCCI Mochi Ice Cream 210g, Coconut",
+    "price": "€2.69",
+    "details": "each (1 L = €12.45)"
+  },
+  {
+    "product_name": "ALMARE SEAFOOD herring fillet 200 g, gourmet",
+    "price": "€1.09",
+    "details": "each (1 kg = €5.45)"
+  },
+  {
+    "product_name": "ALMARE SEAFOOD herring fillet 200 g, pepper",
+    "price": "€1.09",
+    "details": "each (1 kg = €5.45)"
+  },
+  {
+    "product_name": "ALMARE SEAFOOD herring fillet 200 g, curry pineapple",
+    "price": "€1.09",
+    "details": "each (1 kg = €5.45)"
+  },
+  {
+    "product_name": "ALMARE SEAFOOD Herring fillet 200 g, tomato sauce",
+    "price": "€1.09",
+    "details": "each (1 kg = €5.45)"
+  },
+  {
+    "product_name": "MEAL TIME Potato dumplings 600 g, Emmental cheese",
+    "price": "€2.29",
+    "details": "each (1 kg = €3.82)"
+  },
+  {
+    "product_name": "MEAL TIME Potato dumplings 600 g, cream cheese and herbs",
+    "price": "€2.29",
+    "details": "each (1 kg = €3.82)"
+  },
+  {
+    "product_name": "DINNERTIME Potato dumplings 600g, spinach-mozzarella",
+    "price": "€2.29",
+    "details": "each (1 kg = €3.82)"
+  },
+  {
+    "product_name": "MUCCI Ice Cream Tub Tricolor 1 l, Raspberry-Lemon-Strawberry",
+    "price": "€1.99",
+    "details": "each (1 L = €1.99)"
+  },
+  {
+    "product_name": "MUCCI Ice Cream Tub Tricolor 1 l, Hazelnut-Vanilla Chocolate",
+    "price": "€1.99",
+    "details": "each (1 L = €1.99)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Oven-baked cold cuts 150 g, Leberkäse",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €11.93)"
+  },
+  {
+    "product_name": "GÜLDENHOF Oven-baked cold cuts 125 g, poultry meatloaf",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €11.93)"
+  },
+  {
+    "product_name": "GÜLDENHOF Poultry Slices with 30% Vegetables 100g, Paprika",
+    "price": "€0.99",
+    "details": "Pack (1 kg = €9.90)"
+  },
+  {
+    "product_name": "RÜGENWALDER MÜHLE Vegan Whiskered Delight 70 g, Classic Chicken Type",
+    "price": "€1.59",
+    "details": "each (1 kg = €22.71)"
+  },
+  {
+    "product_name": "CUCINA Salsiccia 300 g, fennel",
+    "price": "€3.49",
+    "details": "Pack (1 kg = €11.63)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Spelt Pizza 330g, Grilled Vegetables",
+    "price": "€2.99",
+    "details": "each (1 kg = €9.06)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Spelt Pizza 335g, Spinach & Garlic",
+    "price": "€2.99",
+    "details": "each (1 kg = €8.93)"
+  },
+  {
+    "product_name": "Organic Bavarian meatloaf (pork) 300g",
+    "price": "€3.59",
+    "details": "Pack (1 kg = €11.97)"
+  },
+  {
+    "product_name": "GÜLDENHOF chicken breast fillet 100 g, curry",
+    "price": "€1.59",
+    "details": "Pack (1 kg = €15.90)"
+  },
+  {
+    "product_name": "MILSANI Mountain Farmer's Yogurt 450 g, Vanilla",
+    "price": "€1.39",
+    "details": "each (1 kg = €3.09)"
+  },
+  {
+    "product_name": "MILSANI Mountain Farmer's Yogurt 450g, Strawberry",
+    "price": "€1.39",
+    "details": "each (1 kg = €3.09)"
+  },
+  {
+    "product_name": "MILSANI Mountain Farmer's Yogurt 450g, Blueberry",
+    "price": "€1.39",
+    "details": "each (1 kg = €3.09)"
+  },
+  {
+    "product_name": "MILSANI Mountain Farmer's Yogurt 450g, Mango",
+    "price": "€1.39",
+    "details": "each (1 kg = €3.09)"
+  },
+  {
+    "product_name": "MILSANI Mountain Farmer's Yogurt 450 g, Bircher Muesli",
+    "price": "€1.39",
+    "details": "each (1 kg = €3.09)"
+  },
+  {
+    "product_name": "MILSANI Mountain Farmer's Yogurt in a Glass Jar 3.5% Fat 450g, Natural Yogurt",
+    "price": "€1.19",
+    "details": "each (1 kg = €2.64)"
+  },
+  {
+    "product_name": "MILSANI premium yogurt 200 g, pineapple",
+    "price": "€0.49",
+    "details": "each (1 kg = €2.45)"
+  },
+  {
+    "product_name": "MILSANI Premium Yogurt 200g, Plum-Cinnamon",
+    "price": "€0.49",
+    "details": "each (1 kg = €2.45)"
+  },
+  {
+    "product_name": "MILSANI Premium Yogurt 200g, Cherry",
+    "price": "€0.49",
+    "details": "each (1 kg = €2.45)"
+  },
+  {
+    "product_name": "MILSANI Premium Yogurt 200g, Raspberry",
+    "price": "€0.49",
+    "details": "each (1 kg = €2.45)"
+  },
+  {
+    "product_name": "MILSANI Premium Yogurt 200g, Blackcurrant",
+    "price": "€0.49",
+    "details": "each (1 kg = €2.45)"
+  },
+  {
+    "product_name": "MILSANI Premium Yogurt 200g, Blueberry",
+    "price": "€0.49",
+    "details": "each (1 kg = €2.45)"
+  },
+  {
+    "product_name": "MILSANI lactose-free mild yogurt, 3.8% fat, 500g",
+    "price": "€0.99",
+    "details": "each (1 kg = €1.98)"
+  },
+  {
+    "product_name": "MILSANI lactose-free yogurt 3.8% 500g, peach-passion fruit",
+    "price": "€0.99",
+    "details": "each (1 kg = €1.98)"
+  },
+  {
+    "product_name": "MILSANI lactose-free yogurt 500g, strawberry",
+    "price": "€0.99",
+    "details": "each (1 kg = €1.98)"
+  },
+  {
+    "product_name": "MY BUTCHER Mixed minced meat 0.8 kg",
+    "price": "€7.29",
+    "details": "each (1 kg = €9.11)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN beef salami 100 g",
+    "price": "€2.19",
+    "details": "Pack (1 kg = €21.90)"
+  },
+  {
+    "product_name": "OUR FRANCONIAN Franconian Farmer's Sausage, Classic 240 g",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €12.46)"
+  },
+  {
+    "product_name": "OUR FRANCONIAN Franconian Farmer's Sausage, Mini 160 g",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €18.69)"
+  },
+  {
+    "product_name": "Organic Yogurt & Crunchy Muesli 150g, Strawberry and Fruit",
+    "price": "€0.95",
+    "details": "each (1 kg = €6.33)"
+  },
+  {
+    "product_name": "Organic yogurt & crunchy muesli 150g, banana and chocolate",
+    "price": "€0.95",
+    "details": "each (1 kg = €6.33)"
+  },
+  {
+    "product_name": "Organic Yogurt & Crunchy Muesli 150g, Apple and Raspberry",
+    "price": "€0.95",
+    "details": "each (1 kg = €6.33)"
+  },
+  {
+    "product_name": "Organic Yogurt & Crunchy Muesli 150g, Vanilla and Chocolate",
+    "price": "€0.95",
+    "details": "each (1 kg = €6.33)"
+  },
+  {
+    "product_name": "KUNZLER Vienna Sausages 240 g",
+    "price": "€3.19",
+    "details": "Pack (1 kg = €13.29)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Belgian Liver Pâté 125 g, Classic",
+    "price": "€1.39",
+    "details": "Pack (1 kg = €11.12)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Onion sausage 120 g, ham",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €14.92)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Onion Mettwurst 120 g, Spicy",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €14.92)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Onion sausage 120 g, herbs",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €14.92)"
+  },
+  {
+    "product_name": "OUR BAVARIA Bavarian cold cuts 150 g, Leberkäse",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €13.27)"
+  },
+  {
+    "product_name": "ADLER SCHWARZWALD Servela 400 g",
+    "price": "€5.79",
+    "details": "Pack (1 kg = €14.48)"
+  },
+  {
+    "product_name": "OUR BAVARIA Bavarian cold cuts 150g, meatloaf bread slices",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €13.27)"
+  },
+  {
+    "product_name": "OUR BAVARIA Bavarian cold cuts 150g, Lyoner",
+    "price": "€1.99",
+    "details": "Pack (1 kg = €13.27)"
+  },
+  {
+    "product_name": "ONLY NATURE Organic Sheep's Milk Feta 180g",
+    "price": "€2.89",
+    "details": "each"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Katenschinkenwürfel 2 x 125 g",
+    "price": "€2.39",
+    "details": "Pack (1 kg = €9.56)"
+  },
+  {
+    "product_name": "MY CHEESE COUNTER Austrian Mountain Cheese 350 g",
+    "price": "€3.99",
+    "details": "each (1 kg = €11.40)"
+  },
+  {
+    "product_name": "GOURMET deli salads 200g, meat salad",
+    "price": "€1.99",
+    "details": "each (1 kg = €9.95)"
+  },
+  {
+    "product_name": "CUCINA Pinsa 350 g, prosciutto",
+    "price": "€3.49",
+    "details": "each (1 kg = €9.97)"
+  },
+  {
+    "product_name": "GUT DREI EICHEN Belly Bacon & Bacon Strips 250 g, Bacon Strips",
+    "price": "€2.79",
+    "details": "Pack (1 kg = €11.16)"
+  },
+  {
+    "product_name": "Florian's Flammkuchen bases 260 g",
+    "price": "€1.79",
+    "details": "each (1 kg = €6.88)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Venison goulash 400 g, venison goulash",
+    "price": "€8.99",
+    "details": "each (1 kg = €22.48)"
+  },
+  {
+    "product_name": "EHRMANN High Protein Pudding with Topping 200 g, Chocolate",
+    "price": "€1.49",
+    "details": "each (1 kg = €7.45)"
+  },
+  {
+    "product_name": "MILSANI Long-Life Whole Milk 1 l",
+    "price": "€0.99",
+    "details": "each (1 L = €0.99)"
+  },
+  {
+    "product_name": "LANDFREUDE free-range eggs, 18 pieces",
+    "price": "€3.39",
+    "details": "each"
+  },
+  {
+    "product_name": "MÜLLER Ayran 0.5 l",
+    "price": "€0.88",
+    "details": "each (1 kg = €1.76)"
+  },
+  {
+    "product_name": "LYTTOS Greek-style fruit yogurt 600g, blackberry",
+    "price": "€1.59",
+    "details": "each (1 kg = €2.65)"
+  },
+  {
+    "product_name": "BEST FROM THE REGION Free-range eggs from Franconia 6 pieces",
+    "price": "€1.99",
+    "details": "each"
+  },
+  {
+    "product_name": "Schwälbchen Green Sauce 400g",
+    "price": "€2.49",
+    "details": "each (1 kg = €6.23)"
+  },
+  {
+    "product_name": "Organic Vienna sausages 200g",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €14.95)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Dessert in a glass 60 g, Raspberry",
+    "price": "€1.19",
+    "details": "each (1 kg = €19.83)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Rösti Stars 600 g",
+    "price": "€2.29",
+    "details": "each (1 kg = €3.82)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE King prawns 360 g, natural",
+    "price": "€7.49",
+    "details": "each (1 kg = €20.81)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE King Prawns 400g, Herb Marinade",
+    "price": "€7.49",
+    "details": "each (1 kg = €18.73)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Venison goulash 500 g",
+    "price": "€8.99",
+    "details": "each (1 kg = €17.98)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Wild salmon fillet in puff pastry 300 g, spinach",
+    "price": "€2.99",
+    "details": "each (1 kg = €9.97)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Duchess potatoes 600 g",
+    "price": "€1.69",
+    "details": "each (1 kg = €2.82)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Italian Salami Specialties 100g, Salame con Semi di Finocchio",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €29.90)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Italian Salami Specialties 100g, Salame Nostrano",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €29.90)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Organic Gourmet Capers 180g, Capers in Oil",
+    "price": "€3.49",
+    "details": "each (1 kg = €19.39)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Gourmet salami 200 g, walnut",
+    "price": "€3.99",
+    "details": "each (1 kg = €19.95)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Gourmet Salami 200 g, Noble Mould",
+    "price": "€3.99",
+    "details": "each (1 kg = €19.95)"
+  },
+  {
+    "product_name": "GOURMET organic soups 400 ml, carrot",
+    "price": "€2.79",
+    "details": "each (1 L = €6.98)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Salame 100 g, Cremona",
+    "price": "€2.79",
+    "details": "Pack (1 kg = €27.90)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Salame 100 g, Cacciatore",
+    "price": "€2.79",
+    "details": "Pack (1 kg = €27.90)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Bresaola della Valtellina IGP 80 g",
+    "price": "€2.99",
+    "details": "Pack (1 kg = €37.38)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Black Angus Carpaccio 110 g",
+    "price": "€3.99",
+    "details": "Pack (1 kg = €36.27)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Macarons 144 g, Classic",
+    "price": "€3.99",
+    "details": "each (1 kg = €27.71)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Gourmet Raclette Cheese 400 g",
+    "price": "€4.99",
+    "details": "each (1 kg = €12.48)"
+  },
+  {
+    "product_name": "GOURMET FINEST CUISINE Mousse au Chocolat 80 g, classic",
+    "price": "€1.69",
+    "details": "each (1 kg = €21.13)"
+  },
+  {
+    "product_name": "GOURMET Norwegian salmon fillet side 750 g",
+    "price": "€14.99",
+    "details": "each (1 kg = €19.99)"
+  },
+  {
+    "product_name": "GOURMET Organic Filled Gnocchi 250g, Ricotta & Spinach",
+    "price": "€2.19",
+    "details": "each (1 kg = €8.76)"
+  },
+  {
+    "product_name": "Organic meatballs in a snack cup, 180g",
+    "price": "€2.59",
+    "details": "Pack (1 kg = €14.39)"
+  },
+  {
+    "product_name": "Organic ready meals 350g, Thai curry",
+    "price": "€1.69",
+    "details": "each (1 kg = €4.83)"
+  },
+  {
+    "product_name": "Organic vegetable assortment 750g, Kaiser vegetables",
+    "price": "€2.69",
+    "details": "each (1 kg = €3.59)"
+  },
+  {
+    "product_name": "Organic vegetable assortment 750g, cauliflower",
+    "price": "€2.69",
+    "details": "each (1 kg = €3.59)"
+  },
+  {
+    "product_name": "Organic sausage specialties 200g, chicken Vienna sausages",
+    "price": "€2.89",
+    "details": "Pack (1 kg = €14.45)"
+  },
+  {
+    "product_name": "Organic cold cuts assortment 125g, organic ham Lyoner",
+    "price": "€1.79",
+    "details": "Pack (1 kg = €14.32)"
+  }
+]

@@ -1,0 +1,5462 @@
+[
+  {
+    "product_name": "APPEL Tender Herring Fillets",
+    "weight_or_unit": "each 190-200g can",
+    "price_now": "1.00",
+    "price_before": "1.99",
+    "important_info": "APPLE; Tender herring fillets; (1 kg = 5.00 - 5.27); 49%"
+  },
+  {
+    "product_name": "MILRAM sliced ​​cheese",
+    "weight_or_unit": "each 150g pack.",
+    "price_now": "1.44",
+    "price_before": "2.69",
+    "important_info": "MILRAM; sliced ​​cheese; (1 kg = 9.60); 46%"
+  },
+  {
+    "product_name": "Dutch/Belgian Brussels sprouts",
+    "weight_or_unit": "each 750g net",
+    "price_now": "0.79",
+    "price_before": "1.49",
+    "important_info": "Dutch/Belgian Brussels sprouts; (1 kg = 1.06); 46%"
+  },
+  {
+    "product_name": "VALENSINA Fruit Juice",
+    "weight_or_unit": "each 0.7 - 1-liter PET bottle.",
+    "price_now": "1.39",
+    "price_before": "2.49",
+    "important_info": "VALENSINA; fruit juice; (1 l = 1.39 - 1.99); 44%"
+  },
+  {
+    "product_name": "Spanish/Dutch paprika",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "0.99",
+    "price_before": "1.69",
+    "important_info": "Spanish/Dutch paprika; (1 kg = 1.98); 41%"
+  },
+  {
+    "product_name": "MILKA Chocolate",
+    "weight_or_unit": "each 250-300g bar",
+    "price_now": "2.99",
+    "price_before": "4.99",
+    "important_info": "MILKA; Chocolate; (1kg = 9.97 - 11.96) / (1kg = 9.24 - 11.08)**; 40%; 44%"
+  },
+  {
+    "product_name": "German table potatoes",
+    "weight_or_unit": "each 7.5 kg bag",
+    "price_now": "4.99",
+    "price_before": "7.99",
+    "important_info": "German table potatoes; (1 kg = 0.67); 37%"
+  },
+  {
+    "product_name": "Young duck",
+    "weight_or_unit": "per kg",
+    "price_now": "3.69",
+    "price_before": "5.83",
+    "important_info": "Young duck; 36%"
+  },
+  {
+    "product_name": "Egyptian/South African sweet potatoes, loose",
+    "weight_or_unit": "per kg",
+    "price_now": "1.49",
+    "price_before": "2.29",
+    "important_info": "Egyptian/South African sweet potatoes, loose; 34%"
+  },
+  {
+    "product_name": "Ecuador./Colomb. Bananas, loose",
+    "weight_or_unit": "per kg",
+    "price_now": "0.85",
+    "price_before": "1.29",
+    "important_info": "Ecuador./Colomb. Bananas, loose; 34%"
+  },
+  {
+    "product_name": "CHIVAS REGAL Blended Scotch Whiskey",
+    "weight_or_unit": "each 0.7-liter bottle.",
+    "price_now": "19.99",
+    "price_before": "29.99",
+    "important_info": "CHIVAS REGAL; Blended Scotch Whisky; (1 l = 28.56); 33%"
+  },
+  {
+    "product_name": "Spanish clementines with leaves",
+    "weight_or_unit": "each 750g pack.",
+    "price_now": "1.99",
+    "price_before": "2.99",
+    "important_info": "Spanish clementines with leaves; (1 kg = 2.66); 33%"
+  },
+  {
+    "product_name": "German/Dutch red onions",
+    "weight_or_unit": "per 1 kg pack",
+    "price_now": "0.99",
+    "price_before": "1.49",
+    "important_info": "German/Dutch red onions; 33%"
+  },
+  {
+    "product_name": "Chinese/Brazilian ginger, loose",
+    "weight_or_unit": "per kg",
+    "price_now": "3.99",
+    "price_before": "5.99",
+    "important_info": "Chinese/Brazilian ginger, loose; 33%"
+  },
+  {
+    "product_name": "FROSTA fish fingers",
+    "weight_or_unit": "10 - 15 pieces each = 390 - 450 g pack.",
+    "price_now": "2.79",
+    "price_before": "3.99",
+    "important_info": "FROSTA; (1 kg = 6.20 - 7.16); 30%"
+  },
+  {
+    "product_name": "Spanish organic bell peppers, red and yellow",
+    "weight_or_unit": "each 400g pack.",
+    "price_now": "1.99",
+    "price_before": "2.79",
+    "important_info": "Spanish organic bell peppers, red and yellow; (1 kg = 4.98); 28%"
+  },
+  {
+    "product_name": "Spanish lemons",
+    "weight_or_unit": "each 500g net",
+    "price_now": "1.29",
+    "price_before": "1.79",
+    "important_info": "Spanish lemons; (1 kg = 2.58); 27%"
+  },
+  {
+    "product_name": "German/Italian red dessert apples",
+    "weight_or_unit": "per 1 kg tray",
+    "price_now": "1.49",
+    "price_before": "1.99",
+    "important_info": "German/Italian red dessert apples; 25%"
+  },
+  {
+    "product_name": "Dominik. Avocado, loose",
+    "weight_or_unit": null,
+    "price_now": "2.99",
+    "price_before": "3.99",
+    "important_info": "Dominik. Avocado, loose; each; 25%"
+  },
+  {
+    "product_name": "German Basil XXL",
+    "weight_or_unit": null,
+    "price_now": "1.49",
+    "price_before": "1.99",
+    "important_info": "German Basil XXL; per pot; 25%"
+  },
+  {
+    "product_name": "ÖMÜR Böreklik",
+    "weight_or_unit": "each 1.5 kg can",
+    "price_now": "4.99",
+    "price_before": "3.99",
+    "important_info": "ÖMÜR; Böreklik; Drained weight 800 g (1 kg = 6.24) / Drained weight 800 g (1 kg = 4.99)**"
+  },
+  {
+    "product_name": "RÜGENWALDER MÜHLE Vegan Sausage Alternative",
+    "weight_or_unit": "70-80g pack each",
+    "price_now": "1.11",
+    "price_before": "1.59",
+    "important_info": "RÜGENWALDER MILL; Vegan sausage alternative; (1kg = 13.88 - 15.86) / (1kg = 12.38 - 14.15)**; 30%; 37%"
+  },
+  {
+    "product_name": "WASA crispbread",
+    "weight_or_unit": "200-275g pack each",
+    "price_now": "1.79",
+    "price_before": "1.49",
+    "important_info": "WASA; crispbread; (1kg = 6.51 - 8.95) / (1kg = 5.42 - 7.45)**"
+  },
+  {
+    "product_name": "KNORR Sauce",
+    "weight_or_unit": "(1 l = 0.84 - 1.31) / (1 l = 0.73 - 1.14)**",
+    "price_now": "2.29",
+    "price_before": "2.89",
+    "important_info": "KNORR; sauce; per can; 20%; 31%"
+  },
+  {
+    "product_name": "MILKA Chocolate",
+    "weight_or_unit": "each 250-300g bar",
+    "price_now": "2.99",
+    "price_before": "4.99",
+    "important_info": "MILKA; Chocolate; (1kg = 9.97 - 11.96) / (1kg = 9.24 - 11.08)**; 40%; 44%"
+  },
+  {
+    "product_name": "LINDT Lindor",
+    "weight_or_unit": "each 375g pack.",
+    "price_now": "7.99",
+    "price_before": "6.99",
+    "important_info": "LINDT; Lindor; (1kg = 21.31) / (1kg = 18.64)**"
+  },
+  {
+    "product_name": "CAPTAIN MORGAN Spiced Gold or White Rum",
+    "weight_or_unit": "each 0.7-liter bottle.",
+    "price_now": "9.99",
+    "price_before": "12.99",
+    "important_info": "CAPTAIN MORGAN; Spiced Gold or White Rum; (1 l = 14.28) / (1 l = 12.85)**; 23%; 30%"
+  },
+  {
+    "product_name": "ERBEN Spätlese, Scheurebe, Grauburgunder or Riesling",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.49",
+    "price_before": "2.99",
+    "important_info": "INHERIT; Spätlese, Scheurebe, Grauburgunder or Riesling; (1 l = 4.66) / (1 l = 3.99)**"
+  },
+  {
+    "product_name": "FUZE TEA Refreshing Drink",
+    "weight_or_unit": "each 1.25-liter PET bottle.",
+    "price_now": "1.29",
+    "price_before": "1.11",
+    "important_info": "FUZE TEA; soft drink; (1 l = 1.04) / (1 l = 0.89)**"
+  },
+  {
+    "product_name": "PERSIL laundry detergent",
+    "weight_or_unit": null,
+    "price_now": "17.99",
+    "price_before": "16.99",
+    "important_info": "PERSIL; detergent; each; (per application = 0.18 - 0.36) / (per application = 0.17 - 0.34)**"
+  },
+  {
+    "product_name": "PAMPERS Baby Wipes",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": "7.99",
+    "important_info": "PAMPERS; wet wipes; 12 x 52-piece packs each; (per piece = 0.02 - 0.04) / (per piece = 0.02 - 0.03)**"
+  },
+  {
+    "product_name": "GUHL Shampoo or Conditioner",
+    "weight_or_unit": "200-250 ml bottles each",
+    "price_now": "3.29",
+    "price_before": "3.95",
+    "important_info": "GUHL; Shampoo or conditioner; (1 l = 13.16 - 16.45) / (1 l = 11.96 - 14.95)**; 16%; 24%"
+  },
+  {
+    "product_name": "SHEBA Sauce Collection or Selection",
+    "weight_or_unit": "each 85g pack.",
+    "price_now": "0.49",
+    "price_before": "0.39",
+    "important_info": "SHEBA; Sauce Collection or Selection; (1kg = 5.77) / (1kg = 4.59)**"
+  },
+  {
+    "product_name": "SWITCH ON® vacuum sealer »SOV 125 C6«",
+    "weight_or_unit": null,
+    "price_now": "19.99",
+    "price_before": "39.99",
+    "important_info": "SWITCH ON®; Vacuum sealer »SOV 125 C6«; each; 50%; 57%"
+  },
+  {
+    "product_name": "SWITCH ON® vacuum sealer »SOV 125 C6«",
+    "weight_or_unit": null,
+    "price_now": "19.99",
+    "price_before": "16.99",
+    "important_info": "SWITCH ON®; Vacuum sealer »SOV 125 C6«; each; 15%"
+  },
+  {
+    "product_name": "KIDLAND® Railway Set »Amusement Park«",
+    "weight_or_unit": null,
+    "price_now": "29.99",
+    "price_before": "23.99",
+    "important_info": "KIDLAND®; Railway set \"Amusement Park\"; 32 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® \"My First Train\" Montessori Set",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": "11.99",
+    "important_info": "KIDLAND®; \"My First Train\" Montessori Set; 41 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® \"My First Track\" Underwater Set",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": "11.99",
+    "important_info": "KIDLAND®; \"My First Train\" Underwater Set; 34 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® Railway Set »Construction Site«",
+    "weight_or_unit": null,
+    "price_now": "29.99",
+    "price_before": "23.99",
+    "important_info": "KIDLAND®; Railway set \"Construction site\"; 59 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® Parkside Workbench",
+    "weight_or_unit": null,
+    "price_now": "49.99",
+    "price_before": "44.99",
+    "important_info": "KIDLAND®; Parkside workbench; 74 pieces each; 10%"
+  },
+  {
+    "product_name": "KIDLAND® Railway Set »Jungle«",
+    "weight_or_unit": null,
+    "price_now": "24.99",
+    "price_before": "19.99",
+    "important_info": "KIDLAND®; Jungle Railway Set; 35 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® Railway Set »Passenger Train«",
+    "weight_or_unit": null,
+    "price_now": "24.99",
+    "price_before": "19.99",
+    "important_info": "KIDLAND®; Railway set \"Passenger train\"; 50 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® Kitchen",
+    "weight_or_unit": null,
+    "price_now": "49.99",
+    "price_before": "44.99",
+    "important_info": "KIDLAND®; Kitchen; 24 pieces each; 10%"
+  },
+  {
+    "product_name": "AIR UP Flavor Pods",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": "7.99",
+    "important_info": "AIR UP; Flavor Pods; 3-piece pack each; 11%"
+  },
+  {
+    "product_name": "AIR UP Tumbler",
+    "weight_or_unit": null,
+    "price_now": "29.99",
+    "price_before": "26.99",
+    "important_info": "AIR UP; Tumbler; each; 10%"
+  },
+  {
+    "product_name": "DR. OETKER Bistro",
+    "weight_or_unit": "2 pieces each = 250g pack",
+    "price_now": "1.19",
+    "price_before": "2.29",
+    "important_info": "DR. OETKER; bistro; (1kg = 9.16) / (1kg = 4.76)**; 48%"
+  },
+  {
+    "product_name": "ZEWA Wipe & Go",
+    "weight_or_unit": null,
+    "price_now": "2.49",
+    "price_before": "2.95",
+    "important_info": "ZEWA; Wipe & Go; Each pack contains 4 x 45 sheets.; 15%; 24%"
+  },
+  {
+    "product_name": "German/Italian red dessert apples",
+    "weight_or_unit": "per 1 kg tray",
+    "price_now": "1.49",
+    "price_before": "1.99",
+    "important_info": "German/Italian red dessert apples; 25%"
+  },
+  {
+    "product_name": "Peruvian. Cultivated blueberries XXL",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "Peruvian. Cultivated blueberries XXL; (1 kg = 7.98)"
+  },
+  {
+    "product_name": "Spanish clementines with leaves",
+    "weight_or_unit": "each 750g pack.",
+    "price_now": "1.99",
+    "price_before": "2.99",
+    "important_info": "Spanish clementines with leaves; (1 kg = 2.66); 33%"
+  },
+  {
+    "product_name": "Spanish lemons",
+    "weight_or_unit": "each 500g net",
+    "price_now": "1.29",
+    "price_before": "1.79",
+    "important_info": "Spanish lemons; (1 kg = 2.58); 27%"
+  },
+  {
+    "product_name": "Italian gold kiwi, loose",
+    "weight_or_unit": null,
+    "price_now": "0.79",
+    "price_before": null,
+    "important_info": "Italian gold kiwi, loose; each"
+  },
+  {
+    "product_name": "German table apples Cameo",
+    "weight_or_unit": "per 2 kg carton",
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "German table apples Cameo; (1 kg = 2.00)"
+  },
+  {
+    "product_name": "Dominik. Avocado, loose",
+    "weight_or_unit": null,
+    "price_now": "2.99",
+    "price_before": "3.99",
+    "important_info": "Dominik. Avocado, loose; each; 25%"
+  },
+  {
+    "product_name": "German table potatoes",
+    "weight_or_unit": "each 7.5 kg bag",
+    "price_now": "4.99",
+    "price_before": "7.99",
+    "important_info": "German table potatoes; (1 kg = 0.67); 37%"
+  },
+  {
+    "product_name": "German/Dutch red onions",
+    "weight_or_unit": "per 1 kg pack",
+    "price_now": "0.99",
+    "price_before": "1.49",
+    "important_info": "German/Dutch red onions; 33%"
+  },
+  {
+    "product_name": "Egyptian/South African sweet potatoes, loose",
+    "weight_or_unit": "per kg",
+    "price_now": "1.49",
+    "price_before": "2.29",
+    "important_info": "Egyptian/South African sweet potatoes, loose; 34%"
+  },
+  {
+    "product_name": "German vine tomatoes",
+    "weight_or_unit": "each 650g pack.",
+    "price_now": "1.99",
+    "price_before": "2.49",
+    "important_info": "German vine tomatoes; (1 kg = 3.07); 20%"
+  },
+  {
+    "product_name": "German Basil XXL",
+    "weight_or_unit": null,
+    "price_now": "1.49",
+    "price_before": "1.99",
+    "important_info": "German Basil XXL; per pot; 25%"
+  },
+  {
+    "product_name": "Italian loose-leaf lettuce",
+    "weight_or_unit": "each 125g pack.",
+    "price_now": "0.89",
+    "price_before": null,
+    "important_info": "Italian loose-leaf lettuce; (1 kg = 7.12)"
+  },
+  {
+    "product_name": "Italian rocket",
+    "weight_or_unit": "each 125g pack.",
+    "price_now": "0.89",
+    "price_before": null,
+    "important_info": "Italian rocket; (1 kg = 7.12)"
+  },
+  {
+    "product_name": "Italian baby spinach",
+    "weight_or_unit": "each 150g pack.",
+    "price_now": "0.89",
+    "price_before": null,
+    "important_info": "Italian baby spinach; (1 kg = 5.94)"
+  },
+  {
+    "product_name": "Spanish organic bell peppers, red and yellow",
+    "weight_or_unit": "each 400g pack.",
+    "price_now": "1.99",
+    "price_before": "2.79",
+    "important_info": "Spanish organic bell peppers, red and yellow; (1 kg = 4.98); 28%"
+  },
+  {
+    "product_name": "Demeter German carrots",
+    "weight_or_unit": "each 750g pack.",
+    "price_now": "1.49",
+    "price_before": "1.99",
+    "important_info": "Demeter German carrots; (1 kg = 1.99); 25%"
+  },
+  {
+    "product_name": "Chinese/Brazilian ginger, loose",
+    "weight_or_unit": "per kg",
+    "price_now": "3.99",
+    "price_before": "5.99",
+    "important_info": "Chinese/Brazilian ginger, loose; 33%"
+  },
+  {
+    "product_name": "Bouquet of flowers",
+    "weight_or_unit": null,
+    "price_now": "19.99",
+    "price_before": null,
+    "important_info": "Bouquet of flowers; each"
+  },
+  {
+    "product_name": "Christmas star or magic star",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "Christmas star or magic star; each"
+  },
+  {
+    "product_name": "Christmas star or magic star",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "Christmas star or magic star; each"
+  },
+  {
+    "product_name": "Christmas star or magic star",
+    "weight_or_unit": null,
+    "price_now": "1.29",
+    "price_before": null,
+    "important_info": "Christmas star or magic star; each"
+  },
+  {
+    "product_name": "Partridgeberry",
+    "weight_or_unit": null,
+    "price_now": "2.49",
+    "price_before": null,
+    "important_info": "Partridgeberry; each"
+  },
+  {
+    "product_name": "garden plant",
+    "weight_or_unit": null,
+    "price_now": "1.49",
+    "price_before": null,
+    "important_info": "garden plant; each"
+  },
+  {
+    "product_name": "garden plant",
+    "weight_or_unit": null,
+    "price_now": "2.79",
+    "price_before": null,
+    "important_info": "garden plant; each"
+  },
+  {
+    "product_name": "garden plant",
+    "weight_or_unit": null,
+    "price_now": "2.79",
+    "price_before": null,
+    "important_info": "garden plant; each"
+  },
+  {
+    "product_name": "chrysanthemum",
+    "weight_or_unit": null,
+    "price_now": "2.22",
+    "price_before": null,
+    "important_info": "chrysanthemum; each"
+  },
+  {
+    "product_name": "Dutch/Belgian Brussels sprouts",
+    "weight_or_unit": "each 750g net",
+    "price_now": "0.79",
+    "price_before": "1.49",
+    "important_info": "Dutch/Belgian Brussels sprouts; (1 kg = 1.06); 46%"
+  },
+  {
+    "product_name": "American/Egyptian peanuts XXL",
+    "weight_or_unit": "each 750g bag",
+    "price_now": "2.99",
+    "price_before": "3.99",
+    "important_info": "American/Egyptian peanuts XXL; (1 kg = 3.99); 25%"
+  },
+  {
+    "product_name": "Ecuador./Colomb. Bananas, loose",
+    "weight_or_unit": "per kg",
+    "price_now": "0.85",
+    "price_before": "1.29",
+    "important_info": "Ecuador./Colomb. Bananas, loose; 34%"
+  },
+  {
+    "product_name": "Spanish/Dutch paprika",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "0.99",
+    "price_before": "1.69",
+    "important_info": "Spanish/Dutch paprika; (1 kg = 1.98); 41%"
+  },
+  {
+    "product_name": "Two-tone rose",
+    "weight_or_unit": null,
+    "price_now": "3.00",
+    "price_before": null,
+    "important_info": "Two-tone rose; each"
+  },
+  {
+    "product_name": "K-PURLAND Quick Cooking Sliced ​​Meat Hunter Style",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "3.33",
+    "price_before": null,
+    "important_info": "K-PURLAND Fast Food; Sliced ​​Hunter's Style; (1 kg = 6.66)"
+  },
+  {
+    "product_name": "K-PURLAND Original Thuringian Rostbratwurst (raw)",
+    "weight_or_unit": "4 pieces each = 400g pack",
+    "price_now": "2.39",
+    "price_before": "2.99",
+    "important_info": "K-PURLAND; Original Thuringian Rostbratwurst (raw); (1 kg = 5.98); 20%"
+  },
+  {
+    "product_name": "K-PURLAND XXL pork meat package",
+    "weight_or_unit": "per kg",
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "K-PURLAND; XXL pork meat package; (e.g., for a 5 kg package, 29.95)"
+  },
+  {
+    "product_name": "WILLMS Cordon Bleu",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "3.79",
+    "price_before": "4.99",
+    "important_info": "WILLMS; Cordon Bleu; (1 kg = 7.58); 24%"
+  },
+  {
+    "product_name": "K-PURLAND Kasseler Spare Ribs, from pork, smoked",
+    "weight_or_unit": "per kg",
+    "price_now": "5.69",
+    "price_before": "7.99",
+    "important_info": "K-PURLAND; Kasseler spare ribs, from pork, smoked; 28%"
+  },
+  {
+    "product_name": "K-PURLAND Pork Belly with Bone",
+    "weight_or_unit": "per kg",
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "K-PURLAND; Pork belly with bone"
+  },
+  {
+    "product_name": "K-PURLAND Gourmet Roast Pork Neck",
+    "weight_or_unit": "per kg",
+    "price_now": "6.99",
+    "price_before": null,
+    "important_info": "K-PURLAND; Gourmet roast pork neck"
+  },
+  {
+    "product_name": "K-BIO Bioland pork schnitzel",
+    "weight_or_unit": "per kg",
+    "price_now": "17.95",
+    "price_before": null,
+    "important_info": "K-BIO; Bioland pork schnitzel; (e.g., for a 250g pack, 4.49)"
+  },
+  {
+    "product_name": "K-PURLAND Beef Brisket XXL from the young bull",
+    "weight_or_unit": "per kg",
+    "price_now": "15.99",
+    "price_before": null,
+    "important_info": "K-PURLAND; Beef Brisket XXL from the young bull; (e.g. for a 1.5 kg pack 23.99)"
+  },
+  {
+    "product_name": "K-PURLAND Beef Roulades XXL",
+    "weight_or_unit": "per kg",
+    "price_now": "15.99",
+    "price_before": null,
+    "important_info": "K-PURLAND; XXL beef roulades"
+  },
+  {
+    "product_name": "K-PURLAND ground beef",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "K-PURLAND; ground beef; (1 kg = 9.98)"
+  },
+  {
+    "product_name": "K-PURLAND Chicken Strips XXL",
+    "weight_or_unit": "each 800g bulk pack.",
+    "price_now": "6.99",
+    "price_before": null,
+    "important_info": "K-PURLAND; Chicken strips XXL; (1 kg = 8.74)"
+  },
+  {
+    "product_name": "HEIDEMARK Turkey BBQ Wings XXL",
+    "weight_or_unit": "each 1.1 kg bulk pack.",
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "HEIDEMARK; Turkey BBQ Wings XXL; (1 kg = 4.54)"
+  },
+  {
+    "product_name": "Chicken rolls",
+    "weight_or_unit": "per 300g pack.",
+    "price_now": "2.49",
+    "price_before": "3.19",
+    "important_info": "Chicken rolls; (1 kg = 8.30); 21%"
+  },
+  {
+    "product_name": "K-PURLAND turkey mini fillets XXL",
+    "weight_or_unit": "each 800g bulk pack.",
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "K-PURLAND; XXL turkey mini fillets; (1 kg = 9.99)"
+  },
+  {
+    "product_name": "K-PURLAND Chicken Breast Fillet Pieces XXL",
+    "weight_or_unit": "each 1 kg bulk pack.",
+    "price_now": "7.77",
+    "price_before": null,
+    "important_info": "K-PURLAND; Chicken breast fillet pieces XXL"
+  },
+  {
+    "product_name": "K-PURLAND marinated lamb loin",
+    "weight_or_unit": "per kg",
+    "price_now": "28.95",
+    "price_before": "32.99",
+    "important_info": "K-PURLAND; Marinated lamb loin; (e.g. for a 200g pack 5.79); 12%"
+  },
+  {
+    "product_name": "K-PURLAND mixed goulash",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "4.99",
+    "price_before": "5.89",
+    "important_info": "K-PURLAND; mixed goulash; (1 kg = 9.98); 15%"
+  },
+  {
+    "product_name": "K-CLASSIC Mini Wieners or Turkey Wieners",
+    "weight_or_unit": "12 pieces each = 320g pack",
+    "price_now": "2.22",
+    "price_before": "2.59",
+    "important_info": "K-CLASSIC; Mini wieners or turkey wieners; (1 kg = 6.94); 14%"
+  },
+  {
+    "product_name": "K-CLASSIC White Sausage",
+    "weight_or_unit": "5 pieces each = 300g pack",
+    "price_now": "2.29",
+    "price_before": "2.99",
+    "important_info": "K-CLASSIC; White sausage; (1 kg = 7.64); 23%"
+  },
+  {
+    "product_name": "HERTA Grilled or Juicy Ham XXL",
+    "weight_or_unit": "each 140g bulk pack.",
+    "price_now": "1.99",
+    "price_before": null,
+    "important_info": "HERTA; XXL grilled or juicy ham; (1 kg = 14.22)"
+  },
+  {
+    "product_name": "WILTMANN Pepper Belly",
+    "weight_or_unit": "per 50g pack.",
+    "price_now": "1.79",
+    "price_before": "2.29",
+    "important_info": "WILTMANN; Pepper belly; (1 kg = 35.80); 21%"
+  },
+  {
+    "product_name": "BERSCHNEIDER Nut Ham",
+    "weight_or_unit": "per 100g pack",
+    "price_now": "1.39",
+    "price_before": null,
+    "important_info": "BERSCHNEIDER; Nut ham; (1 kg = 13.90)"
+  },
+  {
+    "product_name": "REINERT Ham Nuggets",
+    "weight_or_unit": "3 x 50g packs each.",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "REINERT; Ham nuggets; (1 kg = 13.34)"
+  },
+  {
+    "product_name": "WILTMANN Organic Salami",
+    "weight_or_unit": "50-80g packs each",
+    "price_now": "1.99",
+    "price_before": "2.69",
+    "important_info": "WILTMANN; Organic salami; (1 kg = 24.88 - 39.80); 26%"
+  },
+  {
+    "product_name": "MONTORSI Italian Salami",
+    "weight_or_unit": "per 100g pack",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "MONTORSI; Italian salami; (1 kg = 20.00)"
+  },
+  {
+    "product_name": "K-FAVOURITES Salami Spianata Romana or Piccante",
+    "weight_or_unit": "per 100g pack",
+    "price_now": "1.49",
+    "price_before": "1.99",
+    "important_info": "K-FAVOURITES; Salami Spianata Romana or Piccante; (1 kg = 14.90); 25%"
+  },
+  {
+    "product_name": "K-FAVOURITES Appetizer",
+    "weight_or_unit": "each 120g pack.",
+    "price_now": "2.99",
+    "price_before": "3.99",
+    "important_info": "K-FAVOURITES; appetizer; (1 kg = 24.92); 25%"
+  },
+  {
+    "product_name": "BIFI Carazza",
+    "weight_or_unit": "3 pieces each = 120g pack",
+    "price_now": "2.22",
+    "price_before": "2.89",
+    "important_info": "BIFI; Carazza; (1 kg = 18.50); 23%"
+  },
+  {
+    "product_name": "SNACK IT Vege Story Snack",
+    "weight_or_unit": "each 90g pack.",
+    "price_now": "1.49",
+    "price_before": "1.99",
+    "important_info": "SNACK IT; Vege Story Snack; (1 kg = 16.56); 25%"
+  },
+  {
+    "product_name": "K-FAVOURITES Tyrolini",
+    "weight_or_unit": "each 90g pack.",
+    "price_now": "1.59",
+    "price_before": null,
+    "important_info": "K-FAVOURITES; Tyrolini; (1 kg = 17.67)"
+  },
+  {
+    "product_name": "TARCZYNSKI Original Polish Krakow",
+    "weight_or_unit": "each 320g pack.",
+    "price_now": "3.00",
+    "price_before": null,
+    "important_info": "TARCZYNSKI; Original Polish Krakow sausage; (1 kg = 9.38)"
+  },
+  {
+    "product_name": "TULIP breakfast meat",
+    "weight_or_unit": "each 340g can",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "TULIP; Breakfast meat; (1 kg = 5.89)"
+  },
+  {
+    "product_name": "MEICA Truman's",
+    "weight_or_unit": "each 540g jar",
+    "price_now": "3.00",
+    "price_before": "4.49",
+    "important_info": "MEICA; Truman's; Drained weight 350 g (1 kg = 8.58); 33%"
+  },
+  {
+    "product_name": "Homemade Bockwurst",
+    "weight_or_unit": "per 100 g",
+    "price_now": "0.99",
+    "price_before": "1.49",
+    "important_info": "Made in-house; Bockwurst; 33%"
+  },
+  {
+    "product_name": "Homemade Krakauer",
+    "weight_or_unit": "per 100 g",
+    "price_now": "0.79",
+    "price_before": "1.69",
+    "important_info": "Made in-house; Krakauer; 53%"
+  },
+  {
+    "product_name": "NOTHWANG Honey Ham",
+    "weight_or_unit": "per 100 g",
+    "price_now": "1.99",
+    "price_before": "2.49",
+    "important_info": "NOTHWANG; Honey ham; 20%"
+  },
+  {
+    "product_name": "ZIMMERMANN Colorful Pepper Ham",
+    "weight_or_unit": "per 100 g",
+    "price_now": "1.79",
+    "price_before": null,
+    "important_info": "CARPENTER; Colorful pepper ham"
+  },
+  {
+    "product_name": "RÜGENWALDER MÜHLE Pomeranian Estate Liver Sausage",
+    "weight_or_unit": "per 100 g",
+    "price_now": "1.69",
+    "price_before": "2.19",
+    "important_info": "RÜGENWALDER MILL; Pomeranian estate liver sausage; 22%"
+  },
+  {
+    "product_name": "Homemade ham bites",
+    "weight_or_unit": "per 100 g",
+    "price_now": "1.49",
+    "price_before": "1.89",
+    "important_info": "Made in-house; Ham bites; 21%"
+  },
+  {
+    "product_name": "K-BLUE BAY Crispy Fish",
+    "weight_or_unit": "200-300g packs each.",
+    "price_now": "2.79",
+    "price_before": null,
+    "important_info": "K-BLUE BAY; Crispy fish; (1 kg = 9.30 - 13.95)"
+  },
+  {
+    "product_name": "K-BLUE BAY Crevette Roses",
+    "weight_or_unit": "each 250g pack.",
+    "price_now": "2.49",
+    "price_before": "3.49",
+    "important_info": "K-BLUE BAY; Shrimp Roses; (1 kg = 9.96); 28%"
+  },
+  {
+    "product_name": "Cod loin",
+    "weight_or_unit": "per 100 g",
+    "price_now": "2.99",
+    "price_before": null,
+    "important_info": "Cod loin"
+  },
+  {
+    "product_name": "Haddock fillet",
+    "weight_or_unit": "per 100 g",
+    "price_now": "2.39",
+    "price_before": "2.99",
+    "important_info": "Haddock fillet; 20%"
+  },
+  {
+    "product_name": "squid",
+    "weight_or_unit": "per 100 g",
+    "price_now": "2.69",
+    "price_before": "3.49",
+    "important_info": "squid; 22%"
+  },
+  {
+    "product_name": "mackerel",
+    "weight_or_unit": "per 100 g",
+    "price_now": "0.89",
+    "price_before": "1.19",
+    "important_info": "mackerel; 25%"
+  },
+  {
+    "product_name": "ZOTT Creamy Yogurt or Pure Joy",
+    "weight_or_unit": "each 140g cup",
+    "price_now": "0.35",
+    "price_before": null,
+    "important_info": "ZOTT; Creamy yogurt or Pure Joy; (1 kg = 2.50)"
+  },
+  {
+    "product_name": "ELINAS Greek-style yogurt",
+    "weight_or_unit": "4 x 150g cups each",
+    "price_now": "1.69",
+    "price_before": "2.29",
+    "important_info": "ELINAS; Greek-style yogurt; (1 kg = 2.82); 26%"
+  },
+  {
+    "product_name": "ANDECHSER NATUR Bioland Yogurt",
+    "weight_or_unit": "each 400g cup",
+    "price_now": "1.39",
+    "price_before": "1.89",
+    "important_info": "ANDECHSER NATURE; Organic yogurt; (1 kg = 3.48); 26%"
+  },
+  {
+    "product_name": "VLY No Milk Today yogurt alternative",
+    "weight_or_unit": "each 400g cup",
+    "price_now": "1.49",
+    "price_before": "1.89",
+    "important_info": "VLY; No Milk Today yogurt alternative; (1 kg = 3.73); 21%"
+  },
+  {
+    "product_name": "EHRMANN High Protein Creatine Pudding",
+    "weight_or_unit": "each 230g cup",
+    "price_now": "1.39",
+    "price_before": "1.99",
+    "important_info": "EHRMANN; High Protein Creatine Pudding; (1 kg = 6.05); 30%"
+  },
+  {
+    "product_name": "CHILDREN Maxi King or Pingui",
+    "weight_or_unit": "3 - 4 pieces each = 105 - 120 g pack.",
+    "price_now": "1.29",
+    "price_before": null,
+    "important_info": "CHILDREN; Maxi King or Pingui; (1 kg = 10.75 - 12.29)"
+  },
+  {
+    "product_name": "NESQUIK Snack",
+    "weight_or_unit": "8 pieces each = 208g pack",
+    "price_now": "2.00",
+    "price_before": "2.69",
+    "important_info": "NESQUIK; snack; (1 kg = 9.62); 25%"
+  },
+  {
+    "product_name": "ANDECHSER NATUR Bioland Kefir",
+    "weight_or_unit": "each 500g bottle",
+    "price_now": "1.29",
+    "price_before": "1.59",
+    "important_info": "ANDECHSER NATURE; Bioland Kefir; (1 kg = 2.58); 18%"
+  },
+  {
+    "product_name": "MILRAM Spiced Quark",
+    "weight_or_unit": "each 185g cup",
+    "price_now": "0.99",
+    "price_before": "1.49",
+    "important_info": "MILRAM; spiced quark; (1 kg = 5.36); 33%"
+  },
+  {
+    "product_name": "DANONE Fruchtzwerge Quetschies XXL",
+    "weight_or_unit": "4 x 70g bags = 280g pack",
+    "price_now": "1.89",
+    "price_before": "2.89",
+    "important_info": "DANONE; Fruchtzwerge Quetschies XXL; (1 kg = 6.75); 34%"
+  },
+  {
+    "product_name": "ALPRO Barista Oat, Vanilla or Soy Drink Vanilla Flavor",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "1.99",
+    "price_before": "2.49",
+    "important_info": "ALPRO; Barista oat, vanilla or vanilla soy drink; 20%"
+  },
+  {
+    "product_name": "YFOOD This is food drinking meal",
+    "weight_or_unit": "each 0.5-liter bottle.",
+    "price_now": "3.00",
+    "price_before": "3.99",
+    "important_info": "YFOOD; This is a food drinkable meal; (1 l = 6.00); 24%"
+  },
+  {
+    "product_name": "SCHLAGFIX whipping cream",
+    "weight_or_unit": "each 200 ml can",
+    "price_now": "1.79",
+    "price_before": "2.29",
+    "important_info": "AMP; whipped cream; (1 l = 8.95); 21%"
+  },
+  {
+    "product_name": "BERGADER Almzeit or Bavaria Blu",
+    "weight_or_unit": "each 175g pack.",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "BERGADER; Almzeit or Bavaria Blu; (1 kg = 11.43)"
+  },
+  {
+    "product_name": "K-FAVOURITES Gorgonzola DOP",
+    "weight_or_unit": "each 200g pack.",
+    "price_now": "2.22",
+    "price_before": "2.99",
+    "important_info": "K-FAVOURITES; Gorgonzola DOP; (1 kg = 11.10); 25%"
+  },
+  {
+    "product_name": "GOLDSTEIG Protinella",
+    "weight_or_unit": "each 125g pack.",
+    "price_now": "1.11",
+    "price_before": "1.79",
+    "important_info": "GOLDSTEIG; Protinella; Drained weight 125 g (1 kg = 8.88); 37%"
+  },
+  {
+    "product_name": "K-FAVOURITES Burrata",
+    "weight_or_unit": "each 240g cup",
+    "price_now": "1.69",
+    "price_before": "2.19",
+    "important_info": "K-FAVOURITES; Burrata; Drained weight 125 g (1 kg = 13.52); 22%"
+  },
+  {
+    "product_name": "ÖMÜR Böreklik",
+    "weight_or_unit": "each 1.5 kg can",
+    "price_now": "4.99",
+    "price_before": "3.99",
+    "important_info": "ÖMÜR; Böreklik; Drained weight 800 g (1 kg = 6.24) / Drained weight 800 g (1 kg = 4.99)**"
+  },
+  {
+    "product_name": "ROUGETTE grilled or oven cheese",
+    "weight_or_unit": "each 180g pack.",
+    "price_now": "2.00",
+    "price_before": "3.69",
+    "important_info": "ROUGETTE; Grilled or baked cheese; (1 kg = 11.12); 45%"
+  },
+  {
+    "product_name": "KIRI Dippi",
+    "weight_or_unit": "5 portions each = 175g pack",
+    "price_now": "2.79",
+    "price_before": "3.69",
+    "important_info": "KIRI; Dippi; (1 kg = 15.95); 24%"
+  },
+  {
+    "product_name": "ADLER Premium Cream",
+    "weight_or_unit": "per 100g pack",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "EAGLE; Fine cream; (1 kg = 10.00)"
+  },
+  {
+    "product_name": "ANDECHSER NATUR Bioland or organic semi-hard cheese",
+    "weight_or_unit": "125-150g pack each",
+    "price_now": "2.59",
+    "price_before": "3.19",
+    "important_info": "ANDECHSER NATURE; Bioland or organic semi-hard cheese; (1 kg = 17.27 - 20.72); 18%"
+  },
+  {
+    "product_name": "MILRAM sliced ​​cheese",
+    "weight_or_unit": "each 150g pack.",
+    "price_now": "1.44",
+    "price_before": "2.69",
+    "important_info": "MILRAM; sliced ​​cheese; (1 kg = 9.60); 46%"
+  },
+  {
+    "product_name": "MILRAM Granular Cream Cheese XXL",
+    "weight_or_unit": "each 350g cup",
+    "price_now": "1.69",
+    "price_before": null,
+    "important_info": "MILRAM; Granular Cream Cheese XXL; (1 kg = 4.83)"
+  },
+  {
+    "product_name": "PHILADELPHIA Cream Cheese Preparation",
+    "weight_or_unit": "100-195g packs each",
+    "price_now": "1.11",
+    "price_before": null,
+    "important_info": "PHILADELPHIA; Cream cheese preparation; (1 kg = 5.70 - 11.10)"
+  },
+  {
+    "product_name": "ARNAUD Jura-Morbier AOP",
+    "weight_or_unit": "per 100 g",
+    "price_now": "1.99",
+    "price_before": "2.89",
+    "important_info": "ARNAUD; Jura-Morbier AOP; 31%"
+  },
+  {
+    "product_name": "KÄEREBELLEN Austrian semi-hard or hard cheese",
+    "weight_or_unit": "per 100 g",
+    "price_now": "1.99",
+    "price_before": "2.89",
+    "important_info": "CHEESE BELL; Austrian semi-hard or hard cheese; 31%"
+  },
+  {
+    "product_name": "SWITZERLAND Appenzeller strong and spicy",
+    "weight_or_unit": "per 100 g",
+    "price_now": "2.29",
+    "price_before": null,
+    "important_info": "SWITZERLAND; Appenzeller strong and spicy"
+  },
+  {
+    "product_name": "OLD AMSTERDAM Dutch hard cheese",
+    "weight_or_unit": "per 100 g",
+    "price_now": "1.79",
+    "price_before": "2.59",
+    "important_info": "OLD AMSTERDAM; Dutch hard cheese; 30%; Frozen food"
+  },
+  {
+    "product_name": "Mövenpick Ice Cream",
+    "weight_or_unit": "800-900 ml packs each.",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "Mövenpick; Ice; (1 l = 2.23 - 2.50)"
+  },
+  {
+    "product_name": "FROSTA Ready Meal",
+    "weight_or_unit": "each 375g bag",
+    "price_now": "2.00",
+    "price_before": "3.59",
+    "important_info": "FROSTA; ready meal; (1 kg = 5.34); 44%"
+  },
+  {
+    "product_name": "Polish goose breast",
+    "weight_or_unit": "per kg",
+    "price_now": "13.99",
+    "price_before": "17.99",
+    "important_info": "Polish goose breast; (e.g. for a 700g pack 9.80); 22%"
+  },
+  {
+    "product_name": "SPEAK Chicken Wings",
+    "weight_or_unit": "each 1 kg bag",
+    "price_now": "4.19",
+    "price_before": null,
+    "important_info": "SPEAK; Chicken wings"
+  },
+  {
+    "product_name": "Young duck",
+    "weight_or_unit": "per kg",
+    "price_now": "3.69",
+    "price_before": "5.83",
+    "important_info": "Young duck; 36%"
+  },
+  {
+    "product_name": "Polish goose legs",
+    "weight_or_unit": "per kg",
+    "price_now": "14.99",
+    "price_before": "18.99",
+    "important_info": "Polish goose legs; (e.g. for a 700g pack 10.50); 21%"
+  },
+  {
+    "product_name": "FREDA Stone Oven Pizza",
+    "weight_or_unit": "425-475g pack each",
+    "price_now": "4.99",
+    "price_before": "6.49",
+    "important_info": "FREDA; Stone-baked pizza; (1 kg = 10.51 - 11.75); 23%"
+  },
+  {
+    "product_name": "DR. OETKER La Mia Grande or Familia",
+    "weight_or_unit": "360-480g pack each",
+    "price_now": "3.00",
+    "price_before": "4.19",
+    "important_info": "DR. OETKER; La Mia Grande or Familia; (1 kg = 6.25 - 8.34); 28%"
+  },
+  {
+    "product_name": "NUTELLA croissants or muffins",
+    "weight_or_unit": "4 pieces each = 264-340g pack.",
+    "price_now": "2.99",
+    "price_before": null,
+    "important_info": "NUTELLA; Croissants or muffins; (1 kg = 8.80 - 11.33)"
+  },
+  {
+    "product_name": "POPPIES mini donuts or eclairs",
+    "weight_or_unit": "8 - 12 pieces each = 184 - 276 g pack.",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "POPPIES; Mini donuts or eclairs; (1 kg = 7.25 - 10.87)"
+  },
+  {
+    "product_name": "AGRARFROST Back-Fris",
+    "weight_or_unit": "each 750g bag",
+    "price_now": "1.99",
+    "price_before": "2.69",
+    "important_info": "AGRIFFROST; Back-Frites; (1 kg = 2.66); 26%"
+  },
+  {
+    "product_name": "FROSTA fish fingers",
+    "weight_or_unit": "10 - 15 pieces each = 390 - 450 g pack.",
+    "price_now": "2.79",
+    "price_before": "3.99",
+    "important_info": "FROSTA; (1 kg = 6.20 - 7.16); 30%"
+  },
+  {
+    "product_name": "JOSEF MAIER Deer Medallions",
+    "weight_or_unit": "per 300g pack.",
+    "price_now": "8.49",
+    "price_before": "9.99",
+    "important_info": "JOSEF MAIER; Deer medallions; (1 kg = 28.30); 15%"
+  },
+  {
+    "product_name": "STEINHAUS Tortelloni",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "2.99",
+    "price_before": "3.99",
+    "important_info": "STONE HOUSE; Tortelloni; (1 kg = 5.98); 25%"
+  },
+  {
+    "product_name": "K-FAVOURITES Tagliolini or Pappardelle",
+    "weight_or_unit": "each 250g pack.",
+    "price_now": "0.99",
+    "price_before": "1.29",
+    "important_info": "K-FAVOURITES; Tagliolini or Pappardelle; (1 kg = 3.96); 23%"
+  },
+  {
+    "product_name": "HENGLEIN Fresh Pizza Dough XXL",
+    "weight_or_unit": "each 550g roll",
+    "price_now": "1.00",
+    "price_before": "2.69",
+    "important_info": "HENGLEIN; Fresh pizza dough XXL; (1 kg = 1.82); 62%"
+  },
+  {
+    "product_name": "HENGLEIN Fresh Puff Pastry XXL",
+    "weight_or_unit": "each 375g pack.",
+    "price_now": "1.49",
+    "price_before": "1.99",
+    "important_info": "HENGLEIN; Fresh puff pastry XXL; (1 kg = 3.98); 25%"
+  },
+  {
+    "product_name": "RÜGENWALDER MÜHLE Vegan Sausage Alternative",
+    "weight_or_unit": "70-80g pack each",
+    "price_now": "1.11",
+    "price_before": "1.59",
+    "important_info": "RÜGENWALDER MILL; Vegan sausage alternative; (1kg = 13.88 - 15.86) / (1kg = 12.38 - 14.15)**; 30%; 37%"
+  },
+  {
+    "product_name": "LIKE Chicken or Grilled Chicken vegan meat alternative",
+    "weight_or_unit": "each 180g pack.",
+    "price_now": "2.00",
+    "price_before": "3.29",
+    "important_info": "LIKE; Chicken or Grilled Chicken vegan meat alternative; (1 kg = 11.12); 39%"
+  },
+  {
+    "product_name": "K-FAVOURITES Lasagna Bolognese",
+    "weight_or_unit": "each 400g pack.",
+    "price_now": "1.79",
+    "price_before": "2.39",
+    "important_info": "K-FAVOURITES; Lasagne Bolognese; (1 kg = 4.48); 25%"
+  },
+  {
+    "product_name": "POPP potato or pasta salad",
+    "weight_or_unit": "each 400g cup",
+    "price_now": "1.89",
+    "price_before": "2.49",
+    "important_info": "POPP; Potato or pasta salad; (1 kg = 4.73); 24%"
+  },
+  {
+    "product_name": "K-FAVOURITES Antipasti",
+    "weight_or_unit": "each 150g pack.",
+    "price_now": "1.59",
+    "price_before": "1.99",
+    "important_info": "K-FAVOURITES; Antipasti; (1 kg = 10.60); 20%"
+  },
+  {
+    "product_name": "K-FAVOURITES Olives",
+    "weight_or_unit": "each 150g pack.",
+    "price_now": "1.39",
+    "price_before": "1.79",
+    "important_info": "K-FAVOURITES; Olives; (1 kg = 9.27); 22%"
+  },
+  {
+    "product_name": "DOLE Pineapple Slices",
+    "weight_or_unit": "3 x 227g cans each",
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "DOLE; Pineapple slices; Drained weight 417 g (1 kg = 9.57)"
+  },
+  {
+    "product_name": "K-CLASSIC Applesauce »Lake Constance«",
+    "weight_or_unit": "each 360g jar",
+    "price_now": "0.79",
+    "price_before": "0.99",
+    "important_info": "K-CLASSIC; Applesauce »Lake Constance«; (1 kg = 2.20); 20%"
+  },
+  {
+    "product_name": "BUD POWER Fagioli alla Bud Spencer",
+    "weight_or_unit": "each 400g can",
+    "price_now": "2.59",
+    "price_before": "3.49",
+    "important_info": "BUD POWER; Fagioli alla Bud Spencer; (1 kg = 6.48); 25%"
+  },
+  {
+    "product_name": "KRINI Legumes, various varieties",
+    "weight_or_unit": "each 400g can",
+    "price_now": "2.00",
+    "price_before": "3.78",
+    "important_info": "KRINI; Legumes of various varieties; Drained weight 240 g (1 kg = 4.17); 2 pieces; 1.00 per can"
+  },
+  {
+    "product_name": "LUTÈCE Mushrooms",
+    "weight_or_unit": "each 800g can",
+    "price_now": "1.59",
+    "price_before": "3.19",
+    "important_info": "LUTÈCE; Mushrooms; Drained weight 460 g (1 kg = 3.46); 50%"
+  },
+  {
+    "product_name": "K-FAVOURITES Tomato Paste",
+    "weight_or_unit": "each 200g tube",
+    "price_now": "0.89",
+    "price_before": "1.09",
+    "important_info": "K-FAVOURITES; Tomato paste; (1 kg = 4.45); 18%"
+  },
+  {
+    "product_name": "TULIP breakfast meat",
+    "weight_or_unit": "each 340g can",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "TULIP; Breakfast meat; (1 kg = 5.89)"
+  },
+  {
+    "product_name": "MEICA Truman's",
+    "weight_or_unit": "each 540g jar",
+    "price_now": "3.00",
+    "price_before": "4.49",
+    "important_info": "MEICA; Truman's; Drained weight 350 g (1 kg = 8.58); 33%"
+  },
+  {
+    "product_name": "APPEL Tender Herring Fillets",
+    "weight_or_unit": "each 190-200g can",
+    "price_now": "1.00",
+    "price_before": "1.99",
+    "important_info": "APPLE; Tender herring fillets; (1 kg = 5.00 - 5.27); 49%"
+  },
+  {
+    "product_name": "HENGSTENBERG Knax The Giants",
+    "weight_or_unit": "each 1.55 kg jar",
+    "price_now": "2.59",
+    "price_before": null,
+    "important_info": "HENGSTENBERG; Knax The Giants; Drained weight 850 g (1 kg = 3.05)"
+  },
+  {
+    "product_name": "K-FAVOURITES Roasted Peppers",
+    "weight_or_unit": "each 680g jar",
+    "price_now": "1.59",
+    "price_before": "1.99",
+    "important_info": "K-FAVOURITES; Roasted peppers; Drained weight 400 g (1 kg = 3.98); 20%"
+  },
+  {
+    "product_name": "K-CLASSIC Whole Meal Stew",
+    "weight_or_unit": "each 400g can",
+    "price_now": "0.89",
+    "price_before": "1.19",
+    "important_info": "K-CLASSIC; Whole meal stew; (1 kg = 2.23); 25%"
+  },
+  {
+    "product_name": "LITTLE LUNCH Organic Soup",
+    "weight_or_unit": "each 350 ml glass",
+    "price_now": "2.49",
+    "price_before": "3.29",
+    "important_info": "LITTLE LUNCH; Organic soup; (1 l = 7.12); 24%"
+  },
+  {
+    "product_name": "FUCHS Fund",
+    "weight_or_unit": "each 400 ml glass",
+    "price_now": "1.99",
+    "price_before": null,
+    "important_info": "FOX; fund; (1 l = 4.98)"
+  },
+  {
+    "product_name": "HEINZ Tomato Ketchup",
+    "weight_or_unit": "each 800 ml bottle",
+    "price_now": "3.00",
+    "price_before": null,
+    "important_info": "HEINZ; Tomato Ketchup; (1 l = 3.75)"
+  },
+  {
+    "product_name": "MIRACEL WHIP Salad Cream",
+    "weight_or_unit": "each 500 ml glass",
+    "price_now": "1.49",
+    "price_before": null,
+    "important_info": "MIRACEL WHIP; Salad cream; (1 l = 2.98)"
+  },
+  {
+    "product_name": "KNORR BBQ Sauce",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "0.99",
+    "price_before": "1.69",
+    "important_info": "KNORR; BBQ sauce; (1 l = 3.96); 41%"
+  },
+  {
+    "product_name": "K-FAVOURITES Crema",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "1.19",
+    "price_before": "1.49",
+    "important_info": "K-FAVOURITES; Crema; (1 l = 4.76); 20%"
+  },
+  {
+    "product_name": "HENGSTENBERG Deli Vinegar",
+    "weight_or_unit": "each 0.5-liter bottle.",
+    "price_now": "2.49",
+    "price_before": "3.89",
+    "important_info": "HENGSTENBERG; Deli vinegar; (1 l = 4.98); 35%"
+  },
+  {
+    "product_name": "K-FAVOURITES Styrian pumpkin seed oil PGI",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "3.69",
+    "price_before": "4.99",
+    "important_info": "K-FAVOURITES; Styrian pumpkin seed oil PGI; (1 l = 14.76); 26%"
+  },
+  {
+    "product_name": "MAZOLA germ oil",
+    "weight_or_unit": "each 750 ml bottle",
+    "price_now": "3.49",
+    "price_before": "4.49",
+    "important_info": "MAZOLA; Germ oil; (1 l = 4.66); 22%"
+  },
+  {
+    "product_name": "OLITALIA Olive Oil",
+    "weight_or_unit": "each 3-liter carton",
+    "price_now": "19.99",
+    "price_before": null,
+    "important_info": "OLITA; olive oil; (1 l = 6.67)"
+  },
+  {
+    "product_name": "Green olives",
+    "weight_or_unit": "per 100 g",
+    "price_now": "0.89",
+    "price_before": null,
+    "important_info": "Green olives"
+  },
+  {
+    "product_name": "Sun-dried tomatoes",
+    "weight_or_unit": "per 100 g",
+    "price_now": "0.99",
+    "price_before": null,
+    "important_info": "Sun-dried tomatoes"
+  },
+  {
+    "product_name": "Börekstick",
+    "weight_or_unit": null,
+    "price_now": "0.49",
+    "price_before": null,
+    "important_info": "Börekstick; each"
+  },
+  {
+    "product_name": "Berliner/Pancake filled",
+    "weight_or_unit": null,
+    "price_now": "0.69",
+    "price_before": null,
+    "important_info": "Berliner/Pancakes; filled; each"
+  },
+  {
+    "product_name": "Berliner/Pancakes",
+    "weight_or_unit": null,
+    "price_now": "0.29",
+    "price_before": "0.45",
+    "important_info": "Berliner/Pancakes; each; 35%"
+  },
+  {
+    "product_name": "Biscoff donut",
+    "weight_or_unit": null,
+    "price_now": "0.59",
+    "price_before": null,
+    "important_info": "Biscoff donut; each"
+  },
+  {
+    "product_name": "plain ciabatta",
+    "weight_or_unit": "each 300g piece",
+    "price_now": "0.55",
+    "price_before": "0.79",
+    "important_info": "plain ciabatta; (1 kg = 1.84); 30%"
+  },
+  {
+    "product_name": "Bread with sprouted oats",
+    "weight_or_unit": "each 400g piece",
+    "price_now": "1.49",
+    "price_before": null,
+    "important_info": "Bread with sprouted oats; (1 kg = 3.73)"
+  },
+  {
+    "product_name": "Organic wholegrain spelt bread",
+    "weight_or_unit": "each 500g piece",
+    "price_now": "1.39",
+    "price_before": "1.89",
+    "important_info": "Organic wholegrain spelt bread; (1 kg = 2.78); 26%"
+  },
+  {
+    "product_name": "Swiss bread rolls",
+    "weight_or_unit": null,
+    "price_now": "0.44",
+    "price_before": "0.55",
+    "important_info": "Swiss bread rolls; each; 20%"
+  },
+  {
+    "product_name": "PINSAMI Pinsa La Classica",
+    "weight_or_unit": "2 pieces each = 460g pack",
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "PINSAMI; Pinsa La Classica; (1 kg = 10.85)"
+  },
+  {
+    "product_name": "K-FAVOURITES Stone-baked baguette",
+    "weight_or_unit": "each 250g piece",
+    "price_now": "0.89",
+    "price_before": "1.19",
+    "important_info": "K-FAVOURITES; Stone-baked baguette; (1 kg = 3.56); 25%"
+  },
+  {
+    "product_name": "K-FAVOURITES Gold Crusts",
+    "weight_or_unit": "7 pieces each = 560g pack",
+    "price_now": "1.09",
+    "price_before": "1.29",
+    "important_info": "K-FAVOURITES; Gold crust; (1 kg = 1.95); 15%"
+  },
+  {
+    "product_name": "WASA crispbread",
+    "weight_or_unit": "200-275g pack each",
+    "price_now": "1.79",
+    "price_before": "1.49",
+    "important_info": "WASA; crispbread; (1kg = 6.51 - 8.95) / (1kg = 5.42 - 7.45)**"
+  },
+  {
+    "product_name": "NATURPURA Organic Protein Spelt Waffles",
+    "weight_or_unit": "each 90g pack.",
+    "price_now": "1.11",
+    "price_before": "1.49",
+    "important_info": "NATURPURA; Organic protein spelt waffles; (1 kg = 12.34); 25%"
+  },
+  {
+    "product_name": "BRANDT Minis",
+    "weight_or_unit": "85-110g pack each",
+    "price_now": "0.99",
+    "price_before": "1.49",
+    "important_info": "BRANDT; Minis; (1 kg = 9.00 - 11.65); 33%"
+  },
+  {
+    "product_name": "MAGGI Asian or pub snack",
+    "weight_or_unit": "each 119-170g bag",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "MAGGI; Asian or pub snack; (1 kg = 5.89 - 8.41)"
+  },
+  {
+    "product_name": "KNORR Sauce",
+    "weight_or_unit": "(1 l = 0.84 - 1.31) / (1 l = 0.73 - 1.14)**",
+    "price_now": "2.29",
+    "price_before": "2.89",
+    "important_info": "KNORR; sauce; per can; 20%; 31%"
+  },
+  {
+    "product_name": "BARILLA Pesto",
+    "weight_or_unit": "each 190-200g jar",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "BARILLA; Pesto; (1 kg = 10.00 - 10.53)"
+  },
+  {
+    "product_name": "BEN'S ORIGINAL Rice in a Cooking Bag",
+    "weight_or_unit": "4 bags each = 500g pack.",
+    "price_now": "1.79",
+    "price_before": "2.59",
+    "important_info": "BEN'S ORIGINAL; Rice in a boil-in-bag; (1 kg = 3.58); 30%"
+  },
+  {
+    "product_name": "BARILLA Classic Pasta",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "BARILLA; Classic Pasta; (1 kg = 2.00)"
+  },
+  {
+    "product_name": "K-CLASSIC Noodles",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "0.89",
+    "price_before": "0.99",
+    "important_info": "K-CLASSIC; Noodles; (1 kg = 1.78); 10%"
+  },
+  {
+    "product_name": "GAGGLI Fresh Egg Noodles",
+    "weight_or_unit": "each 250g bag",
+    "price_now": "0.99",
+    "price_before": null,
+    "important_info": "GAGGLI; Fresh egg noodles; (1 kg = 3.96)"
+  },
+  {
+    "product_name": "MAINTAL Rosehip Jam Extra",
+    "weight_or_unit": "each 340g jar",
+    "price_now": "1.69",
+    "price_before": null,
+    "important_info": "MAINTAL; Rosehip Jam Extra; (1 kg = 4.98)"
+  },
+  {
+    "product_name": "BONNE MAMAN Jam",
+    "weight_or_unit": "each 370g jar",
+    "price_now": "2.00",
+    "price_before": "3.49",
+    "important_info": "BONNE MAMAN; jam; (1 kg = 5.41); 42%"
+  },
+  {
+    "product_name": "BIONELLA Organic Hazelnut-Nougat Cream",
+    "weight_or_unit": "each 400g jar",
+    "price_now": "3.29",
+    "price_before": "3.99",
+    "important_info": "BIONELLA; Organic hazelnut-nougat cream; (1 kg = 8.23); 17%"
+  },
+  {
+    "product_name": "Cologne Oat flakes",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "COLOGNE; oatmeal; (1 kg = 2.00)"
+  },
+  {
+    "product_name": "K-FAVOURITES Porridge",
+    "weight_or_unit": "each 350g pack.",
+    "price_now": "1.99",
+    "price_before": "2.69",
+    "important_info": "K-FAVOURITES; Porridge; (1 kg = 5.69); 26%"
+  },
+  {
+    "product_name": "MYMUESLI Organic Muesli",
+    "weight_or_unit": "per 500g can",
+    "price_now": "6.99",
+    "price_before": "8.49",
+    "important_info": "MYMUESLI; Organic muesli; (1 kg = 13.98); 17%"
+  },
+  {
+    "product_name": "K-FAVOURITES Gourmet Muesli",
+    "weight_or_unit": "each 500g bag",
+    "price_now": "1.99",
+    "price_before": "2.59",
+    "important_info": "K-FAVOURITES; Gourmet muesli; (1 kg = 3.98); 23%"
+  },
+  {
+    "product_name": "DR. OETKER Sweet Meal",
+    "weight_or_unit": "each 115-156g bag",
+    "price_now": "0.99",
+    "price_before": null,
+    "important_info": "DR. OETKER; Sweet meal; (1 kg = 6.34 - 8.61)"
+  },
+  {
+    "product_name": "SEEBERGER Cashew Nuts",
+    "weight_or_unit": "each 200g bag",
+    "price_now": "2.99",
+    "price_before": "4.55",
+    "important_info": "SEEBERGER; Cashew nuts; (1 kg = 14.95); 34%; Coffee, tea, sweets, snacks"
+  },
+  {
+    "product_name": "TCHIBO Fine Mild in a value pack",
+    "weight_or_unit": "4 x 250g packs each.",
+    "price_now": "15.98",
+    "price_before": null,
+    "important_info": "TCHIBO; Fine mildness in a value pack"
+  },
+  {
+    "product_name": "EDUSHO Coffee",
+    "weight_or_unit": "each 1 kg bag",
+    "price_now": "13.99",
+    "price_before": null,
+    "important_info": "EDUSHO; Coffee"
+  },
+  {
+    "product_name": "EDUSHO coffee pods",
+    "weight_or_unit": "32 pieces each = 208g pack",
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "EDUSHO; Coffee pods; (1 kg = 19.19)"
+  },
+  {
+    "product_name": "STARBUCKS coffee capsules",
+    "weight_or_unit": "10 pieces each = 53-57g pack.",
+    "price_now": "3.00",
+    "price_before": null,
+    "important_info": "STARBUCKS; Coffee capsules; (1 kg = 52.64 - 56.61)"
+  },
+  {
+    "product_name": "NESCAFÉ Gold",
+    "weight_or_unit": "8 - 10 bags each = 125 - 144 g pack.",
+    "price_now": "2.49",
+    "price_before": null,
+    "important_info": "NESCAFÉ; Gold; (1 kg = 17.30 - 19.92)"
+  },
+  {
+    "product_name": "PUKKA Organic Tea",
+    "weight_or_unit": "20 bags each = 20 - 40g packs",
+    "price_now": "2.99",
+    "price_before": "3.95",
+    "important_info": "PUKKA; Organic tea; (1 kg = 74.75 - 149.50); 24%"
+  },
+  {
+    "product_name": "CHIO Tortillas Chips",
+    "weight_or_unit": "each 110g pack.",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "CHIO; Tortillas Chips; (1 kg = 9.10)"
+  },
+  {
+    "product_name": "HEIMATGUT Organic Popcorn",
+    "weight_or_unit": "each 90g bag",
+    "price_now": "1.29",
+    "price_before": "1.75",
+    "important_info": "HOMETOWN; Organic popcorn; (1 kg = 14.34); 26%"
+  },
+  {
+    "product_name": "TUC Cracker",
+    "weight_or_unit": "3 x 100g packs each.",
+    "price_now": "2.00",
+    "price_before": "2.99",
+    "important_info": "TUC; cracker; (1 kg = 6.67); 33%"
+  },
+  {
+    "product_name": "LORENZ Nic Nac's",
+    "weight_or_unit": "each 110g pack.",
+    "price_now": "1.00",
+    "price_before": "1.99",
+    "important_info": "LORENZ; Nic Nac's; (1 kg = 9.10); 49%"
+  },
+  {
+    "product_name": "K-FAVOURITES Jumbo Peanuts",
+    "weight_or_unit": "each 200g can",
+    "price_now": "1.29",
+    "price_before": "1.79",
+    "important_info": "K-FAVOURITES; Jumbo peanuts; (1 kg = 6.45); 27%"
+  },
+  {
+    "product_name": "MILKA Chocolate",
+    "weight_or_unit": "each 250-300g bar",
+    "price_now": "2.99",
+    "price_before": "4.99",
+    "important_info": "MILKA; Chocolate; (1kg = 9.97 - 11.96) / (1kg = 9.24 - 11.08)**; 40%; 44%"
+  },
+  {
+    "product_name": "STORCK Merci chocolates",
+    "weight_or_unit": "100-112g packs each",
+    "price_now": "1.29",
+    "price_before": null,
+    "important_info": "STORCK; Merci chocolates; (1 kg = 11.52 - 12.90)"
+  },
+  {
+    "product_name": "KINDER Chocolate XXL",
+    "weight_or_unit": "each 450g pack.",
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "CHILDREN; Chocolate XXL; (1 kg = 11.09)"
+  },
+  {
+    "product_name": "LINDT Nuxor",
+    "weight_or_unit": "each 103g pack.",
+    "price_now": "4.99",
+    "price_before": "6.99",
+    "important_info": "LINDT; Nuxor; (1 kg = 48.45); 28%"
+  },
+  {
+    "product_name": "LINDT Lindor truffles",
+    "weight_or_unit": "Each 136-137g pack.",
+    "price_now": "6.99",
+    "price_before": null,
+    "important_info": "LINDT; Lindor truffles; (1 kg = 51.03 - 51.40)"
+  },
+  {
+    "product_name": "NESTLÉ Choco Crossies or Choclait Chips",
+    "weight_or_unit": "115-150g pack each",
+    "price_now": "1.99",
+    "price_before": null,
+    "important_info": "NESTLÉ; Choco Crossies or Choclait Chips; (1 kg = 13.27 - 17.31)"
+  },
+  {
+    "product_name": "LINDT Lindor",
+    "weight_or_unit": "each 375g pack.",
+    "price_now": "7.99",
+    "price_before": "6.99",
+    "important_info": "LINDT; Lindor; (1kg = 21.31) / (1kg = 18.64)**"
+  },
+  {
+    "product_name": "DUPLO Wafer Chocolate Bar",
+    "weight_or_unit": "10 pieces each = 182g pack",
+    "price_now": "1.99",
+    "price_before": null,
+    "important_info": "DUPLO; Waffle chocolate bar; (1 kg = 10.94)"
+  },
+  {
+    "product_name": "KNOPPERS Goodies",
+    "weight_or_unit": "each 180g bag",
+    "price_now": "2.00",
+    "price_before": "2.49",
+    "important_info": "KNOPPERS; Goodies; (1 kg = 11.12); 19%"
+  },
+  {
+    "product_name": "TROLLI fruit gummies",
+    "weight_or_unit": "each 350g pack.",
+    "price_now": "1.79",
+    "price_before": null,
+    "important_info": "TROLLI; Fruit gummies; (1 kg = 5.12)"
+  },
+  {
+    "product_name": "Hitschies Sour Dragon Tongues Brizzl Balls",
+    "weight_or_unit": "per 100g pack",
+    "price_now": "1.39",
+    "price_before": "1.79",
+    "important_info": "HITSCHIES; Sour Dragon Tongues Brizzl Balls; (1 kg = 13.90); 22%"
+  },
+  {
+    "product_name": "VIVIL throat lozenges",
+    "weight_or_unit": "each 120g bag",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "VIVIL; throat lozenges; (1 kg = 8.34)"
+  },
+  {
+    "product_name": "MAMBA chewing gum",
+    "weight_or_unit": "4 pieces each = 106g pack",
+    "price_now": "0.69",
+    "price_before": null,
+    "important_info": "MAMBA; Chewy candies; (1 kg = 6.51)"
+  },
+  {
+    "product_name": "CHILDREN'S Duo",
+    "weight_or_unit": "12 pieces each = 150g pack",
+    "price_now": "2.29",
+    "price_before": null,
+    "important_info": "CHILDREN; duo; (1 kg = 15.27)"
+  },
+  {
+    "product_name": "LEIBNIZ biscuits",
+    "weight_or_unit": "150-200g pack each",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "LEIBNIZ; Cookies; (1 kg = 5.00 - 6.67)"
+  },
+  {
+    "product_name": "OREO double cookies",
+    "weight_or_unit": "Each 154-157g pack.",
+    "price_now": "1.00",
+    "price_before": "1.89",
+    "important_info": "OREO; Double cookies; (1 kg = 6.37 - 6.50); 47%"
+  },
+  {
+    "product_name": "KINDER Cards",
+    "weight_or_unit": "5 x 2 pcs. each = 128g pack",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "CHILDREN; Cards; (1 kg = 15.63)"
+  },
+  {
+    "product_name": "PEPSI or SCHWIP SCHWAP Zero XXL",
+    "weight_or_unit": "each 1.75-liter PET bottle.",
+    "price_now": "0.99",
+    "price_before": null,
+    "important_info": "PEPSI or SCHWIP SCHWAP; Zero XXL; (1 l = 0.57)"
+  },
+  {
+    "product_name": "K-BIO Organic Multifruit Juice or Pear Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "1.89",
+    "price_before": "2.29",
+    "important_info": "K-BIO; Organic mixed fruit juice or pear juice; 17%"
+  },
+  {
+    "product_name": "K-BIO Bioland Apple Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "1.99",
+    "price_before": "2.49",
+    "important_info": "K-BIO; Organic apple juice; 20%"
+  },
+  {
+    "product_name": "K-BIO Organic Ginger Juice",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "2.99",
+    "price_before": "3.85",
+    "important_info": "K-BIO; Organic ginger juice; (1 l = 11.96); 22%"
+  },
+  {
+    "product_name": "K-BIO Organic Orange Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "2.22",
+    "price_before": "2.65",
+    "important_info": "K-BIO; Organic orange juice; 16%"
+  },
+  {
+    "product_name": "K-BIO Organic Grape Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "1.69",
+    "price_before": "1.95",
+    "important_info": "K-BIO; Organic grape juice; 13%"
+  },
+  {
+    "product_name": "K-BIO Organic Lime Juice",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "1.19",
+    "price_before": "1.55",
+    "important_info": "K-BIO; Organic lime juice; (1 l = 4.76); 23%"
+  },
+  {
+    "product_name": "K-BIO Organic Lemon Juice",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "1.19",
+    "price_before": "1.55",
+    "important_info": "K-BIO; Organic lemon juice; (1 l = 4.76); 23%"
+  },
+  {
+    "product_name": "K-BIO Organic Seasoning Lemon or Lime",
+    "weight_or_unit": "each 200 ml bottle",
+    "price_now": "0.59",
+    "price_before": "0.79",
+    "important_info": "K-BIO; Organic lemon or lime seasoning; (1 l = 2.95); 25%"
+  },
+  {
+    "product_name": "K-BIO Organic Coconut Water",
+    "weight_or_unit": "each 330 ml pack.",
+    "price_now": "1.11",
+    "price_before": "1.45",
+    "important_info": "K-BIO; Organic coconut water; (1 l = 3.37); 23%"
+  },
+  {
+    "product_name": "K-BIO Organic Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "1.29",
+    "price_before": "1.79",
+    "important_info": "K-BIO; organic juice; 27%"
+  },
+  {
+    "product_name": "K-BIO Bioland Carrot Juice",
+    "weight_or_unit": "each 500 ml pack.",
+    "price_now": "0.75",
+    "price_before": "0.85",
+    "important_info": "K-BIO; Bioland carrot juice; (1 l = 1.50); 11%"
+  },
+  {
+    "product_name": "K-BIO Bioland Sauerkraut Juice",
+    "weight_or_unit": "each 500 ml pack.",
+    "price_now": "0.77",
+    "price_before": "0.95",
+    "important_info": "K-BIO; Organic sauerkraut juice; (1 l = 1.54); 18%"
+  },
+  {
+    "product_name": "HOLY Energy or Hydration Drink",
+    "weight_or_unit": "3 x 7g packs each.",
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "HOLY; Energy or hydration drink; (1 kg = 190.00)"
+  },
+  {
+    "product_name": "SODASTREAM Beverage Syrup",
+    "weight_or_unit": "each 440 ml bottle.",
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "SODASTREAM; Beverage syrup; (1 l = 9.07)"
+  },
+  {
+    "product_name": "BERENTZEN Fruity Liqueur",
+    "weight_or_unit": "each 0.7-liter bottle.",
+    "price_now": "4.99",
+    "price_before": "7.29",
+    "important_info": "BERENTZEN; Fruity liqueur; (1 l = 7.13); 31%"
+  },
+  {
+    "product_name": "MIONETTO Alcohol-Free Aperitivo",
+    "weight_or_unit": "each 0.5-liter bottle.",
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "MIONETTO; alcohol-free aperitivo; (1 l = 15.98)"
+  },
+  {
+    "product_name": "GORDON'S London Dry Gin or 0.0",
+    "weight_or_unit": "each 0.7-liter bottle.",
+    "price_now": "9.99",
+    "price_before": "13.99",
+    "important_info": "GORDON'S; London Dry Gin or 0.0; (1 l = 14.28); 28%"
+  },
+  {
+    "product_name": "CAPTAIN MORGAN Spiced Gold or White Rum",
+    "weight_or_unit": "each 0.7-liter bottle.",
+    "price_now": "9.99",
+    "price_before": "12.99",
+    "important_info": "CAPTAIN MORGAN; Spiced Gold or White Rum; (1 l = 14.28) / (1 l = 12.85)**; 23%; 30%"
+  },
+  {
+    "product_name": "CARLOS I Solera Gran Reserva Brandy",
+    "weight_or_unit": "each 0.7-liter bottle.",
+    "price_now": "19.99",
+    "price_before": "25.99",
+    "important_info": "CARLOS I; Solera Gran Reserva Brandy; (1 l = 28.56); 23%"
+  },
+  {
+    "product_name": "CHIVAS REGAL Blended Scotch Whiskey",
+    "weight_or_unit": "each 0.7-liter bottle.",
+    "price_now": "19.99",
+    "price_before": "29.99",
+    "important_info": "CHIVAS REGAL; Blended Scotch Whisky; (1 l = 28.56); 33%"
+  },
+  {
+    "product_name": "CASILLERO DEL DIABLO Cabernet Sauvignon",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "4.99",
+    "price_before": "5.99",
+    "important_info": "CASILLERO DEL DIABLO; Cabernet Sauvignon; (1 l = 6.66); 16%"
+  },
+  {
+    "product_name": "BARON PHILIPPE DE ROTHSCHILD Bordeaux AOC",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "4.99",
+    "price_before": "6.99",
+    "important_info": "BARON PHILIPPE DE ROTHSCHILD; Bordeaux AOC; (1 l = 6.66); 28%"
+  },
+  {
+    "product_name": "LENZ MOSER Selection",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "4.99",
+    "price_before": "5.99",
+    "important_info": "LENZ MOSER; Selection; (1 l = 6.66); 16%"
+  },
+  {
+    "product_name": "WZG MÖGLINGEN Sweet & Fruity",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.49",
+    "price_before": null,
+    "important_info": "WZG Möglingen; Sweet & Fruity; (1 l = 4.66)"
+  },
+  {
+    "product_name": "CONTESSA MARINA Primitivo »14« DOC",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "CONTESSA MARINA; Primitivo »14« DOC; (1 l = 7.99)"
+  },
+  {
+    "product_name": "FRANCOIS DULAC Red or rosé wine",
+    "weight_or_unit": "each 1-liter bottle.",
+    "price_now": "2.99",
+    "price_before": "3.99",
+    "important_info": "FRANCOIS DULAC; red or rosé wine; 25%"
+  },
+  {
+    "product_name": "MASSO ANTICO Primitivo ICE",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "6.99",
+    "price_before": "8.99",
+    "important_info": "MASSO ANTICO; Primitivo ICE; (1 l = 9.32); 22%"
+  },
+  {
+    "product_name": "ROTWILD Dornfelder or Riesling",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.00",
+    "price_before": null,
+    "important_info": "RED DEER; Dornfelder or Riesling; (1 l = 4.00)"
+  },
+  {
+    "product_name": "MICHEL SCHNEIDER quality wine or non-alcoholic wine",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.99",
+    "price_before": "4.99",
+    "important_info": "MICHEL SCHNEIDER; Quality wine or non-alcoholic wine; (1 l = 5.32); 20%"
+  },
+  {
+    "product_name": "LE COMPLIMENT Vin Blanc, Rosé or Rouge",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "1.59",
+    "price_before": "1.99",
+    "important_info": "LE COMPLIMENT; Vin Blanc, Rosé or Rouge; (1 l = 2.12); 20%"
+  },
+  {
+    "product_name": "WINE & VIBES Quality wine",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "WINE & VIBES; Quality wine; (1 l = 5.32)"
+  },
+  {
+    "product_name": "CASAL GARCIA Vinho Verde",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.79",
+    "price_before": "4.49",
+    "important_info": "CASAL GARCIA; Vinho Verde; (1 l = 5.06); 15%"
+  },
+  {
+    "product_name": "FAVORITE WINE Quality wine",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "FAVORITE WINE; Quality wine; (1 l = 5.32)"
+  },
+  {
+    "product_name": "Baden Wine Region Exclusive Quality Wines",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "4.99",
+    "price_before": "6.49",
+    "important_info": "Baden Wine Country; Exclusive quality wines; (1 l = 6.66); 23%"
+  },
+  {
+    "product_name": "KOURTAKI Retsina from Attica, Greek white wine, dry",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "2.99",
+    "price_before": "3.69",
+    "important_info": "KOURTAKI; Retsina from Attica, Greek white wine, dry; (1 l = 3.99); 18%"
+  },
+  {
+    "product_name": "ERBEN Spätlese, Scheurebe, Grauburgunder or Riesling",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.49",
+    "price_before": "2.99",
+    "important_info": "INHERIT; Spätlese, Scheurebe, Grauburgunder or Riesling; (1 l = 4.66) / (1 l = 3.99)**"
+  },
+  {
+    "product_name": "BREE Wine or Free Alcohol-Free",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "2.99",
+    "price_before": null,
+    "important_info": "BREE; Wine or Free Alcohol-Free; (1 l = 3.99)"
+  },
+  {
+    "product_name": "FREIXENET Spanish sparkling wine",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.88",
+    "price_before": null,
+    "important_info": "FREIXENET; Spanish sparkling wine; (1 l = 5.18)"
+  },
+  {
+    "product_name": "MIONETTO Prosecco DOC Treviso",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "MIONETTO; Prosecco DOC Treviso; (1 l = 7.99)"
+  },
+  {
+    "product_name": "LIGHT LIVE 0.0%",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "2.99",
+    "price_before": "3.79",
+    "important_info": "LIGHT LIVE; 0.0%; (1 l = 3.99); 21%"
+  },
+  {
+    "product_name": "ZONIN Prosecco DOC",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "6.99",
+    "price_before": "8.99",
+    "important_info": "ZONIN; Prosecco DOC; (1 l = 9.32); 22%"
+  },
+  {
+    "product_name": "Little Red Riding Hood Piccolo Sparkling Wine",
+    "weight_or_unit": "each 0.2-liter bottle.",
+    "price_now": "0.99",
+    "price_before": null,
+    "important_info": "LITTLE RED RIDING HOOD; Piccolo sparkling wine; (1 l = 4.95)"
+  },
+  {
+    "product_name": "PRINCE OF METTERNICH Sparkling Wine",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "PRINCE OF METTERNICH; Sparkling wine; (1 l = 7.99)"
+  },
+  {
+    "product_name": "VALDO Marca Oro Prosecco Valdobbiadene DOCG",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "8.99",
+    "price_before": "10.99",
+    "important_info": "VALDO; Marca Oro Prosecco Valdobbiadene DOCG; (1 l = 11.99); 18%"
+  },
+  {
+    "product_name": "POMMERY Champagne Brut Royal",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "34.99",
+    "price_before": "47.99",
+    "important_info": "POMMERY; Champagne Brut Royal; (1 l = 46.66); 27%"
+  },
+  {
+    "product_name": "MARTINI Aperitif",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "7.99",
+    "price_before": "10.99",
+    "important_info": "MARTINI; aperitif; (1 l = 10.66); 27%"
+  },
+  {
+    "product_name": "Little Red Riding Hood Secconade",
+    "weight_or_unit": "each 0.33-liter bottle.",
+    "price_now": "1.69",
+    "price_before": "1.99",
+    "important_info": "LITTLE RED RIDING HOOD; Secconade; (1 l = 5.13); 15%"
+  },
+  {
+    "product_name": "HÜRSCHI mulled wine",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "1.99",
+    "price_before": "2.79",
+    "important_info": "HÜRSCHI; Mulled wine; (1 l = 2.66); 28%"
+  },
+  {
+    "product_name": "GERSTACKER Spritz",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "1.99",
+    "price_before": "2.99",
+    "important_info": "GERSTACKER; Spritz; (1 l = 2.66); 33%"
+  },
+  {
+    "product_name": "KATLENBURGER Fruit Wine",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "2.99",
+    "price_before": "3.99",
+    "important_info": "KATLENBURGER; Fruit wine; (1 l = 3.99); 25%"
+  },
+  {
+    "product_name": "Little Red Riding Hood Fruit Sparkling Wine",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "2.99",
+    "price_before": "4.99",
+    "important_info": "LITTLE RED RIDING HOOD; Fruit sparkling wine; (1 l = 3.99); 40%"
+  },
+  {
+    "product_name": "KATLENBURGER Strawberry or Woodruff Punch",
+    "weight_or_unit": "each 1-liter bottle.",
+    "price_now": "1.99",
+    "price_before": "2.79",
+    "important_info": "KATLENBURGER; Strawberry or woodruff punch; 28%"
+  },
+  {
+    "product_name": "PAULANER Hefeweizen",
+    "weight_or_unit": "(1 l = 1.40)",
+    "price_now": "13.99",
+    "price_before": null,
+    "important_info": "PAULANER; Yeast White beer; Each case contains 20 x 0.5-liter bottles."
+  },
+  {
+    "product_name": "ERDINGER BRAUHAUS Helles",
+    "weight_or_unit": "(1 l = 1.40)",
+    "price_now": "13.99",
+    "price_before": null,
+    "important_info": "ERDINGER BREWERY; Light; Each case contains 20 x 0.5-liter bottles."
+  },
+  {
+    "product_name": "BITBURGER Premium Pils",
+    "weight_or_unit": "(1 l = 1.10)",
+    "price_now": "10.99",
+    "price_before": "17.79",
+    "important_info": "BITBURGER; Premium Pils; Each case contains 20 x 0.5-liter bottles.; 38%"
+  },
+  {
+    "product_name": "BECK'S beer or beer mixed drink",
+    "weight_or_unit": "(1 l = 2.02)",
+    "price_now": "3.99",
+    "price_before": "4.69",
+    "important_info": "BECK'S; Beer or beer-based mixed drink; Each pack contains 6 x 0.33-liter bottles.; 14%"
+  },
+  {
+    "product_name": "CORONA Extra or Cero 0.0%",
+    "weight_or_unit": "(1 l = 2.82)",
+    "price_now": "5.99",
+    "price_before": "7.49",
+    "important_info": "CORONA; Extra or Zero 0.0%; Each pack contains 6 x 0.355-liter bottles.; 20%"
+  },
+  {
+    "product_name": "HASSERÖDER Premium Pils",
+    "weight_or_unit": "(1 l = 0.80)",
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "HASSERÖDER; Premium Pils; Each case contains 20 x 0.5-liter bottles."
+  },
+  {
+    "product_name": "SCHÖFFERHOFER Grapefruit",
+    "weight_or_unit": "(1 l = 2.02)",
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "SCHÖFFERHOFER; grapefruit; Each pack contains 6 x 0.33-liter bottles."
+  },
+  {
+    "product_name": "WARSTEINER Radler 0.0%",
+    "weight_or_unit": "(1 l = 2.02)",
+    "price_now": "3.99",
+    "price_before": "4.99",
+    "important_info": "WARSTEINER; Cyclists 0.0%; 6 x 0.33-liter bottles each.; 20%"
+  },
+  {
+    "product_name": "SOMERSBY Cider",
+    "weight_or_unit": "each 0.33-liter can",
+    "price_now": "1.11",
+    "price_before": "1.49",
+    "important_info": "Somersby; Cider; (1 l = 3.37); 25%"
+  },
+  {
+    "product_name": "FUZE TEA Refreshing Drink",
+    "weight_or_unit": "each 1.25-liter PET bottle.",
+    "price_now": "1.29",
+    "price_before": "1.11",
+    "important_info": "FUZE TEA; soft drink; (1 l = 1.04) / (1 l = 0.89)**"
+  },
+  {
+    "product_name": "VALENSINA Fruit Juice",
+    "weight_or_unit": "each 0.7 - 1-liter PET bottle.",
+    "price_now": "1.39",
+    "price_before": "2.49",
+    "important_info": "VALENSINA; fruit juice; (1 l = 1.39 - 1.99); 44%"
+  },
+  {
+    "product_name": "WEISSER RIESE Laundry Detergent (Whole or Color)",
+    "weight_or_unit": null,
+    "price_now": "3.49",
+    "price_before": null,
+    "important_info": "WHITE GIANT; Regular or color detergent; each; (per application = 0.16 - 0.20)"
+  },
+  {
+    "product_name": "PERSIL laundry detergent",
+    "weight_or_unit": null,
+    "price_now": "17.99",
+    "price_before": "16.99",
+    "important_info": "PERSIL; detergent; each; (per application = 0.18 - 0.36) / (per application = 0.17 - 0.34)**"
+  },
+  {
+    "product_name": "LENOR fabric softener",
+    "weight_or_unit": "each 1.239-liter bottle.",
+    "price_now": "3.00",
+    "price_before": null,
+    "important_info": "LENOR; softener; (per application = 0.06)"
+  },
+  {
+    "product_name": "COTTONELLE Moist Toilet Paper",
+    "weight_or_unit": null,
+    "price_now": "1.00",
+    "price_before": "1.55",
+    "important_info": "COTTONELLE; Moist toilet paper; 42-piece pack each; 35%"
+  },
+  {
+    "product_name": "K-CLASSIC Recycled Tissues",
+    "weight_or_unit": null,
+    "price_now": "0.79",
+    "price_before": "0.95",
+    "important_info": "K-CLASSIC; Recycled tissues; each box of 100 pieces; 16%"
+  },
+  {
+    "product_name": "Carefree panty liners",
+    "weight_or_unit": null,
+    "price_now": "2.00",
+    "price_before": "2.95",
+    "important_info": "CAREFREE; panty liners; Packs of 24-56 pieces each.; 32%"
+  },
+  {
+    "product_name": "VISS Cleaner",
+    "weight_or_unit": "each 750 ml bottle",
+    "price_now": "1.99",
+    "price_before": "2.55",
+    "important_info": "VISS; cleaner; (1 l = 2.66); 21%"
+  },
+  {
+    "product_name": "DANKLORIX Cleaner",
+    "weight_or_unit": "750-1500 ml bottles each",
+    "price_now": "1.99",
+    "price_before": "2.75",
+    "important_info": "DANKLORIX; cleaner; (1 l = 1.33 - 2.66); 27%"
+  },
+  {
+    "product_name": "GLADE scented candle",
+    "weight_or_unit": "each 112g piece",
+    "price_now": "2.99",
+    "price_before": null,
+    "important_info": "GLADE; Scented candle; (1 kg = 26.70)"
+  },
+  {
+    "product_name": "PALMOLIVE Dishwashing Liquid Ultra Concentrate",
+    "weight_or_unit": "500-750 ml bottles each",
+    "price_now": "1.19",
+    "price_before": null,
+    "important_info": "PALMOLIVE; Ultra-concentrate dishwashing liquid; (1 l = 1.59 - 2.38)"
+  },
+  {
+    "product_name": "SOMAT machine cleaner tablets",
+    "weight_or_unit": "3 pieces each = 57g pack",
+    "price_now": "1.99",
+    "price_before": "2.45",
+    "important_info": "SOMAT; Machine cleaner tablets; (1 kg = 34.92); 18%"
+  },
+  {
+    "product_name": "SOMAT Dishwasher",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "SOMAT; Dishwasher; each; (per application = 0.13 - 0.18)"
+  },
+  {
+    "product_name": "DOMESTOS Toilet Block",
+    "weight_or_unit": "1 piece each = 48-50g pack.",
+    "price_now": "1.00",
+    "price_before": "1.75",
+    "important_info": "DOMESTOS; toilet block; (1 kg = 20.00 - 20.84); 42%"
+  },
+  {
+    "product_name": "HIPP Organic Squeeze Pouches",
+    "weight_or_unit": "each 100g bag",
+    "price_now": "0.88",
+    "price_before": null,
+    "important_info": "HIPP; Organic squeeze pouches; (1 kg = 8.80)"
+  },
+  {
+    "product_name": "PAMPERS Baby Wipes",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": "7.99",
+    "important_info": "PAMPERS; wet wipes; 12 x 52-piece packs each; (per piece = 0.02 - 0.04) / (per piece = 0.02 - 0.03)**"
+  },
+  {
+    "product_name": "SCHWARZKOPF Gliss Shampoo or Conditioner",
+    "weight_or_unit": "200-250 ml bottles each",
+    "price_now": "2.49",
+    "price_before": "2.95",
+    "important_info": "BLACK HEAD; Gliss shampoo or conditioner; (1 l = 9.96 - 12.45); 15%"
+  },
+  {
+    "product_name": "GUHL Shampoo or Conditioner",
+    "weight_or_unit": "200-250 ml bottles each",
+    "price_now": "3.29",
+    "price_before": "3.95",
+    "important_info": "GUHL; Shampoo or conditioner; (1 l = 13.16 - 16.45) / (1 l = 11.96 - 14.95)**; 16%; 24%"
+  },
+  {
+    "product_name": "SEBAMED Every-Day Shampoo",
+    "weight_or_unit": "each 200 ml bottle",
+    "price_now": "2.99",
+    "price_before": "3.95",
+    "important_info": "SEBAMED; Everyday shampoo; (1 l = 14.95); 24%"
+  },
+  {
+    "product_name": "Head & Shoulders Shampoo",
+    "weight_or_unit": "250-300 ml bottles each",
+    "price_now": "3.79",
+    "price_before": "4.45",
+    "important_info": "HEAD & SHOULDERS; shampoo; (1 l = 12.64 - 15.16); 14%"
+  },
+  {
+    "product_name": "SCHWARZKOPF Brillance Intensive Color Cream",
+    "weight_or_unit": null,
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "BLACK HEAD; Brillance intensive color cream; per pack"
+  },
+  {
+    "product_name": "WELLAFLEX hairspray or mousse",
+    "weight_or_unit": "each 200-250 ml can",
+    "price_now": "2.00",
+    "price_before": "2.95",
+    "important_info": "WELLAFLEX; Hairspray or mousse; (1 l = 8.00 - 10.67); 32%"
+  },
+  {
+    "product_name": "COLGATE toothpaste",
+    "weight_or_unit": "each 75 ml tube",
+    "price_now": "2.00",
+    "price_before": "3.50",
+    "important_info": "COLGATE; toothpaste; (1 l = 13.34); 2 pieces; 1.00 each"
+  },
+  {
+    "product_name": "NIVEA MEN After-Shave Balm",
+    "weight_or_unit": "each 100 ml bottle",
+    "price_now": "4.44",
+    "price_before": "5.25",
+    "important_info": "NIVEA MEN; Aftershave balm; (1 l = 44.40); 15%"
+  },
+  {
+    "product_name": "AXE Deodorant Body Spray",
+    "weight_or_unit": "each 150 ml can",
+    "price_now": "3.49",
+    "price_before": null,
+    "important_info": "AXE; Deodorant Body Spray; (1 l = 23.27)"
+  },
+  {
+    "product_name": "PALMOLIVE Shower Gel",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "PALMOLIVE; shower gel; (1 l = 4.00)"
+  },
+  {
+    "product_name": "NIVEA Deodorant Spray XXL",
+    "weight_or_unit": "each 250 ml can",
+    "price_now": "3.29",
+    "price_before": "3.95",
+    "important_info": "NIVEA; XXL deodorant spray; (1 l = 13.16); 16%"
+  },
+  {
+    "product_name": "SOS Heat Patch Intense",
+    "weight_or_unit": null,
+    "price_now": "4.99",
+    "price_before": "5.95",
+    "important_info": "SOS; Intense heat patch; 2-piece pack each; (per piece = 2.50); 16%"
+  },
+  {
+    "product_name": "IRONMAXX Protein Bars",
+    "weight_or_unit": "48-49g bars each",
+    "price_now": "1.49",
+    "price_before": "2.29",
+    "important_info": "IRONMAXX; Protein bars; (1 kg = 30.41 - 31.05); 34%"
+  },
+  {
+    "product_name": "MORE Chunky Flavour",
+    "weight_or_unit": "each 90g can",
+    "price_now": "6.99",
+    "price_before": "9.99",
+    "important_info": "MORE; Chunky Flavour; (1 kg = 77.67); 30%"
+  },
+  {
+    "product_name": "VITAKRAFT dog snack",
+    "weight_or_unit": "each 80g bag",
+    "price_now": "1.79",
+    "price_before": null,
+    "important_info": "VITALITY; dog snack; (1 kg = 22.38)"
+  },
+  {
+    "product_name": "SHEBA Sauce Collection or Selection",
+    "weight_or_unit": "each 85g pack.",
+    "price_now": "0.49",
+    "price_before": "0.39",
+    "important_info": "SHEBA; Sauce Collection or Selection; (1kg = 5.77) / (1kg = 4.59)**"
+  },
+  {
+    "product_name": "KITEKAT cat food",
+    "weight_or_unit": "12 x 85g packs each.",
+    "price_now": "3.00",
+    "price_before": "3.99",
+    "important_info": "KITEKAT; Cat food; (1 kg = 2.95); 24%"
+  },
+  {
+    "product_name": "WHISKAS dry cat food",
+    "weight_or_unit": "each 800g pack.",
+    "price_now": "2.39",
+    "price_before": null,
+    "important_info": "WHISKAS; dry cat food; (1 kg = 2.99)"
+  },
+  {
+    "product_name": "Register now",
+    "weight_or_unit": null,
+    "price_now": null,
+    "price_before": null,
+    "important_info": null
+  },
+  {
+    "product_name": "VARTA AAA Alkaline Batteries »Energy«",
+    "weight_or_unit": null,
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "VARTA; AAA alkaline batteries »Energy«; 5-piece pack each; 71%; RRP 3.49"
+  },
+  {
+    "product_name": "VARTA Alkaline Batteries AA »Energy«",
+    "weight_or_unit": null,
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "VARTA; AA alkaline batteries »Energy«; 5-piece pack each; 71%; RRP 3.49"
+  },
+  {
+    "product_name": "PHILIPS SENSEO Coffee Pod Machine »CSA230/69«",
+    "weight_or_unit": null,
+    "price_now": "59.99",
+    "price_before": null,
+    "important_info": "PHILIPS; SENSEO Coffee Pod Machine »CSA230/69«; each; 40%; RRP 99.99"
+  },
+  {
+    "product_name": "SWITCH ON® vacuum sealer »SOV 125 C6«",
+    "weight_or_unit": null,
+    "price_now": "19.99",
+    "price_before": "39.99",
+    "important_info": "SWITCH ON®; Vacuum sealer »SOV 125 C6«; each; 50%; 57%"
+  },
+  {
+    "product_name": "SWITCH ON® wide vacuum sealer film rolls",
+    "weight_or_unit": null,
+    "price_now": "4.99",
+    "price_before": "9.99",
+    "important_info": "SWITCH ON®; Wide foil rolls for vacuum sealers; 2-piece pack each; (1 m² = 2.97); 50%"
+  },
+  {
+    "product_name": "SWITCH ON® vacuum sealer »SOV 125 C6«",
+    "weight_or_unit": null,
+    "price_now": "19.99",
+    "price_before": "16.99",
+    "important_info": "SWITCH ON®; Vacuum sealer »SOV 125 C6«; each; 15%"
+  },
+  {
+    "product_name": "ONLINE gel pen »magiXXFun«",
+    "weight_or_unit": null,
+    "price_now": "2.49",
+    "price_before": null,
+    "important_info": "ON-LINE; Gel pen »magiXXFun«; each"
+  },
+  {
+    "product_name": "RAVENSBURGER »All My Animal Babies« tiptoi® Puzzle Game",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "RAVENSBURGER; \"All My Animal Babies\" tiptoi® Puzzle Game; each; 46%; RRP 14.99"
+  },
+  {
+    "product_name": "RAVENSBURGER tiptoi® »The Pen«",
+    "weight_or_unit": null,
+    "price_now": "29.99",
+    "price_before": null,
+    "important_info": "RAVENSBURGER; tiptoi® »The Pen«; each; 43%; RRP 52.99"
+  },
+  {
+    "product_name": "KIDLAND® Railway Set »Amusement Park«",
+    "weight_or_unit": null,
+    "price_now": "29.99",
+    "price_before": "23.99",
+    "important_info": "KIDLAND®; Railway set \"Amusement Park\"; 32 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® \"My First Train\" Montessori Set",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": "11.99",
+    "important_info": "KIDLAND®; \"My First Train\" Montessori Set; 41 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® \"My First Track\" Underwater Set",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": "11.99",
+    "important_info": "KIDLAND®; \"My First Train\" Underwater Set; 34 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® »Loading Station« Expansion Set",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; \"Loading Station\" Expansion Set; 15 pieces each"
+  },
+  {
+    "product_name": "KIDLAND® Railway Set »Construction Site«",
+    "weight_or_unit": null,
+    "price_now": "29.99",
+    "price_before": "23.99",
+    "important_info": "KIDLAND®; Railway set \"Construction site\"; 59 pieces each; 20%"
+  },
+  {
+    "product_name": "RAVENSBURGER »My Home« tiptoi® learning game",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "RAVENSBURGER; \"My Home\" tiptoi® learning game; each; 46%; RRP 14.99"
+  },
+  {
+    "product_name": "RAVENSBURGER »PAW Patrol Rescue Mission« tiptoi® Learning Game",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "RAVENSBURGER; \"PAW Patrol Rescue Mission\" tiptoi® Learning Game; each; 25%; RRP 19.99"
+  },
+  {
+    "product_name": "RAVENSBURGER »The Nimble Language Squirrels« tiptoi® Learning Game",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "RAVENSBURGER; \"The Nimble Language Squirrels\" tiptoi® Learning Game; each; 25%; RRP 19.99"
+  },
+  {
+    "product_name": "Plush figure »Gabby's Dollhouse«",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": "14.99",
+    "important_info": "Plush figure »Gabby's Dollhouse«; each; 33%"
+  },
+  {
+    "product_name": "KIDLAND® Mechanical Level Crossing",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Mechanical level crossing; 5 pieces each"
+  },
+  {
+    "product_name": "KIDLAND® Diesel Locomotive with Trailer",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Diesel locomotive with trailer; each 2-piece"
+  },
+  {
+    "product_name": "KIDLAND® Electric Locomotive with Trailers",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Electric locomotive with carriages; 3-piece set each"
+  },
+  {
+    "product_name": "KIDLAND® Passenger Train with Trailer",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Passenger train with trailer; 3-piece set each"
+  },
+  {
+    "product_name": "KIDLAND® Wooden Railway Train",
+    "weight_or_unit": null,
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Wooden train; 5 pieces each"
+  },
+  {
+    "product_name": "KIDLAND® \"Train Station\" Expansion Set",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; \"Train Station\" Expansion Set; 8 pieces each"
+  },
+  {
+    "product_name": "KIDLAND® Remote Controlled Tram",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Remote-controlled tram; 4 pieces each"
+  },
+  {
+    "product_name": "KIDLAND® »Engine Shed« Expansion Set",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; \"Engine Shed\" Expansion Set; 13 pieces each"
+  },
+  {
+    "product_name": "KIDLAND® \"Switching House\" Expansion Set",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; \"Switching House\" Expansion Set; 4 pieces each"
+  },
+  {
+    "product_name": "KIDLAND® Parkside Workbench",
+    "weight_or_unit": null,
+    "price_now": "49.99",
+    "price_before": "44.99",
+    "important_info": "KIDLAND®; Parkside workbench; 74 pieces each; 10%"
+  },
+  {
+    "product_name": "KIDLAND® Doll Cradle",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Doll's cradle; each"
+  },
+  {
+    "product_name": "KIDLAND® Railway Set »Jungle«",
+    "weight_or_unit": null,
+    "price_now": "24.99",
+    "price_before": "19.99",
+    "important_info": "KIDLAND®; Jungle Railway Set; 35 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® Toy Angle Grinder »PP 125 B1«",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Play angle grinder »PP 125 B1«; each"
+  },
+  {
+    "product_name": "KIDLAND® Railway Set »Passenger Train«",
+    "weight_or_unit": null,
+    "price_now": "24.99",
+    "price_before": "19.99",
+    "important_info": "KIDLAND®; Railway set \"Passenger train\"; 50 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® Kitchen",
+    "weight_or_unit": null,
+    "price_now": "49.99",
+    "price_before": "44.99",
+    "important_info": "KIDLAND®; Kitchen; 24 pieces each; 10%"
+  },
+  {
+    "product_name": "KIDLAND® Doll Stroller",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Doll's pram; each"
+  },
+  {
+    "product_name": "KIDLAND® Locomotive with Trailer »Glow-in-the-Dark«",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Locomotive with trailer »Glow-in-the-Dark«; 3-piece set each"
+  },
+  {
+    "product_name": "baby doll",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": "12.99",
+    "important_info": "baby doll; each; 23%"
+  },
+  {
+    "product_name": "RAVENSBURGER »My Colors and Shapes« tiptoi® learning game",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "RAVENSBURGER; \"My Colors and Shapes\" tiptoi® learning game; each; 46%; RRP 14.99"
+  },
+  {
+    "product_name": "Plush figure »Super Mario«",
+    "weight_or_unit": null,
+    "price_now": "6.99",
+    "price_before": null,
+    "important_info": "Plush figure »Super Mario«; each"
+  },
+  {
+    "product_name": "RAVENSBURGER »Animals of the World« tiptoi® board game",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "RAVENSBURGER; \"Animals of the World\" tiptoi® board game; each; 25%; RRP 19.99"
+  },
+  {
+    "product_name": "KIDLAND® Remote Controlled Passenger Train",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Remote-controlled passenger train; 4 pieces each"
+  },
+  {
+    "product_name": "KIDLAND® Remote Controlled Transport Locomotive",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Remote-controlled transport locomotive; 4 pieces each"
+  },
+  {
+    "product_name": "KIDLAND® Loading Crane",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Loading crane; 5 pieces each"
+  },
+  {
+    "product_name": "KIDLAND® Subway Tunnel",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; subway tunnel; 7 pieces each"
+  },
+  {
+    "product_name": "Plush figure \"Bluey\"",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": "9.99",
+    "important_info": "Plush figure \"Bluey\"; each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® Arch Bridge",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; arched bridge; 7 pieces each"
+  },
+  {
+    "product_name": "Paperback calendar 2026",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "Paperback calendar 2026; each"
+  },
+  {
+    "product_name": "XXL Family Planner 2026",
+    "weight_or_unit": null,
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "XXL Family Planner 2026; each"
+  },
+  {
+    "product_name": "PELICAN Wall Planner 2026",
+    "weight_or_unit": null,
+    "price_now": "1.99",
+    "price_before": null,
+    "important_info": "PELICAN; Wall planner 2026; each"
+  },
+  {
+    "product_name": "Chief Timer 2026",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "Chief Timer 2026; each"
+  },
+  {
+    "product_name": "Desk calendar 2026",
+    "weight_or_unit": null,
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "Desk calendar 2026; each"
+  },
+  {
+    "product_name": "X4-LIFE LED real wax candle set",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "X4-LIFE; LED Real Wax Candle Set; 4 pieces each"
+  },
+  {
+    "product_name": "LIV&BO® Step Candles",
+    "weight_or_unit": null,
+    "price_now": "3.49",
+    "price_before": null,
+    "important_info": "LIV&BO®; Step candles; 4-piece pack each"
+  },
+  {
+    "product_name": "LIV&BO® Pillar Candles",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; pillar candles; 4-piece pack each"
+  },
+  {
+    "product_name": "LIV&BO® Pillar Candles",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; pillar candles; 2-piece pack each"
+  },
+  {
+    "product_name": "LIV&BO® Pillar Candles",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; pillar candles; 6-piece pack each"
+  },
+  {
+    "product_name": "LIV&BO® Scented Step Candles",
+    "weight_or_unit": null,
+    "price_now": "3.49",
+    "price_before": null,
+    "important_info": "LIV&BO®; Scented step candles; 4-piece pack each"
+  },
+  {
+    "product_name": "LIV&BO® Step Candles with Numbers",
+    "weight_or_unit": null,
+    "price_now": "3.49",
+    "price_before": null,
+    "important_info": "LIV&BO®; Step candles with numbers; 4-piece pack each"
+  },
+  {
+    "product_name": "LIV&BO® Scented Step Candles",
+    "weight_or_unit": null,
+    "price_now": "3.49",
+    "price_before": null,
+    "important_info": "LIV&BO®; Scented step candles; 4-piece pack each"
+  },
+  {
+    "product_name": "BRITA water filter cartridges »MAXTRA PRO PURE PERFORM.«",
+    "weight_or_unit": null,
+    "price_now": "27.99",
+    "price_before": null,
+    "important_info": "BRITA; Water filter cartridges »MAXTRA PRO PURE PERFORM.«; 6-piece pack each; 41%; RRP 47.69"
+  },
+  {
+    "product_name": "LOU LAGUIOLE Knife Set",
+    "weight_or_unit": null,
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "LOU LAGUIOLE; Knife set; 6-piece pack each; 20%; RRP 7.49"
+  },
+  {
+    "product_name": "LOU LAGUIOLE Fork Set",
+    "weight_or_unit": null,
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "LOU LAGUIOLE; Fork set; 6-piece pack each; 14%; RRP 6.99"
+  },
+  {
+    "product_name": "BRITA Water Filter Cartridges »MAXTRA PRO Extra Limescale Protection«",
+    "weight_or_unit": null,
+    "price_now": "29.99",
+    "price_before": null,
+    "important_info": "BRITA; Water filter cartridges »MAXTRA PRO Extra Limescale«; 6-piece pack each; 45%; RRP 54.89"
+  },
+  {
+    "product_name": "SODASTREAM soda maker »GAIA«",
+    "weight_or_unit": null,
+    "price_now": "49.99",
+    "price_before": null,
+    "important_info": "SODASTREAM; Water dispenser »GAIA«; 3-piece set each; 49%; RRP 99.00"
+  },
+  {
+    "product_name": "BRITA table water filter »Marella X",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "BRITA; Marella X table water filter; each; 55%; RRP 33.89"
+  },
+  {
+    "product_name": "AIR UP Flavor Pods",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": "7.99",
+    "important_info": "AIR UP; Flavor Pods; 3-piece pack each; 11%"
+  },
+  {
+    "product_name": "SODASTREAM plastic bottles »FUSE«",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "SODASTREAM; Plastic bottles »FUSE«; 2-piece pack each; 62%; RRP 26.99"
+  },
+  {
+    "product_name": "AIR UP Tumbler",
+    "weight_or_unit": null,
+    "price_now": "29.99",
+    "price_before": "26.99",
+    "important_info": "AIR UP; Tumbler; each; 10%"
+  },
+  {
+    "product_name": "SPICE&SOUL® Double-Walled Water Bottle",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "SPICE&SOUL®; Double-walled water bottle; each"
+  },
+  {
+    "product_name": "drinking glass",
+    "weight_or_unit": null,
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "drinking glass"
+  },
+  {
+    "product_name": "LIV&BO® Low Kitchen Faucet",
+    "weight_or_unit": null,
+    "price_now": "24.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; kitchen tap low; each"
+  },
+  {
+    "product_name": "LIV&BO® Kitchen Faucet High",
+    "weight_or_unit": null,
+    "price_now": "24.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; kitchen faucet high; each"
+  },
+  {
+    "product_name": "LIV&BO® LED decoration »Christmas House«",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decoration \"Christmas House\"; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light curtain with 300 warm white LEDs",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light curtain with 300 warm white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® LED Light Sticks \"Christmas Tree\" warm white",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light sticks \"Christmas tree\" warm white; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light curtain with 8 cool white LEDs",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light curtain with 8 cool white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® Decorative Reindeer",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; Decorative reindeer; each"
+  },
+  {
+    "product_name": "LIV&BO® LED Decorative Gnome Figure",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decorative gnome figure; each"
+  },
+  {
+    "product_name": "LIV&BO® 3D Light Tube Figure »Sled«",
+    "weight_or_unit": null,
+    "price_now": "17.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; 3D light tube figure \"Sled\"; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light decoration with 185 colorful LEDs",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light decoration with 185 colorful LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® 3D Light Tube Figure »Reindeer«",
+    "weight_or_unit": null,
+    "price_now": "17.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; 3D light tube figure \"Reindeer\"; each"
+  },
+  {
+    "product_name": "LIV&BO® 3D Light Tube Figure »Reindeer and Sleigh«",
+    "weight_or_unit": null,
+    "price_now": "17.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; 3D light tube figure \"Reindeer and Sleigh\"; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light sticks »Star« warm white",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light sticks \"Star\" warm white; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light sticks »snowflake« cool white",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light sticks \"snowflake\" cool white; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light sticks »Star with stem«",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light sticks »Star with stem«; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light sticks »candy canes« warm white",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light sticks \"candy canes\" warm white; each"
+  },
+  {
+    "product_name": "LIV&BO® LED solar string lights, 2 x 50 warm white LEDs each",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED solar string lights, each with 2 x 50 warm white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light curtain",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light curtain; each"
+  },
+  {
+    "product_name": "LIV&BO® LED string lights",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED string lights; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light curtain with 8 warm white LEDs",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light curtain with 8 warm white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light curtain with 9 warm white LEDs",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light curtain with 9 warm white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® LED Light Arch",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light arch; each"
+  },
+  {
+    "product_name": "LIV&BO® LED Christmas Star",
+    "weight_or_unit": null,
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED Christmas star; each"
+  },
+  {
+    "product_name": "LIV&BO® LED Decorative Gnome Figure",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decorative gnome figure; each"
+  },
+  {
+    "product_name": "LIV&BO® Decorative Gnome Figurine",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; Decorative gnome figure; each"
+  },
+  {
+    "product_name": "LIV&BO® Decorative Gnomes",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; Decorative gnome; each"
+  },
+  {
+    "product_name": "LIV&BO® Decorative Gnomes",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; Decorative gnome; each"
+  },
+  {
+    "product_name": "LIV&BO® Decorative Reindeer",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; Decorative reindeer; each"
+  },
+  {
+    "product_name": "LIV&BO® LED Christmas Tree Garland",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED Christmas garland; each"
+  },
+  {
+    "product_name": "LIV&BO® LED decorative house with star",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decorative house with star; each"
+  },
+  {
+    "product_name": "LIV&BO® LED decorative house with fir trees",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decorative house with fir trees; each"
+  },
+  {
+    "product_name": "LIV&BO® LED decoration »Church«",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decoration \"Church\"; each"
+  },
+  {
+    "product_name": "LIV&BO® LED decoration »Country House«",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decoration \"Country House\"; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light decoration with 185 warm white LEDs",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light decoration with 185 warm white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light curtain with 300 colorful LEDs",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light curtain with 300 colorful LEDs; each"
+  },
+  {
+    "product_name": "TOWNLAND® LED light curtain with 300 cool white LEDs",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "TOWNLAND®; LED light curtain with 300 cool white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light decoration with 185 cool white LEDs",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light decoration with 185 cool white LEDs; each"
+  },
+  {
+    "product_name": "Register now",
+    "weight_or_unit": null,
+    "price_now": null,
+    "price_before": null,
+    "important_info": null
+  },
+  {
+    "product_name": "OYANDA® Women's Briefs",
+    "weight_or_unit": null,
+    "price_now": "6.99",
+    "price_before": null,
+    "important_info": "OYANDA®; Women's briefs; 5-piece pack each"
+  },
+  {
+    "product_name": "OYANDA® Women's Spaghetti Strap Shirts",
+    "weight_or_unit": null,
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "OYANDA®; Women's spaghetti strap shirts; 3-piece pack each"
+  },
+  {
+    "product_name": "OYANDA® Underwire Bras",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "OYANDA®; Underwire bras; 2-piece pack each"
+  },
+  {
+    "product_name": "OYANDA® Women's Spaghetti Strap Shirts",
+    "weight_or_unit": null,
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "OYANDA®; Women's spaghetti strap shirts; 3-piece pack each"
+  },
+  {
+    "product_name": "OYANDA® Women's Bodysuits",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "OYANDA®; Women's bodysuits; 2-piece pack each"
+  },
+  {
+    "product_name": "OYANDA® Women's Thermal Leggings",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "OYANDA®; Women's thermal leggings; each"
+  },
+  {
+    "product_name": "Women's sweatshirt »Coca-Cola«",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "Women's sweatshirt »Coca-Cola«; each"
+  },
+  {
+    "product_name": "Women's Christmas sweater »Coca-Cola«",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "Women's Christmas sweater »Coca-Cola«; each"
+  },
+  {
+    "product_name": "Peruvian. Cultivated blueberries XXL",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "Peruvian. Cultivated blueberries XXL; (1 kg = 7.98)"
+  },
+  {
+    "product_name": "VALENSINA Fruit Juice",
+    "weight_or_unit": "each 0.7 - 1-liter PET bottle.",
+    "price_now": "1.39",
+    "price_before": "2.49",
+    "important_info": "VALENSINA; fruit juice; (1 l = 1.39 - 1.99); 44%"
+  },
+  {
+    "product_name": "German/Italian red dessert apples",
+    "weight_or_unit": "per 1 kg tray",
+    "price_now": "1.49",
+    "price_before": "1.99",
+    "important_info": "German/Italian red dessert apples; 25%"
+  },
+  {
+    "product_name": "MILKA Chocolate",
+    "weight_or_unit": "each 250-300g bar",
+    "price_now": "2.99",
+    "price_before": "4.99",
+    "important_info": "MILKA; Chocolate; (1kg = 9.97 - 11.96) / (1kg = 9.24 - 11.08)**; 40%; 44%"
+  },
+  {
+    "product_name": "MILRAM sliced ​​cheese",
+    "weight_or_unit": "each 150g pack.",
+    "price_now": "1.44",
+    "price_before": "2.69",
+    "important_info": "MILRAM; sliced ​​cheese; (1 kg = 9.60); 46%"
+  },
+  {
+    "product_name": "K-PURLAND Chicken Breast Fillet Pieces XXL",
+    "weight_or_unit": "each 1 kg bulk pack.",
+    "price_now": "7.77",
+    "price_before": null,
+    "important_info": "K-PURLAND; Chicken breast fillet pieces XXL"
+  },
+  {
+    "product_name": "K-PURLAND ground beef",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "K-PURLAND; ground beef; (1 kg = 9.98)"
+  },
+  {
+    "product_name": "Polish goose breast",
+    "weight_or_unit": "per kg",
+    "price_now": "13.99",
+    "price_before": "17.99",
+    "important_info": "Polish goose breast; (e.g. for a 700g pack 9.80); 22%"
+  },
+  {
+    "product_name": "Young duck",
+    "weight_or_unit": "per kg",
+    "price_now": "3.69",
+    "price_before": "5.83",
+    "important_info": "Young duck; 36%"
+  },
+  {
+    "product_name": "Polish goose legs",
+    "weight_or_unit": "per kg",
+    "price_now": "14.99",
+    "price_before": "18.99",
+    "important_info": "Polish goose legs; (e.g. for a 700g pack 10.50); 21%"
+  },
+  {
+    "product_name": "FROSTA fish fingers",
+    "weight_or_unit": "10 - 15 pieces each = 390 - 450 g pack.",
+    "price_now": "2.79",
+    "price_before": "3.99",
+    "important_info": "FROSTA; (1 kg = 6.20 - 7.16); 30%"
+  },
+  {
+    "product_name": "ZOTT Creamy Yogurt or Pure Joy",
+    "weight_or_unit": "each 140g cup",
+    "price_now": "0.35",
+    "price_before": null,
+    "important_info": "ZOTT; Creamy yogurt or Pure Joy; (1 kg = 2.50)"
+  },
+  {
+    "product_name": "CHILDREN Maxi King or Pingui",
+    "weight_or_unit": "3 - 4 pieces each = 105 - 120 g pack.",
+    "price_now": "1.29",
+    "price_before": null,
+    "important_info": "CHILDREN; Maxi King or Pingui; (1 kg = 10.75 - 12.29)"
+  },
+  {
+    "product_name": "PHILADELPHIA Cream Cheese Preparation",
+    "weight_or_unit": "100-195g packs each",
+    "price_now": "1.11",
+    "price_before": null,
+    "important_info": "PHILADELPHIA; Cream cheese preparation; (1 kg = 5.70 - 11.10)"
+  },
+  {
+    "product_name": "APPEL Tender Herring Fillets",
+    "weight_or_unit": "each 190-200g can",
+    "price_now": "1.00",
+    "price_before": "1.99",
+    "important_info": "APPLE; Tender herring fillets; (1 kg = 5.00 - 5.27); 49%"
+  },
+  {
+    "product_name": "BARILLA Pesto",
+    "weight_or_unit": "each 190-200g jar",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "BARILLA; Pesto; (1 kg = 10.00 - 10.53)"
+  },
+  {
+    "product_name": "BARILLA Classic Pasta",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "BARILLA; Classic Pasta; (1 kg = 2.00)"
+  },
+  {
+    "product_name": "GAGGLI Fresh Egg Noodles",
+    "weight_or_unit": "each 250g bag",
+    "price_now": "0.99",
+    "price_before": null,
+    "important_info": "GAGGLI; Fresh egg noodles; (1 kg = 3.96)"
+  },
+  {
+    "product_name": "LINDT Lindor",
+    "weight_or_unit": "each 375g pack.",
+    "price_now": "7.99",
+    "price_before": "6.99",
+    "important_info": "LINDT; Lindor; (1kg = 21.31) / (1kg = 18.64)**"
+  },
+  {
+    "product_name": "DUPLO Wafer Chocolate Bar",
+    "weight_or_unit": "10 pieces each = 182g pack",
+    "price_now": "1.99",
+    "price_before": null,
+    "important_info": "DUPLO; Waffle chocolate bar; (1 kg = 10.94)"
+  },
+  {
+    "product_name": "PEPSI or SCHWIP SCHWAP Zero XXL",
+    "weight_or_unit": "each 1.75-liter PET bottle.",
+    "price_now": "0.99",
+    "price_before": null,
+    "important_info": "PEPSI or SCHWIP SCHWAP; Zero XXL; (1 l = 0.57)"
+  },
+  {
+    "product_name": "CHIVAS REGAL Blended Scotch Whiskey",
+    "weight_or_unit": "each 0.7-liter bottle.",
+    "price_now": "19.99",
+    "price_before": "29.99",
+    "important_info": "CHIVAS REGAL; Blended Scotch Whisky; (1 l = 28.56); 33%"
+  },
+  {
+    "product_name": "Little Red Riding Hood Piccolo Sparkling Wine",
+    "weight_or_unit": "each 0.2-liter bottle.",
+    "price_now": "0.99",
+    "price_before": null,
+    "important_info": "LITTLE RED RIDING HOOD; Piccolo sparkling wine; (1 l = 4.95)"
+  },
+  {
+    "product_name": "HASSERÖDER Premium Pils",
+    "weight_or_unit": "(1 l = 0.80)",
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "HASSERÖDER; Premium Pils; Each case contains 20 x 0.5-liter bottles."
+  },
+  {
+    "product_name": "SHEBA Sauce Collection or Selection",
+    "weight_or_unit": "each 85g pack.",
+    "price_now": "0.49",
+    "price_before": "0.39",
+    "important_info": "SHEBA; Sauce Collection or Selection; (1kg = 5.77) / (1kg = 4.59)**"
+  },
+  {
+    "product_name": "REINERT Ham Nuggets",
+    "weight_or_unit": "3 x 50g packs each.",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "REINERT; Ham nuggets; (1 kg = 13.34)"
+  },
+  {
+    "product_name": "MONTORSI Italian Salami",
+    "weight_or_unit": "per 100g pack",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "MONTORSI; Italian salami; (1 kg = 20.00)"
+  },
+  {
+    "product_name": "HENGLEIN Fresh Pizza Dough XXL",
+    "weight_or_unit": "each 550g roll",
+    "price_now": "1.00",
+    "price_before": "2.69",
+    "important_info": "HENGLEIN; Fresh pizza dough XXL; (1 kg = 1.82); 62%"
+  },
+  {
+    "product_name": "LIKE Chicken or Grilled Chicken vegan meat alternative",
+    "weight_or_unit": "each 180g pack.",
+    "price_now": "2.00",
+    "price_before": "3.29",
+    "important_info": "LIKE; Chicken or Grilled Chicken vegan meat alternative; (1 kg = 11.12); 39%"
+  },
+  {
+    "product_name": "Mövenpick Ice Cream",
+    "weight_or_unit": "800-900 ml packs each.",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "Mövenpick; Ice; (1 l = 2.23 - 2.50)"
+  },
+  {
+    "product_name": "FROSTA Ready Meal",
+    "weight_or_unit": "each 375g bag",
+    "price_now": "2.00",
+    "price_before": "3.59",
+    "important_info": "FROSTA; ready meal; (1 kg = 5.34); 44%"
+  },
+  {
+    "product_name": "DR. OETKER La Mia Grande or Familia",
+    "weight_or_unit": "360-480g pack each",
+    "price_now": "3.00",
+    "price_before": "4.19",
+    "important_info": "DR. OETKER; La Mia Grande or Familia; (1 kg = 6.25 - 8.34); 28%"
+  },
+  {
+    "product_name": "POPPIES mini donuts or eclairs",
+    "weight_or_unit": "8 - 12 pieces each = 184 - 276 g pack.",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "POPPIES; Mini donuts or eclairs; (1 kg = 7.25 - 10.87)"
+  },
+  {
+    "product_name": "NESQUIK Snack",
+    "weight_or_unit": "8 pieces each = 208g pack",
+    "price_now": "2.00",
+    "price_before": "2.69",
+    "important_info": "NESQUIK; snack; (1 kg = 9.62); 25%"
+  },
+  {
+    "product_name": "YFOOD This is food drinking meal",
+    "weight_or_unit": "each 0.5-liter bottle.",
+    "price_now": "3.00",
+    "price_before": "3.99",
+    "important_info": "YFOOD; This is a food drinkable meal; (1 l = 6.00); 24%"
+  },
+  {
+    "product_name": "BERGADER Almzeit or Bavaria Blu",
+    "weight_or_unit": "each 175g pack.",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "BERGADER; Almzeit or Bavaria Blu; (1 kg = 11.43)"
+  },
+  {
+    "product_name": "ROUGETTE grilled or oven cheese",
+    "weight_or_unit": "each 180g pack.",
+    "price_now": "2.00",
+    "price_before": "3.69",
+    "important_info": "ROUGETTE; Grilled or baked cheese; (1 kg = 11.12); 45%"
+  },
+  {
+    "product_name": "ADLER Premium Cream",
+    "weight_or_unit": "per 100g pack",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "EAGLE; Fine cream; (1 kg = 10.00)"
+  },
+  {
+    "product_name": "TARCZYNSKI Original Polish Krakow",
+    "weight_or_unit": "each 320g pack.",
+    "price_now": "3.00",
+    "price_before": null,
+    "important_info": "TARCZYNSKI; Original Polish Krakow sausage; (1 kg = 9.38)"
+  },
+  {
+    "product_name": "KRINI Legumes, various varieties",
+    "weight_or_unit": "each 400g can",
+    "price_now": "2.00",
+    "price_before": "3.78",
+    "important_info": "KRINI; Legumes of various varieties; Drained weight 240 g (1 kg = 4.17); 2 pieces; 1.00 per can"
+  },
+  {
+    "product_name": "TULIP breakfast meat",
+    "weight_or_unit": "each 340g can",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "TULIP; Breakfast meat; (1 kg = 5.89)"
+  },
+  {
+    "product_name": "MEICA Truman's",
+    "weight_or_unit": "each 540g jar",
+    "price_now": "3.00",
+    "price_before": "4.49",
+    "important_info": "MEICA; Truman's; Drained weight 350 g (1 kg = 8.58); 33%"
+  },
+  {
+    "product_name": "MAGGI Asian or pub snack",
+    "weight_or_unit": "each 119-170g bag",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "MAGGI; Asian or pub snack; (1 kg = 5.89 - 8.41)"
+  },
+  {
+    "product_name": "HEINZ Tomato Ketchup",
+    "weight_or_unit": "each 800 ml bottle",
+    "price_now": "3.00",
+    "price_before": null,
+    "important_info": "HEINZ; Tomato Ketchup; (1 l = 3.75)"
+  },
+  {
+    "product_name": "BONNE MAMAN Jam",
+    "weight_or_unit": "each 370g jar",
+    "price_now": "2.00",
+    "price_before": "3.49",
+    "important_info": "BONNE MAMAN; jam; (1 kg = 5.41); 42%"
+  },
+  {
+    "product_name": "Cologne Oat flakes",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "COLOGNE; oatmeal; (1 kg = 2.00)"
+  },
+  {
+    "product_name": "STARBUCKS coffee capsules",
+    "weight_or_unit": "10 pieces each = 53-57g pack.",
+    "price_now": "3.00",
+    "price_before": null,
+    "important_info": "STARBUCKS; Coffee capsules; (1 kg = 52.64 - 56.61)"
+  },
+  {
+    "product_name": "CHIO Tortillas Chips",
+    "weight_or_unit": "each 110g pack.",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "CHIO; Tortillas Chips; (1 kg = 9.10)"
+  },
+  {
+    "product_name": "TUC Cracker",
+    "weight_or_unit": "3 x 100g packs each.",
+    "price_now": "2.00",
+    "price_before": "2.99",
+    "important_info": "TUC; cracker; (1 kg = 6.67); 33%"
+  },
+  {
+    "product_name": "LORENZ Nic Nac's",
+    "weight_or_unit": "each 110g pack.",
+    "price_now": "1.00",
+    "price_before": "1.99",
+    "important_info": "LORENZ; Nic Nac's; (1 kg = 9.10); 49%"
+  },
+  {
+    "product_name": "KNOPPERS Goodies",
+    "weight_or_unit": "each 180g bag",
+    "price_now": "2.00",
+    "price_before": "2.49",
+    "important_info": "KNOPPERS; Goodies; (1 kg = 11.12); 19%"
+  },
+  {
+    "product_name": "VIVIL throat lozenges",
+    "weight_or_unit": "each 120g bag",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "VIVIL; throat lozenges; (1 kg = 8.34)"
+  },
+  {
+    "product_name": "ROTWILD Dornfelder or Riesling",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.00",
+    "price_before": null,
+    "important_info": "RED DEER; Dornfelder or Riesling; (1 l = 4.00)"
+  },
+  {
+    "product_name": "KITEKAT cat food",
+    "weight_or_unit": "12 x 85g packs each.",
+    "price_now": "3.00",
+    "price_before": "3.99",
+    "important_info": "KITEKAT; Cat food; (1 kg = 2.95); 24%"
+  },
+  {
+    "product_name": "LENOR fabric softener",
+    "weight_or_unit": "each 1.239-liter bottle.",
+    "price_now": "3.00",
+    "price_before": null,
+    "important_info": "LENOR; softener; (per application = 0.06)"
+  },
+  {
+    "product_name": "COTTONELLE Moist Toilet Paper",
+    "weight_or_unit": null,
+    "price_now": "1.00",
+    "price_before": "1.55",
+    "important_info": "COTTONELLE; Moist toilet paper; 42-piece pack each; 35%"
+  },
+  {
+    "product_name": "Carefree panty liners",
+    "weight_or_unit": null,
+    "price_now": "2.00",
+    "price_before": "2.95",
+    "important_info": "CAREFREE; panty liners; Packs of 24-56 pieces each.; 32%"
+  },
+  {
+    "product_name": "DOMESTOS Toilet Block",
+    "weight_or_unit": "1 piece each = 48-50g pack.",
+    "price_now": "1.00",
+    "price_before": "1.75",
+    "important_info": "DOMESTOS; toilet block; (1 kg = 20.00 - 20.84); 42%"
+  },
+  {
+    "product_name": "WELLAFLEX hairspray or mousse",
+    "weight_or_unit": "each 200-250 ml can",
+    "price_now": "2.00",
+    "price_before": "2.95",
+    "important_info": "WELLAFLEX; Hairspray or mousse; (1 l = 8.00 - 10.67); 32%"
+  },
+  {
+    "product_name": "COLGATE toothpaste",
+    "weight_or_unit": "each 75 ml tube",
+    "price_now": "2.00",
+    "price_before": "3.50",
+    "important_info": "COLGATE; toothpaste; (1 l = 13.34); 2 pieces; 1.00 each"
+  },
+  {
+    "product_name": "PALMOLIVE Shower Gel",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "PALMOLIVE; shower gel; (1 l = 4.00)"
+  },
+  {
+    "product_name": "LEIBNIZ biscuits",
+    "weight_or_unit": "150-200g pack each",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "LEIBNIZ; Cookies; (1 kg = 5.00 - 6.67)"
+  },
+  {
+    "product_name": "OREO double cookies",
+    "weight_or_unit": "Each 154-157g pack.",
+    "price_now": "1.00",
+    "price_before": "1.89",
+    "important_info": "OREO; Double cookies; (1 kg = 6.37 - 6.50); 47%"
+  },
+  {
+    "product_name": "KINDER Cards",
+    "weight_or_unit": "5 x 2 pcs. each = 128g pack",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "CHILDREN; Cards; (1 kg = 15.63)"
+  },
+  {
+    "product_name": "Two-tone rose",
+    "weight_or_unit": null,
+    "price_now": "3.00",
+    "price_before": null,
+    "important_info": "Two-tone rose; each"
+  },
+  {
+    "product_name": "Women's gloves",
+    "weight_or_unit": null,
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "Women's gloves; per pair"
+  },
+  {
+    "product_name": "Women's winter hat",
+    "weight_or_unit": null,
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "Women's winter hat; each"
+  },
+  {
+    "product_name": "Men's gloves",
+    "weight_or_unit": null,
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "Men's gloves; per pair"
+  },
+  {
+    "product_name": "Men's winter hat",
+    "weight_or_unit": null,
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "Men's winter hat; each"
+  },
+  {
+    "product_name": "drinking glass",
+    "weight_or_unit": null,
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "drinking glass"
+  },
+  {
+    "product_name": "VARTA Alkaline Batteries AA »Energy«",
+    "weight_or_unit": null,
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "VARTA; AA alkaline batteries »Energy«; 5-piece pack each; 71%; RRP 3.49"
+  },
+  {
+    "product_name": "VARTA AAA Alkaline Batteries »Energy«",
+    "weight_or_unit": null,
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "VARTA; AAA alkaline batteries »Energy«; 5-piece pack each; 71%; RRP 3.49"
+  },
+  {
+    "product_name": "APPEL Tender Herring Fillets",
+    "weight_or_unit": "each 190-200g can",
+    "price_now": "1.00",
+    "price_before": "1.99",
+    "important_info": "APPLE; Tender herring fillets; (1 kg = 5.00 - 5.27); 49%"
+  },
+  {
+    "product_name": "BARILLA Pesto",
+    "weight_or_unit": "each 190-200g jar",
+    "price_now": "2.00",
+    "price_before": null,
+    "important_info": "BARILLA; Pesto; (1 kg = 10.00 - 10.53)"
+  },
+  {
+    "product_name": "BARILLA Classic Pasta",
+    "weight_or_unit": "per 500g pack.",
+    "price_now": "1.00",
+    "price_before": null,
+    "important_info": "BARILLA; Classic Pasta; (1 kg = 2.00)"
+  },
+  {
+    "product_name": "DANONE Fruchtzwerge Quetschies XXL",
+    "weight_or_unit": "4 x 70g bags = 280g pack",
+    "price_now": "1.89",
+    "price_before": "2.89",
+    "important_info": "DANONE; Fruchtzwerge Quetschies XXL; (1 kg = 6.75); 34%"
+  },
+  {
+    "product_name": "MILRAM Granular Cream Cheese XXL",
+    "weight_or_unit": "each 350g cup",
+    "price_now": "1.69",
+    "price_before": null,
+    "important_info": "MILRAM; Granular Cream Cheese XXL; (1 kg = 4.83)"
+  },
+  {
+    "product_name": "KINDER Chocolate XXL",
+    "weight_or_unit": "each 450g pack.",
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "CHILDREN; Chocolate XXL; (1 kg = 11.09)"
+  },
+  {
+    "product_name": "ÖMÜR Böreklik",
+    "weight_or_unit": "each 1.5 kg can",
+    "price_now": "4.99",
+    "price_before": "3.99",
+    "important_info": "ÖMÜR; Böreklik; Drained weight 800 g (1 kg = 6.24) / Drained weight 800 g (1 kg = 4.99)**"
+  },
+  {
+    "product_name": "HENGLEIN Fresh Puff Pastry XXL",
+    "weight_or_unit": "each 375g pack.",
+    "price_now": "1.49",
+    "price_before": "1.99",
+    "important_info": "HENGLEIN; Fresh puff pastry XXL; (1 kg = 3.98); 25%"
+  },
+  {
+    "product_name": "LUTÈCE Mushrooms",
+    "weight_or_unit": "each 800g can",
+    "price_now": "1.59",
+    "price_before": "3.19",
+    "important_info": "LUTÈCE; Mushrooms; Drained weight 460 g (1 kg = 3.46); 50%"
+  },
+  {
+    "product_name": "MAINTAL Rosehip Jam Extra",
+    "weight_or_unit": "each 340g jar",
+    "price_now": "1.69",
+    "price_before": null,
+    "important_info": "MAINTAL; Rosehip Jam Extra; (1 kg = 4.98)"
+  },
+  {
+    "product_name": "NIVEA Deodorant Spray XXL",
+    "weight_or_unit": "each 250 ml can",
+    "price_now": "3.29",
+    "price_before": "3.95",
+    "important_info": "NIVEA; XXL deodorant spray; (1 l = 13.16); 16%"
+  },
+  {
+    "product_name": "PAMPERS Baby Wipes",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": "7.99",
+    "important_info": "PAMPERS; wet wipes; 12 x 52-piece packs each; (per piece = 0.02 - 0.04) / (per piece = 0.02 - 0.03)**"
+  },
+  {
+    "product_name": "Sparkling with SODASTREAM",
+    "weight_or_unit": null,
+    "price_now": null,
+    "price_before": null,
+    "important_info": null
+  },
+  {
+    "product_name": "SODASTREAM Quick-Connect cylinder filling",
+    "weight_or_unit": "(1 kg = 16.36)",
+    "price_now": "6.95",
+    "price_before": null,
+    "important_info": "SODASTREAM; Quick-Connect cylinder filling; each; 22%; RRP 8.99"
+  },
+  {
+    "product_name": "SODASTREAM plastic bottles »FUSE«",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "SODASTREAM; Plastic bottles »FUSE«; 2-piece pack each; 62%; RRP 26.99"
+  },
+  {
+    "product_name": "SODASTREAM soda maker »GAIA«",
+    "weight_or_unit": null,
+    "price_now": "49.99",
+    "price_before": null,
+    "important_info": "SODASTREAM; Water dispenser »GAIA«; 3-piece set each; 49%; RRP 99.00"
+  },
+  {
+    "product_name": "SODASTREAM Beverage Syrup",
+    "weight_or_unit": "each 440 ml bottle.",
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "SODASTREAM; Beverage syrup; (1 l = 9.07)"
+  },
+  {
+    "product_name": "K-PURLAND Pork Loin XXL",
+    "weight_or_unit": "per kg",
+    "price_now": "5.39",
+    "price_before": "8.59",
+    "important_info": "K-PURLAND; XXL Pork loin; (e.g. for a 3.3 kg pack 17.79); 37%"
+  },
+  {
+    "product_name": "Spanish oranges",
+    "weight_or_unit": "each 2 kg net",
+    "price_now": "2.39",
+    "price_before": "3.99",
+    "important_info": "Spanish oranges; (1 kg = 1.20); 40%"
+  },
+  {
+    "product_name": "Spanish. Persimmon, loose",
+    "weight_or_unit": null,
+    "price_now": "0.49",
+    "price_before": "0.79",
+    "important_info": "Spanish. Persimmon, loose; Piece; 37%"
+  },
+  {
+    "product_name": "RÜGENWALDER MÜHLE Teewurst or liverwurst",
+    "weight_or_unit": "each 125g cup",
+    "price_now": "1.11",
+    "price_before": null,
+    "important_info": "RÜGENWALDER MILL; Teewurst or liverwurst; (1 kg = 8.88)"
+  },
+  {
+    "product_name": "MAGNUM Premium Ice Cream",
+    "weight_or_unit": "3 - 4 pieces each = 255 - 360 ml pack.",
+    "price_now": "2.49",
+    "price_before": "3.99",
+    "important_info": "MAGNUM; Premium ice cream; (1 l = 6.92 - 9.77); 37%"
+  },
+  {
+    "product_name": "DR. OETKER Bistro",
+    "weight_or_unit": "2 pieces each = 250g pack",
+    "price_now": "1.19",
+    "price_before": "2.29",
+    "important_info": "DR. OETKER; bistro; (1kg = 9.16) / (1kg = 4.76)**; 48%"
+  },
+  {
+    "product_name": "BERTOLLI Olive Oil",
+    "weight_or_unit": "each 500 ml bottle",
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "BERTOLLI; olive oil; (1 l = 9.98)"
+  },
+  {
+    "product_name": "FUNNY-FRISCH Chipsfrisch or Oven Chips",
+    "weight_or_unit": "125-150g pack each",
+    "price_now": "0.99",
+    "price_before": null,
+    "important_info": "FUNNY-FRESH; Fresh chips or oven chips; (1 kg = 6.60 - 7.92)"
+  },
+  {
+    "product_name": "KNOPPERS bars",
+    "weight_or_unit": "5 pieces each = 200g pack",
+    "price_now": "1.49",
+    "price_before": "2.49",
+    "important_info": "KNOPPERS; bar; (1 kg = 7.45); 40%"
+  },
+  {
+    "product_name": "9 MILE Vodka",
+    "weight_or_unit": "each 0.7-liter bottle.",
+    "price_now": "8.99",
+    "price_before": "13.99",
+    "important_info": "9 MILE; Vodka; (1 l = 12.85); 35%"
+  },
+  {
+    "product_name": "ZEWA Wipe & Go",
+    "weight_or_unit": null,
+    "price_now": "2.49",
+    "price_before": "2.95",
+    "important_info": "ZEWA; Wipe & Go; Each pack contains 4 x 45 sheets.; 15%; 24%"
+  },
+  {
+    "product_name": "SEVERIN microwave »MW 9288«",
+    "weight_or_unit": null,
+    "price_now": "49.99",
+    "price_before": null,
+    "important_info": "SEVERIN; Microwave »MW 9288«; each"
+  },
+  {
+    "product_name": "SWITCH ON® double hotplate »SODK 2500 E1«",
+    "weight_or_unit": null,
+    "price_now": "16.99",
+    "price_before": "34.99",
+    "important_info": "SWITCH ON®; Double hotplate »SODK 2500 E1«; each; 51%"
+  },
+  {
+    "product_name": "Spanish/Dutch Roma tomatoes",
+    "weight_or_unit": "each 500g tray",
+    "price_now": "1.29",
+    "price_before": "1.79",
+    "important_info": "Spanish/Dutch Roma tomatoes; (1 kg = 2.58); 27%"
+  },
+  {
+    "product_name": "German kohlrabi, loose",
+    "weight_or_unit": null,
+    "price_now": "0.49",
+    "price_before": "0.69",
+    "important_info": "German kohlrabi, loose; each; 28%"
+  },
+  {
+    "product_name": "Spanish mini cucumbers",
+    "weight_or_unit": "each 750g net",
+    "price_now": "1.99",
+    "price_before": "3.49",
+    "important_info": "Spanish mini cucumbers; (1 kg = 2.66); 42%"
+  },
+  {
+    "product_name": "Mold. Plums",
+    "weight_or_unit": "per 1 kg pack",
+    "price_now": "1.99",
+    "price_before": "2.79",
+    "important_info": "Mold. Plums; 28%"
+  },
+  {
+    "product_name": "LIV&BO® LED light curtain",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light curtain; each"
+  },
+  {
+    "product_name": "LIV&BO® LED decorative house with star",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decorative house with star; each"
+  },
+  {
+    "product_name": "LIV&BO® LED decorative house with fir trees",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decorative house with fir trees; each"
+  },
+  {
+    "product_name": "LIV&BO® Decorative Gnome Figurine",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; Decorative gnome figure; each"
+  },
+  {
+    "product_name": "LIV&BO® LED Light Arch",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light arch; each"
+  },
+  {
+    "product_name": "LIV&BO® LED decoration »Country House«",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decoration \"Country House\"; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light sticks »snowflake« cool white",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light sticks \"snowflake\" cool white; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light sticks »Star with stem«",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light sticks »Star with stem«; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light sticks »Star« warm white",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light sticks \"Star\" warm white; each"
+  },
+  {
+    "product_name": "LIV&BO® LED Light Sticks \"Christmas Tree\" warm white",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light sticks \"Christmas tree\" warm white; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light sticks »candy canes« warm white",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light sticks \"candy canes\" warm white; each"
+  },
+  {
+    "product_name": "LIV&BO® LED solar string lights, 2 x 50 warm white LEDs each",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED solar string lights, each with 2 x 50 warm white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light curtain with 300 colorful LEDs",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light curtain with 300 colorful LEDs; each"
+  },
+  {
+    "product_name": "TOWNLAND® LED light curtain with 300 cool white LEDs",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "TOWNLAND®; LED light curtain with 300 cool white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light curtain with 300 warm white LEDs",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light curtain with 300 warm white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® LED Christmas Star",
+    "weight_or_unit": null,
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED Christmas star; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light curtain with 8 cool white LEDs",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light curtain with 8 cool white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light curtain with 8 warm white LEDs",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light curtain with 8 warm white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light curtain with 9 warm white LEDs",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light curtain with 9 warm white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® 3D Light Tube Figure »Reindeer and Sleigh«",
+    "weight_or_unit": null,
+    "price_now": "17.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; 3D light tube figure \"Reindeer and Sleigh\"; each"
+  },
+  {
+    "product_name": "LIV&BO® LED string lights",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED string lights; each"
+  },
+  {
+    "product_name": "LIV&BO® Decorative Reindeer",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; Decorative reindeer; each"
+  },
+  {
+    "product_name": "LIV&BO® Decorative Reindeer",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; Decorative reindeer; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light decoration with 185 colorful LEDs",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light decoration with 185 colorful LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light decoration with 185 cool white LEDs",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light decoration with 185 cool white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® LED light decoration with 185 warm white LEDs",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED light decoration with 185 warm white LEDs; each"
+  },
+  {
+    "product_name": "LIV&BO® Scented Step Candles",
+    "weight_or_unit": null,
+    "price_now": "3.49",
+    "price_before": null,
+    "important_info": "LIV&BO®; Scented step candles; 4-piece pack each"
+  },
+  {
+    "product_name": "LIV&BO® LED Christmas Tree Garland",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED Christmas garland; each"
+  },
+  {
+    "product_name": "LIV&BO® LED decoration »Christmas House«",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decoration \"Christmas House\"; each"
+  },
+  {
+    "product_name": "LIV&BO® LED decoration »Church«",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decoration \"Church\"; each"
+  },
+  {
+    "product_name": "LIV&BO® Decorative Gnomes",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; Decorative gnome; each"
+  },
+  {
+    "product_name": "LIV&BO® LED Decorative Gnome Figure",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decorative gnome figure; each"
+  },
+  {
+    "product_name": "LIV&BO® LED Decorative Gnome Figure",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; LED decorative gnome figure; each"
+  },
+  {
+    "product_name": "LIV&BO® Decorative Gnomes",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; Decorative gnome; each"
+  },
+  {
+    "product_name": "LIV&BO® 3D Light Tube Figure »Reindeer«",
+    "weight_or_unit": null,
+    "price_now": "17.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; 3D light tube figure \"Reindeer\"; each"
+  },
+  {
+    "product_name": "LIV&BO® 3D Light Tube Figure »Sled«",
+    "weight_or_unit": null,
+    "price_now": "17.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; 3D light tube figure \"Sled\"; each"
+  },
+  {
+    "product_name": "LIV&BO® Scented Step Candles",
+    "weight_or_unit": null,
+    "price_now": "3.49",
+    "price_before": null,
+    "important_info": "LIV&BO®; Scented step candles; 4-piece pack each"
+  },
+  {
+    "product_name": "LIV&BO® Step Candles",
+    "weight_or_unit": null,
+    "price_now": "3.49",
+    "price_before": null,
+    "important_info": "LIV&BO®; Step candles; 4-piece pack each"
+  },
+  {
+    "product_name": "LIV&BO® Pillar Candles",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; pillar candles; 2-piece pack each"
+  },
+  {
+    "product_name": "LIV&BO® Pillar Candles",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; pillar candles; 4-piece pack each"
+  },
+  {
+    "product_name": "LIV&BO® Step Candles with Numbers",
+    "weight_or_unit": null,
+    "price_now": "3.49",
+    "price_before": null,
+    "important_info": "LIV&BO®; Step candles with numbers; 4-piece pack each"
+  },
+  {
+    "product_name": "LIV&BO® Pillar Candles",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "LIV&BO®; pillar candles; 6-piece pack each"
+  },
+  {
+    "product_name": "X4-LIFE LED real wax candle set",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "X4-LIFE; LED Real Wax Candle Set; 4 pieces each; Give the gift of play"
+  },
+  {
+    "product_name": "RAVENSBURGER »The Nimble Language Squirrels« tiptoi® Learning Game",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "RAVENSBURGER; \"The Nimble Language Squirrels\" tiptoi® Learning Game; each; 25%; RRP 19.99"
+  },
+  {
+    "product_name": "Plush figure »Super Mario«",
+    "weight_or_unit": null,
+    "price_now": "6.99",
+    "price_before": null,
+    "important_info": "Plush figure »Super Mario«; each"
+  },
+  {
+    "product_name": "KIDLAND® \"Train Station\" Expansion Set",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; \"Train Station\" Expansion Set; 8 pieces each"
+  },
+  {
+    "product_name": "KIDLAND® Electric Locomotive with Trailers",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Electric locomotive with carriages; 3-piece set each"
+  },
+  {
+    "product_name": "baby doll",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": "12.99",
+    "important_info": "baby doll; each; 23%"
+  },
+  {
+    "product_name": "RAVENSBURGER »PAW Patrol Rescue Mission« tiptoi® Learning Game",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": null,
+    "important_info": "RAVENSBURGER; \"PAW Patrol Rescue Mission\" tiptoi® Learning Game; each; 25%; RRP 19.99"
+  },
+  {
+    "product_name": "KIDLAND® Remote Controlled Transport Locomotive",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Remote-controlled transport locomotive; 4 pieces each"
+  },
+  {
+    "product_name": "KIDLAND® Mechanical Level Crossing",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; Mechanical level crossing; 5 pieces each"
+  },
+  {
+    "product_name": "KIDLAND® Arch Bridge",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "KIDLAND®; arched bridge; 7 pieces each"
+  },
+  {
+    "product_name": "Everyday enjoyment with K-Favourites",
+    "weight_or_unit": null,
+    "price_now": null,
+    "price_before": null,
+    "important_info": null
+  },
+  {
+    "product_name": "K-FAVOURITES Crema",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "1.19",
+    "price_before": "1.49",
+    "important_info": "K-FAVOURITES; Crema; (1 l = 4.76); 20%"
+  },
+  {
+    "product_name": "K-FAVOURITES Olives",
+    "weight_or_unit": "each 150g pack.",
+    "price_now": "1.39",
+    "price_before": "1.79",
+    "important_info": "K-FAVOURITES; Olives; (1 kg = 9.27); 22%"
+  },
+  {
+    "product_name": "K-FAVOURITES Styrian pumpkin seed oil PGI",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "3.69",
+    "price_before": "4.99",
+    "important_info": "K-FAVOURITES; Styrian pumpkin seed oil PGI; (1 l = 14.76); 26%"
+  },
+  {
+    "product_name": "K-FAVOURITES Lasagna Bolognese",
+    "weight_or_unit": "each 400g pack.",
+    "price_now": "1.79",
+    "price_before": "2.39",
+    "important_info": "K-FAVOURITES; Lasagne Bolognese; (1 kg = 4.48); 25%"
+  },
+  {
+    "product_name": "K-FAVOURITES Porridge",
+    "weight_or_unit": "each 350g pack.",
+    "price_now": "1.99",
+    "price_before": "2.69",
+    "important_info": "K-FAVOURITES; Porridge; (1 kg = 5.69); 26%"
+  },
+  {
+    "product_name": "K-FAVOURITES Burrata",
+    "weight_or_unit": "each 240g cup",
+    "price_now": "1.69",
+    "price_before": "2.19",
+    "important_info": "K-FAVOURITES; Burrata; Drained weight 125 g (1 kg = 13.52); 22%"
+  },
+  {
+    "product_name": "K-FAVOURITES Appetizer",
+    "weight_or_unit": "each 120g pack.",
+    "price_now": "2.99",
+    "price_before": "3.99",
+    "important_info": "K-FAVOURITES; appetizer; (1 kg = 24.92); 25%"
+  },
+  {
+    "product_name": "K-FAVOURITES Roasted Peppers",
+    "weight_or_unit": "each 680g jar",
+    "price_now": "1.59",
+    "price_before": "1.99",
+    "important_info": "K-FAVOURITES; Roasted peppers; Drained weight 400 g (1 kg = 3.98); 20%"
+  },
+  {
+    "product_name": "K-FAVOURITES Gold Crusts",
+    "weight_or_unit": "7 pieces each = 560g pack",
+    "price_now": "1.09",
+    "price_before": "1.29",
+    "important_info": "K-FAVOURITES; Gold crust; (1 kg = 1.95); 15%"
+  },
+  {
+    "product_name": "VALDO Marca Oro Prosecco Valdobbiadene DOCG",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "8.99",
+    "price_before": "10.99",
+    "important_info": "VALDO; Marca Oro Prosecco Valdobbiadene DOCG; (1 l = 11.99); 18%"
+  },
+  {
+    "product_name": "GERSTACKER Spritz",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "1.99",
+    "price_before": "2.99",
+    "important_info": "GERSTACKER; Spritz; (1 l = 2.66); 33%"
+  },
+  {
+    "product_name": "PRINCE OF METTERNICH Sparkling Wine",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "PRINCE OF METTERNICH; Sparkling wine; (1 l = 7.99)"
+  },
+  {
+    "product_name": "KOURTAKI Retsina from Attica, Greek white wine, dry",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "2.99",
+    "price_before": "3.69",
+    "important_info": "KOURTAKI; Retsina from Attica, Greek white wine, dry; (1 l = 3.99); 18%"
+  },
+  {
+    "product_name": "KATLENBURGER Fruit Wine",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "2.99",
+    "price_before": "3.99",
+    "important_info": "KATLENBURGER; Fruit wine; (1 l = 3.99); 25%"
+  },
+  {
+    "product_name": "FRANCOIS DULAC Red or rosé wine",
+    "weight_or_unit": "each 1-liter bottle.",
+    "price_now": "2.99",
+    "price_before": "3.99",
+    "important_info": "FRANCOIS DULAC; red or rosé wine; 25%"
+  },
+  {
+    "product_name": "CASAL GARCIA Vinho Verde",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.79",
+    "price_before": "4.49",
+    "important_info": "CASAL GARCIA; Vinho Verde; (1 l = 5.06); 15%"
+  },
+  {
+    "product_name": "CASILLERO DEL DIABLO Cabernet Sauvignon",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "4.99",
+    "price_before": "5.99",
+    "important_info": "CASILLERO DEL DIABLO; Cabernet Sauvignon; (1 l = 6.66); 16%"
+  },
+  {
+    "product_name": "ZONIN Prosecco DOC",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "6.99",
+    "price_before": "8.99",
+    "important_info": "ZONIN; Prosecco DOC; (1 l = 9.32); 22%"
+  },
+  {
+    "product_name": "CONTESSA MARINA Primitivo »14« DOC",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "CONTESSA MARINA; Primitivo »14« DOC; (1 l = 7.99)"
+  },
+  {
+    "product_name": "POMMERY Champagne Brut Royal",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "34.99",
+    "price_before": "47.99",
+    "important_info": "POMMERY; Champagne Brut Royal; (1 l = 46.66); 27%"
+  },
+  {
+    "product_name": "Baden Wine Region Exclusive Quality Wines",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "4.99",
+    "price_before": "6.49",
+    "important_info": "Baden Wine Country; Exclusive quality wines; (1 l = 6.66); 23%"
+  },
+  {
+    "product_name": "MASSO ANTICO Primitivo ICE",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "6.99",
+    "price_before": "8.99",
+    "important_info": "MASSO ANTICO; Primitivo ICE; (1 l = 9.32); 22%"
+  },
+  {
+    "product_name": "WZG MÖGLINGEN Sweet & Fruity",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.49",
+    "price_before": null,
+    "important_info": "WZG Möglingen; Sweet & Fruity; (1 l = 4.66)"
+  },
+  {
+    "product_name": "MICHEL SCHNEIDER quality wine or non-alcoholic wine",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.99",
+    "price_before": "4.99",
+    "important_info": "MICHEL SCHNEIDER; Quality wine or non-alcoholic wine; (1 l = 5.32); 20%; Nice and warm & cozy"
+  },
+  {
+    "product_name": "HIP&HOPPS® Children's Knit Hat with LED",
+    "weight_or_unit": null,
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "HIP&HOPPS®; Children's knitted hat with LED; each"
+  },
+  {
+    "product_name": "HIP&HOPPS® Kids' Socks",
+    "weight_or_unit": null,
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "HIP&HOPPS®; Children's socks; 7 pairs each"
+  },
+  {
+    "product_name": "Women's Christmas sweater »Coca-Cola«",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "Women's Christmas sweater »Coca-Cola«; each"
+  },
+  {
+    "product_name": "Socks »Coca-Cola«",
+    "weight_or_unit": null,
+    "price_now": "2.99",
+    "price_before": null,
+    "important_info": "Socks »Coca-Cola«; 2 pairs each"
+  },
+  {
+    "product_name": "TOWNLAND® Men's Briefs",
+    "weight_or_unit": null,
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "TOWNLAND®; Men's briefs; e 3-pc pack"
+  },
+  {
+    "product_name": "Women's sweatshirt »Coca-Cola«",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "Women's sweatshirt »Coca-Cola«; each"
+  },
+  {
+    "product_name": "HIP&HOPPS® Children's Ankle Boots",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "HIP&HOPPS®; Children's ankle boots; per pair"
+  },
+  {
+    "product_name": "HIP&HOPPS® Children's Boots",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "HIP&HOPPS®; Children's boots; per pair"
+  },
+  {
+    "product_name": "OYANDA® Women's Spaghetti Strap Shirts",
+    "weight_or_unit": null,
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "OYANDA®; Women's spaghetti strap shirts; 3-piece pack each"
+  },
+  {
+    "product_name": "Men's retro shorts »Coca-Cola«",
+    "weight_or_unit": null,
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "Men's retro shorts »Coca-Cola«; 2-piece pack each"
+  },
+  {
+    "product_name": "Men's Christmas sweater »Coca-Cola«",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "Men's Christmas sweater »Coca-Cola«; each"
+  },
+  {
+    "product_name": "HIP&HOPPS® Kids' Socks",
+    "weight_or_unit": null,
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "HIP&HOPPS®; Children's socks; 7 pairs each"
+  },
+  {
+    "product_name": "Men's sweatshirt »Coca-Cola«",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "Men's sweatshirt »Coca-Cola«; each"
+  },
+  {
+    "product_name": "OYANDA® Underwire Bras",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "OYANDA®; Underwire bras; 2-piece pack each"
+  },
+  {
+    "product_name": "HIP&HOPPS® Children's Boots",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "HIP&HOPPS®; Children's boots; per pair"
+  },
+  {
+    "product_name": "KUNIBOO® Kids' Socks",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "KUNIBOO®; Children's socks; 7 pairs each"
+  },
+  {
+    "product_name": "KUNIBOO® Kids' Socks",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "KUNIBOO®; Children's socks; 7 pairs each"
+  },
+  {
+    "product_name": "KUNIBOO® children's thermal tights",
+    "weight_or_unit": null,
+    "price_now": "2.99",
+    "price_before": null,
+    "important_info": "KUNIBOO®; Children's thermal tights; each"
+  },
+  {
+    "product_name": "OYANDA® Women's Briefs",
+    "weight_or_unit": null,
+    "price_now": "6.99",
+    "price_before": null,
+    "important_info": "OYANDA®; Women's briefs; 5-piece pack each"
+  },
+  {
+    "product_name": "TOWNLAND® Men's Boxer Shorts",
+    "weight_or_unit": null,
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "TOWNLAND®; Men's boxer shorts; 3-piece pack each"
+  },
+  {
+    "product_name": "Coca-Cola cozy socks",
+    "weight_or_unit": null,
+    "price_now": "2.99",
+    "price_before": null,
+    "important_info": "Coca-Cola cozy socks; per pair"
+  },
+  {
+    "product_name": "TOWNLAND® Men's Tank Tops",
+    "weight_or_unit": null,
+    "price_now": "7.49",
+    "price_before": null,
+    "important_info": "TOWNLAND®; Men's tank tops; 3-piece pack each"
+  },
+  {
+    "product_name": "KUNIBOO® Kids' Boots",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "KUNIBOO®; Children's boots; per pair"
+  },
+  {
+    "product_name": "Children's cozy socks with ABS",
+    "weight_or_unit": null,
+    "price_now": "2.49",
+    "price_before": null,
+    "important_info": "Children's cozy socks with ABS; 2 pairs each"
+  },
+  {
+    "product_name": "HIP&HOPPS® Children's Plush Overall",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": null,
+    "important_info": "HIP&HOPPS®; Children's plush onesie; each"
+  },
+  {
+    "product_name": "OYANDA® Women's Bodysuits",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "OYANDA®; Women's bodysuits; 2-piece pack each"
+  },
+  {
+    "product_name": "KUNIBOO® Children's Plush Onesie",
+    "weight_or_unit": null,
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "KUNIBOO®; Children's plush onesie; each"
+  },
+  {
+    "product_name": "KUNIBOO® Kids' Boots",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "KUNIBOO®; Children's boots; per pair"
+  },
+  {
+    "product_name": "OYANDA® Women's Vest",
+    "weight_or_unit": null,
+    "price_now": "12.99",
+    "price_before": null,
+    "important_info": "OYANDA®; Women's vest; each"
+  },
+  {
+    "product_name": "OYANDA® Women's Thermal Leggings",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "OYANDA®; Women's thermal leggings; each"
+  },
+  {
+    "product_name": "TOWNLAND® Men's Briefs",
+    "weight_or_unit": null,
+    "price_now": "4.99",
+    "price_before": null,
+    "important_info": "TOWNLAND®; Men's briefs; 3-piece pack each"
+  },
+  {
+    "product_name": "OYANDA® Women's Spaghetti Strap Shirts",
+    "weight_or_unit": null,
+    "price_now": "5.99",
+    "price_before": null,
+    "important_info": "OYANDA®; Women's spaghetti strap shirts; 3-piece pack each"
+  },
+  {
+    "product_name": "Men's flannel casual shirt",
+    "weight_or_unit": null,
+    "price_now": "6.99",
+    "price_before": null,
+    "important_info": "Men's flannel casual shirt; each"
+  },
+  {
+    "product_name": "KUNIBOO® children's thermal tights",
+    "weight_or_unit": null,
+    "price_now": "2.99",
+    "price_before": null,
+    "important_info": "KUNIBOO®; Children's thermal tights; each"
+  },
+  {
+    "product_name": "HIP&HOPPS® children's sweat overalls",
+    "weight_or_unit": null,
+    "price_now": "9.99",
+    "price_before": null,
+    "important_info": "HIP&HOPPS®; Children's sweat overall; each; Branded products in organic quality"
+  },
+  {
+    "product_name": "ANDECHSER NATUR Bioland or organic semi-hard cheese",
+    "weight_or_unit": "125-150g pack each",
+    "price_now": "2.59",
+    "price_before": "3.19",
+    "important_info": "ANDECHSER NATURE; Bioland or organic semi-hard cheese; (1 kg = 17.27 - 20.72); 18%"
+  },
+  {
+    "product_name": "K-BIO Bioland pork schnitzel",
+    "weight_or_unit": "per kg",
+    "price_now": "17.95",
+    "price_before": null,
+    "important_info": "K-BIO; Bioland pork schnitzel; (e.g., for a 250g pack, 4.49)"
+  },
+  {
+    "product_name": "HEIMATGUT Organic Popcorn",
+    "weight_or_unit": "each 90g bag",
+    "price_now": "1.29",
+    "price_before": "1.75",
+    "important_info": "HOMETOWN; Organic popcorn; (1 kg = 14.34); 26%"
+  },
+  {
+    "product_name": "HIPP Organic Squeeze Pouches",
+    "weight_or_unit": "each 100g bag",
+    "price_now": "0.88",
+    "price_before": null,
+    "important_info": "HIPP; Organic squeeze pouches; (1 kg = 8.80)"
+  },
+  {
+    "product_name": "K-BIO Organic Lime Juice",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "1.19",
+    "price_before": "1.55",
+    "important_info": "K-BIO; Organic lime juice; (1 l = 4.76); 23%"
+  },
+  {
+    "product_name": "K-BIO Organic Lemon Juice",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "1.19",
+    "price_before": "1.55",
+    "important_info": "K-BIO; Organic lemon juice; (1 l = 4.76); 23%"
+  },
+  {
+    "product_name": "K-BIO Organic Ginger Juice",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "2.99",
+    "price_before": "3.85",
+    "important_info": "K-BIO; Organic ginger juice; (1 l = 11.96); 22%"
+  },
+  {
+    "product_name": "K-BIO Organic Grape Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "1.69",
+    "price_before": "1.95",
+    "important_info": "K-BIO; Organic grape juice; 13%"
+  },
+  {
+    "product_name": "K-BIO Organic Coconut Water",
+    "weight_or_unit": "each 330 ml pack.",
+    "price_now": "1.11",
+    "price_before": "1.45",
+    "important_info": "K-BIO; Organic coconut water; (1 l = 3.37); 23%"
+  },
+  {
+    "product_name": "K-BIO Organic Multifruit Juice or Pear Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "1.89",
+    "price_before": "2.29",
+    "important_info": "K-BIO; Organic mixed fruit juice or pear juice; 17%"
+  },
+  {
+    "product_name": "K-BIO Organic Orange Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "2.22",
+    "price_before": "2.65",
+    "important_info": "K-BIO; Organic orange juice; 16%"
+  },
+  {
+    "product_name": "K-BIO Organic Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "1.29",
+    "price_before": "1.79",
+    "important_info": "K-BIO; organic juice; 27%"
+  },
+  {
+    "product_name": "K-BIO Organic Seasoning Lemon or Lime",
+    "weight_or_unit": "each 200 ml bottle",
+    "price_now": "0.59",
+    "price_before": "0.79",
+    "important_info": "K-BIO; Organic lemon or lime seasoning; (1 l = 2.95); 25%"
+  },
+  {
+    "product_name": "LITTLE LUNCH Organic Soup",
+    "weight_or_unit": "each 350 ml glass",
+    "price_now": "2.49",
+    "price_before": "3.29",
+    "important_info": "LITTLE LUNCH; Organic soup; (1 l = 7.12); 24%"
+  },
+  {
+    "product_name": "MYMUESLI Organic Muesli",
+    "weight_or_unit": "per 500g can",
+    "price_now": "6.99",
+    "price_before": "8.49",
+    "important_info": "MYMUESLI; Organic muesli; (1 kg = 13.98); 17%"
+  },
+  {
+    "product_name": "NATURPURA Organic Protein Spelt Waffles",
+    "weight_or_unit": "each 90g pack.",
+    "price_now": "1.11",
+    "price_before": "1.49",
+    "important_info": "NATURPURA; Organic protein spelt waffles; (1 kg = 12.34); 25%"
+  },
+  {
+    "product_name": "PUKKA Organic Tea",
+    "weight_or_unit": "20 bags each = 20 - 40g packs",
+    "price_now": "2.99",
+    "price_before": "3.95",
+    "important_info": "PUKKA; Organic tea; (1 kg = 74.75 - 149.50); 24%"
+  },
+  {
+    "product_name": "BIONELLA Organic Hazelnut-Nougat Cream",
+    "weight_or_unit": "each 400g jar",
+    "price_now": "3.29",
+    "price_before": "3.99",
+    "important_info": "BIONELLA; Organic hazelnut-nougat cream; (1 kg = 8.23); 17%"
+  },
+  {
+    "product_name": "WILTMANN Organic Salami",
+    "weight_or_unit": "50-80g packs each",
+    "price_now": "1.99",
+    "price_before": "2.69",
+    "important_info": "WILTMANN; Organic salami; (1 kg = 24.88 - 39.80); 26%"
+  },
+  {
+    "product_name": "Organic wholegrain spelt bread",
+    "weight_or_unit": "each 500g piece",
+    "price_now": "1.39",
+    "price_before": "1.89",
+    "important_info": "Organic wholegrain spelt bread; (1 kg = 2.78); 26%"
+  },
+  {
+    "product_name": "ANDECHSER NATUR Bioland Yogurt",
+    "weight_or_unit": "each 400g cup",
+    "price_now": "1.39",
+    "price_before": "1.89",
+    "important_info": "ANDECHSER NATURE; Organic yogurt; (1 kg = 3.48); 26%; A really large selection of vegetarian options"
+  },
+  {
+    "product_name": "BRANDT Minis",
+    "weight_or_unit": "85-110g pack each",
+    "price_now": "0.99",
+    "price_before": "1.49",
+    "important_info": "BRANDT; Minis; (1 kg = 9.00 - 11.65); 33%"
+  },
+  {
+    "product_name": "ALPRO Barista Oat, Vanilla or Soy Drink Vanilla Flavor",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "1.99",
+    "price_before": "2.49",
+    "important_info": "ALPRO; Barista oat, vanilla or vanilla soy drink; 20%"
+  },
+  {
+    "product_name": "Hitschies Sour Dragon Tongues Brizzl Balls",
+    "weight_or_unit": "per 100g pack",
+    "price_now": "1.39",
+    "price_before": "1.79",
+    "important_info": "HITSCHIES; Sour Dragon Tongues Brizzl Balls; (1 kg = 13.90); 22%"
+  },
+  {
+    "product_name": "SCHLAGFIX whipping cream",
+    "weight_or_unit": "each 200 ml can",
+    "price_now": "1.79",
+    "price_before": "2.29",
+    "important_info": "AMP; whipped cream; (1 l = 8.95); 21%"
+  },
+  {
+    "product_name": "RÜGENWALDER MÜHLE Vegan Sausage Alternative",
+    "weight_or_unit": "70-80g pack each",
+    "price_now": "1.11",
+    "price_before": "1.59",
+    "important_info": "RÜGENWALDER MILL; Vegan sausage alternative; (1kg = 13.88 - 15.86) / (1kg = 12.38 - 14.15)**; 30%; 37%"
+  },
+  {
+    "product_name": "SNACK IT Vege Story Snack",
+    "weight_or_unit": "each 90g pack.",
+    "price_now": "1.49",
+    "price_before": "1.99",
+    "important_info": "SNACK IT; Vege Story Snack; (1 kg = 16.56); 25%"
+  },
+  {
+    "product_name": "VLY No Milk Today yogurt alternative",
+    "weight_or_unit": "each 400g cup",
+    "price_now": "1.49",
+    "price_before": "1.89",
+    "important_info": "VLY; No Milk Today yogurt alternative; (1 kg = 3.73); 21%"
+  },
+  {
+    "product_name": "BIONELLA Organic Hazelnut-Nougat Cream",
+    "weight_or_unit": "each 400g jar",
+    "price_now": "3.29",
+    "price_before": "3.99",
+    "important_info": "BIONELLA; Organic hazelnut-nougat cream; (1 kg = 8.23); 17%"
+  },
+  {
+    "product_name": "MILKA Chocolate",
+    "weight_or_unit": "each 250-300g bar",
+    "price_now": "2.99",
+    "price_before": "4.99",
+    "important_info": "MILKA; Chocolate; (1kg = 9.97 - 11.96) / (1kg = 9.24 - 11.08)**; 40%; 44%"
+  },
+  {
+    "product_name": "LINDT Lindor",
+    "weight_or_unit": "each 375g pack.",
+    "price_now": "7.99",
+    "price_before": "6.99",
+    "important_info": "LINDT; Lindor; (1kg = 21.31) / (1kg = 18.64)**"
+  },
+  {
+    "product_name": "SHEBA Sauce Collection or Selection",
+    "weight_or_unit": "each 85g pack.",
+    "price_now": "0.49",
+    "price_before": "0.39",
+    "important_info": "SHEBA; Sauce Collection or Selection; (1kg = 5.77) / (1kg = 4.59)**"
+  },
+  {
+    "product_name": "KNORR Sauce",
+    "weight_or_unit": "(1 l = 0.84 - 1.31) / (1 l = 0.73 - 1.14)**",
+    "price_now": "2.29",
+    "price_before": "2.89",
+    "important_info": "KNORR; sauce; per can; 20%; 31%"
+  },
+  {
+    "product_name": "WASA crispbread",
+    "weight_or_unit": "200-275g pack each",
+    "price_now": "1.79",
+    "price_before": "1.49",
+    "important_info": "WASA; crispbread; (1kg = 6.51 - 8.95) / (1kg = 5.42 - 7.45)**"
+  },
+  {
+    "product_name": "FUZE TEA Refreshing Drink",
+    "weight_or_unit": "each 1.25-liter PET bottle.",
+    "price_now": "1.29",
+    "price_before": "1.11",
+    "important_info": "FUZE TEA; soft drink; (1 l = 1.04) / (1 l = 0.89)**"
+  },
+  {
+    "product_name": "GUHL Shampoo or Conditioner",
+    "weight_or_unit": "200-250 ml bottles each",
+    "price_now": "3.29",
+    "price_before": "3.95",
+    "important_info": "GUHL; Shampoo or conditioner; (1 l = 13.16 - 16.45) / (1 l = 11.96 - 14.95)**; 16%; 24%"
+  },
+  {
+    "product_name": "PERSIL laundry detergent",
+    "weight_or_unit": null,
+    "price_now": "17.99",
+    "price_before": "16.99",
+    "important_info": "PERSIL; detergent; each; (per application = 0.18 - 0.36) / (per application = 0.17 - 0.34)**"
+  },
+  {
+    "product_name": "RÜGENWALDER MÜHLE Vegan Sausage Alternative",
+    "weight_or_unit": "70-80g pack each",
+    "price_now": "1.11",
+    "price_before": "1.59",
+    "important_info": "RÜGENWALDER MILL; Vegan sausage alternative; (1kg = 13.88 - 15.86) / (1kg = 12.38 - 14.15)**; 30%; 37%"
+  },
+  {
+    "product_name": "ÖMÜR Böreklik",
+    "weight_or_unit": "each 1.5 kg can",
+    "price_now": "4.99",
+    "price_before": "3.99",
+    "important_info": "ÖMÜR; Böreklik; Drained weight 800 g (1 kg = 6.24) / Drained weight 800 g (1 kg = 4.99)**"
+  },
+  {
+    "product_name": "PAMPERS Baby Wipes",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": "7.99",
+    "important_info": "PAMPERS; wet wipes; 12 x 52-piece packs each; (per piece = 0.02 - 0.04) / (per piece = 0.02 - 0.03)**"
+  },
+  {
+    "product_name": "AIR UP Tumbler",
+    "weight_or_unit": null,
+    "price_now": "29.99",
+    "price_before": "26.99",
+    "important_info": "AIR UP; Tumbler; each; 10%"
+  },
+  {
+    "product_name": "AIR UP Flavor Pods",
+    "weight_or_unit": null,
+    "price_now": "8.99",
+    "price_before": "7.99",
+    "important_info": "AIR UP; Flavor Pods; 3-piece pack each; 11%"
+  },
+  {
+    "product_name": "KIDLAND® Railway Set »Jungle«",
+    "weight_or_unit": null,
+    "price_now": "24.99",
+    "price_before": "19.99",
+    "important_info": "KIDLAND®; Jungle Railway Set; 35 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® Railway Set »Passenger Train«",
+    "weight_or_unit": null,
+    "price_now": "24.99",
+    "price_before": "19.99",
+    "important_info": "KIDLAND®; Railway set \"Passenger train\"; 50 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® Railway Set »Construction Site«",
+    "weight_or_unit": null,
+    "price_now": "29.99",
+    "price_before": "23.99",
+    "important_info": "KIDLAND®; Railway set \"Construction site\"; 59 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® Railway Set »Amusement Park«",
+    "weight_or_unit": null,
+    "price_now": "29.99",
+    "price_before": "23.99",
+    "important_info": "KIDLAND®; Railway set \"Amusement Park\"; 32 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® Kitchen",
+    "weight_or_unit": null,
+    "price_now": "49.99",
+    "price_before": "44.99",
+    "important_info": "KIDLAND®; Kitchen; 24 pieces each; 10%"
+  },
+  {
+    "product_name": "KIDLAND® \"My First Train\" Montessori Set",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": "11.99",
+    "important_info": "KIDLAND®; \"My First Train\" Montessori Set; 41 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® \"My First Track\" Underwater Set",
+    "weight_or_unit": null,
+    "price_now": "14.99",
+    "price_before": "11.99",
+    "important_info": "KIDLAND®; \"My First Train\" Underwater Set; 34 pieces each; 20%"
+  },
+  {
+    "product_name": "KIDLAND® Parkside Workbench",
+    "weight_or_unit": null,
+    "price_now": "49.99",
+    "price_before": "44.99",
+    "important_info": "KIDLAND®; Parkside workbench; 74 pieces each; 10%"
+  },
+  {
+    "product_name": "SWITCH ON® vacuum sealer »SOV 125 C6«",
+    "weight_or_unit": null,
+    "price_now": "19.99",
+    "price_before": "16.99",
+    "important_info": "SWITCH ON®; Vacuum sealer »SOV 125 C6«; each; 15%"
+  },
+  {
+    "product_name": "SWITCH ON® vacuum sealer »SOV 125 C6«",
+    "weight_or_unit": null,
+    "price_now": "19.99",
+    "price_before": "39.99",
+    "important_info": "SWITCH ON®; Vacuum sealer »SOV 125 C6«; each; 50%; 57%"
+  },
+  {
+    "product_name": "CAPTAIN MORGAN Spiced Gold or White Rum",
+    "weight_or_unit": "each 0.7-liter bottle.",
+    "price_now": "9.99",
+    "price_before": "12.99",
+    "important_info": "CAPTAIN MORGAN; Spiced Gold or White Rum; (1 l = 14.28) / (1 l = 12.85)**; 23%; 30%"
+  },
+  {
+    "product_name": "ERBEN Spätlese, Scheurebe, Grauburgunder or Riesling",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.49",
+    "price_before": "2.99",
+    "important_info": "INHERIT; Spätlese, Scheurebe, Grauburgunder or Riesling; (1 l = 4.66) / (1 l = 3.99)**; Sign: Bakery - we bake fresh several times a day"
+  },
+  {
+    "product_name": "Börekstick",
+    "weight_or_unit": null,
+    "price_now": "0.49",
+    "price_before": null,
+    "important_info": "Börekstick; each"
+  },
+  {
+    "product_name": "Berliner/Pancake filled",
+    "weight_or_unit": null,
+    "price_now": "0.69",
+    "price_before": null,
+    "important_info": "Berliner/Pancakes; filled; each"
+  },
+  {
+    "product_name": "Berliner/Pancakes",
+    "weight_or_unit": null,
+    "price_now": "0.29",
+    "price_before": "0.45",
+    "important_info": "Berliner/Pancakes; each; 35%"
+  },
+  {
+    "product_name": "Biscoff donut",
+    "weight_or_unit": null,
+    "price_now": "0.59",
+    "price_before": null,
+    "important_info": "Biscoff donut; each"
+  },
+  {
+    "product_name": "plain ciabatta",
+    "weight_or_unit": "each 300g piece",
+    "price_now": "0.55",
+    "price_before": "0.79",
+    "important_info": "plain ciabatta; (1 kg = 1.84); 30%"
+  },
+  {
+    "product_name": "Bread with sprouted oats",
+    "weight_or_unit": "each 400g piece",
+    "price_now": "1.49",
+    "price_before": null,
+    "important_info": "Bread with sprouted oats; (1 kg = 3.73)"
+  },
+  {
+    "product_name": "Organic wholegrain spelt bread",
+    "weight_or_unit": "each 500g piece",
+    "price_now": "1.39",
+    "price_before": "1.89",
+    "important_info": "Organic wholegrain spelt bread; (1 kg = 2.78); 26%"
+  },
+  {
+    "product_name": "Swiss bread rolls",
+    "weight_or_unit": null,
+    "price_now": "0.44",
+    "price_before": "0.55",
+    "important_info": "Swiss bread rolls; each; 20%; Buy more. Save more."
+  },
+  {
+    "product_name": "COLGATE toothpaste",
+    "weight_or_unit": "each 75 ml tube",
+    "price_now": "2.00",
+    "price_before": "3.50",
+    "important_info": "COLGATE; toothpaste; (1 l = 13.34); 2 pieces; 1.00 each"
+  },
+  {
+    "product_name": "KRINI Legumes, various varieties",
+    "weight_or_unit": "each 400g can",
+    "price_now": "2.00",
+    "price_before": "3.78",
+    "important_info": "KRINI; Legumes of various varieties; Drained weight 240 g (1 kg = 4.17); 2 pieces; 1.00 per can; Juices: Fruity & Fresh"
+  },
+  {
+    "product_name": "K-BIO Organic Lime Juice",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "1.19",
+    "price_before": "1.55",
+    "important_info": "K-BIO; Organic lime juice; (1 l = 4.76); 23%"
+  },
+  {
+    "product_name": "K-BIO Organic Lemon Juice",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "1.19",
+    "price_before": "1.55",
+    "important_info": "K-BIO; Organic lemon juice; (1 l = 4.76); 23%"
+  },
+  {
+    "product_name": "K-BIO Organic Ginger Juice",
+    "weight_or_unit": "each 250 ml bottle",
+    "price_now": "2.99",
+    "price_before": "3.85",
+    "important_info": "K-BIO; Organic ginger juice; (1 l = 11.96); 22%"
+  },
+  {
+    "product_name": "K-BIO Organic Grape Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "1.69",
+    "price_before": "1.95",
+    "important_info": "K-BIO; Organic grape juice; 13%"
+  },
+  {
+    "product_name": "K-BIO Bioland Sauerkraut Juice",
+    "weight_or_unit": "each 500 ml pack.",
+    "price_now": "0.77",
+    "price_before": "0.95",
+    "important_info": "K-BIO; Organic sauerkraut juice; (1 l = 1.54); 18%"
+  },
+  {
+    "product_name": "K-BIO Bioland Apple Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "1.99",
+    "price_before": "2.49",
+    "important_info": "K-BIO; Organic apple juice; 20%"
+  },
+  {
+    "product_name": "K-BIO Bioland Carrot Juice",
+    "weight_or_unit": "each 500 ml pack.",
+    "price_now": "0.75",
+    "price_before": "0.85",
+    "important_info": "K-BIO; Bioland carrot juice; (1 l = 1.50); 11%"
+  },
+  {
+    "product_name": "K-BIO Organic Coconut Water",
+    "weight_or_unit": "each 330 ml pack.",
+    "price_now": "1.11",
+    "price_before": "1.45",
+    "important_info": "K-BIO; Organic coconut water; (1 l = 3.37); 23%"
+  },
+  {
+    "product_name": "K-BIO Organic Multifruit Juice or Pear Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "1.89",
+    "price_before": "2.29",
+    "important_info": "K-BIO; Organic mixed fruit juice or pear juice; 17%"
+  },
+  {
+    "product_name": "K-BIO Organic Orange Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "2.22",
+    "price_before": "2.65",
+    "important_info": "K-BIO; Organic orange juice; 16%"
+  },
+  {
+    "product_name": "K-BIO Organic Juice",
+    "weight_or_unit": "each 1-liter pack.",
+    "price_now": "1.29",
+    "price_before": "1.79",
+    "important_info": "K-BIO; organic juice; 27%"
+  },
+  {
+    "product_name": "K-BIO Organic Seasoning Lemon or Lime",
+    "weight_or_unit": "each 200 ml bottle",
+    "price_now": "0.59",
+    "price_before": "0.79",
+    "important_info": "K-BIO; Organic lemon or lime seasoning; (1 l = 2.95); 25%; Alcohol-free: Wine, sparkling wine & more"
+  },
+  {
+    "product_name": "CORONA Extra or Cero 0.0%",
+    "weight_or_unit": "(1 l = 2.82)",
+    "price_now": "5.99",
+    "price_before": "7.49",
+    "important_info": "CORONA; Extra or Zero 0.0%; Each pack contains 6 x 0.355-liter bottles.; 20%"
+  },
+  {
+    "product_name": "WARSTEINER Radler 0.0%",
+    "weight_or_unit": "(1 l = 2.02)",
+    "price_now": "3.99",
+    "price_before": "4.99",
+    "important_info": "WARSTEINER; Cyclists 0.0%; 6 x 0.33-liter bottles each.; 20%"
+  },
+  {
+    "product_name": "GORDON'S London Dry Gin or 0.0",
+    "weight_or_unit": "each 0.7-liter bottle.",
+    "price_now": "9.99",
+    "price_before": "13.99",
+    "important_info": "GORDON'S; London Dry Gin or 0.0; (1 l = 14.28); 28%"
+  },
+  {
+    "product_name": "BECK'S beer or beer mixed drink",
+    "weight_or_unit": "(1 l = 2.02)",
+    "price_now": "3.99",
+    "price_before": "4.69",
+    "important_info": "BECK'S; Beer or beer-based mixed drink; Each pack contains 6 x 0.33-liter bottles.; 14%"
+  },
+  {
+    "product_name": "KATLENBURGER Strawberry or Woodruff Punch",
+    "weight_or_unit": "each 1-liter bottle.",
+    "price_now": "1.99",
+    "price_before": "2.79",
+    "important_info": "KATLENBURGER; Strawberry or woodruff punch; 28%"
+  },
+  {
+    "product_name": "CAPTAIN MORGAN Spiced Gold or White Rum",
+    "weight_or_unit": "each 0.7-liter bottle.",
+    "price_now": "9.99",
+    "price_before": "12.99",
+    "important_info": "CAPTAIN MORGAN; Spiced Gold or White Rum; (1 l = 14.28) / (1 l = 12.85)**; 23%; 30%"
+  },
+  {
+    "product_name": "Little Red Riding Hood Fruit Sparkling Wine",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "2.99",
+    "price_before": "4.99",
+    "important_info": "LITTLE RED RIDING HOOD; Fruit sparkling wine; (1 l = 3.99); 40%"
+  },
+  {
+    "product_name": "MARTINI Aperitif",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "7.99",
+    "price_before": "10.99",
+    "important_info": "MARTINI; aperitif; (1 l = 10.66); 27%"
+  },
+  {
+    "product_name": "MIONETTO Alcohol-Free Aperitivo",
+    "weight_or_unit": "each 0.5-liter bottle.",
+    "price_now": "7.99",
+    "price_before": null,
+    "important_info": "MIONETTO; alcohol-free aperitivo; (1 l = 15.98)"
+  },
+  {
+    "product_name": "SCHÖFFERHOFER Grapefruit",
+    "weight_or_unit": "(1 l = 2.02)",
+    "price_now": "3.99",
+    "price_before": null,
+    "important_info": "SCHÖFFERHOFER; grapefruit; Each pack contains 6 x 0.33-liter bottles."
+  },
+  {
+    "product_name": "SOMERSBY Cider",
+    "weight_or_unit": "each 0.33-liter can",
+    "price_now": "1.11",
+    "price_before": "1.49",
+    "important_info": "Somersby; Cider; (1 l = 3.37); 25%"
+  },
+  {
+    "product_name": "LIGHT LIVE 0.0%",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "2.99",
+    "price_before": "3.79",
+    "important_info": "LIGHT LIVE; 0.0%; (1 l = 3.99); 21%"
+  },
+  {
+    "product_name": "ERBEN Spätlese, Scheurebe, Grauburgunder or Riesling",
+    "weight_or_unit": "each 0.75-liter bottle.",
+    "price_now": "3.49",
+    "price_before": "2.99",
+    "important_info": "INHERIT; Spätlese, Scheurebe, Grauburgunder or Riesling; (1 l = 4.66) / (1 l = 3.99)**"
+  },
+  {
+    "product_name": "BITBURGER Premium Pils",
+    "weight_or_unit": "(1 l = 1.10)",
+    "price_now": "10.99",
+    "price_before": "17.79",
+    "important_info": "BITBURGER; Premium Pils; Each case contains 20 x 0.5-liter bottles.; 38%; Customer management 0800 / 15 28 352; Questions about our branches? We are available on our toll-free number from Monday to Saturday between 8:00 and 19:00."
+  }
+]
