@@ -5,9 +5,9 @@ import streamlit as st
 from rapidfuzz import process, fuzz
 
 st.set_page_config(page_title="ShopWise AI", page_icon="🛒", layout="wide")
-st.title("🛒 ShopWise AI — Grocery price demo")
-st.write("Type any common grocery item in Germany — I'll match it to Kaufland, Lidl, Aldi (real files if available, otherwise dummy data).")
-
+st.title("🛒 ShopWise AI — Save your Money (Sparen Sie Ihr Geld)")
+st.write("Type  grocery items  to compare price before going to buy it.")
+st.write("Geben Sie den gewünschten Lebensmittelartikel ein, um den Preis vor dem Kauf zu vergleichen.")
 DATA_DIR = Path("data")
 DATA_DIR.mkdir(exist_ok=True)
 
