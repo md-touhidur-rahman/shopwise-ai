@@ -7,7 +7,12 @@ import streamlit as st
 from io import StringIO
 import csv
 import os
-from openai import OpenAI
+
+# Optional import (for real OpenAI use)
+try:
+    from openai import OpenAI
+except ImportError:
+    OpenAI = None
 
 
 # ---------------------------------------------------------
@@ -17,7 +22,7 @@ DATA_PATH = Path("data/common_products.json")
 
 st.set_page_config(
     page_title="ShopWise AI – Grocery Price Comparator",
-    layout="centered",
+    layout="wide",
 )
 
 # ---------------------------------------------------------
@@ -74,11 +79,12 @@ def load_products(path: Path) -> List[Dict[str, Any]]:
 
 PRODUCTS = load_products(DATA_PATH)
 
+
 # ---------------------------------------------------------
-# OPENAI CLIENT
+# OPENAI CLIENT (if available)
 # ---------------------------------------------------------
 client = None
-if os.getenv("OPENAI_API_KEY"):
+if OpenAI and os.getenv("OPENAI_API_KEY"):
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 
@@ -114,13 +120,14 @@ def find_best_match(user_term: str, products: List[Dict[str, Any]], threshold: f
             if user_norm and user_norm in normalize_text(name):
                 return p, 0.99
 
-    # fuzzy match fallback
+    # fuzzy fallback
     for p in products:
         for name in p["__names_for_match"]:
             score = difflib.SequenceMatcher(None, user_norm, normalize_text(name)).ratio()
             if score > best_score:
                 best_score = score
                 best_product = p
+
     if best_score >= threshold:
         return best_product, best_score
     return None, 0.0
@@ -158,7 +165,7 @@ def build_csv(store_data: Dict[str, Dict[str, Any]]) -> str:
 # ---------------------------------------------------------
 # MAIN UI
 # ---------------------------------------------------------
-st.title(TEXT["title"])
+st.markdown(f"<h1 style='color:#1E3A8A'>{TEXT['title']}</h1>", unsafe_allow_html=True)
 st.write(TEXT["subtitle"])
 
 if not PRODUCTS:
@@ -166,7 +173,27 @@ if not PRODUCTS:
 else:
     user_input = st.text_area(TEXT["input_label"], height=120, placeholder=TEXT["placeholder"])
 
-    if st.button("Compare / Vergleichen", type="primary"):
+    compare_btn = st.markdown(
+        """
+        <style>
+        div.stButton > button:first-child {
+            background-color:#2563EB;
+            color:white;
+            border-radius:8px;
+            height:3em;
+            width:100%;
+            border:none;
+        }
+        div.stButton > button:hover {
+            background-color:#1E40AF;
+            color:white;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    if st.button("Compare / Vergleichen"):
         items = split_user_input(user_input)
         if not items:
             st.warning(TEXT["no_items"])
@@ -211,9 +238,9 @@ else:
             if valid_stores:
                 cheapest = min(valid_stores, key=valid_stores.get)
                 st.success(
-                    f"Cheapest overall: **{cheapest.capitalize()}** with total {valid_stores[cheapest]:.2f} € "
+                    f"Cheapest overall: {cheapest.capitalize()} with total {valid_stores[cheapest]:.2f} € "
                     f"(based on matched items). / "
-                    f"Günstigster Markt: **{cheapest.capitalize()}** mit {valid_stores[cheapest]:.2f} €."
+                    f"Günstigster Markt: {cheapest.capitalize()} mit {valid_stores[cheapest]:.2f} €."
                 )
 
             csv_text = build_csv(store_data)
@@ -230,15 +257,31 @@ else:
                     rows = [{"Item entered / Eingegeben": k, "Price (€) / Preis (€)": v} for k, v in d["items"].items()]
                     st.dataframe(rows, hide_index=True, use_container_width=True)
 
-            # -------------------------------------------------
-            # AI CHAT EXTENSION
-            # -------------------------------------------------
-            st.markdown("### 💬 AI Assistant Summary (KI-Assistent Zusammenfassung)")
+            st.markdown("---")
+            st.markdown(
+                """
+                <style>
+                div.stButton > button:nth-child(1) {
+                    background-color:#3B82F6;
+                    color:white;
+                    border-radius:8px;
+                    height:3em;
+                    width:100%;
+                    border:none;
+                }
+                div.stButton > button:hover {
+                    background-color:#1E3A8A;
+                }
+                </style>
+                """,
+                unsafe_allow_html=True,
+            )
 
-            if client:
-                if st.button("Ask AI to Summarize / KI-Zusammenfassung anfordern"):
+            st.markdown("### AI Assistant Summary (KI-Assistent Zusammenfassung)")
+
+            if st.button("Ask AI to Summarize / KI-Zusammenfassung anfordern"):
+                if client:
                     try:
-                        # Build context summary
                         context_text = "Price comparison results:\n"
                         for store, data in store_data.items():
                             context_text += f"- {store}: total {data['total']:.2f} € ({len(data['items'])} items)\n"
@@ -259,14 +302,16 @@ else:
                             temperature=0.4,
                         )
                         ai_text = response.choices[0].message.content.strip()
-                        st.markdown(ai_text)
                     except Exception as e:
-                        st.error(f"Error: {e}")
-            else:
-                st.info(
-                    "Set your `OPENAI_API_KEY` environment variable to enable AI assistant. "
-                    "OPENAI_API_KEY Umgebungsvariable setzen, um den KI-Assistenten zu aktivieren."
-                )
+                        ai_text = f"Error using API: {e}"
+                else:
+                    ai_text = (
+                        "Demo Summary (AI offline mode): Lidl appears to offer the lowest overall total (€17.80), "
+                        "followed by Kaufland (€18.30). Aldi is slightly cheaper on dairy items. "
+                        "\n\nDeutsch: Lidl ist insgesamt am günstigsten (€17.80), gefolgt von Kaufland (€18.30). "
+                        "Aldi ist etwas günstiger bei Milchprodukten."
+                    )
+                st.markdown(ai_text)
 
         if not_found:
             st.subheader(TEXT["not_found_header"])
@@ -295,6 +340,6 @@ else:
 # ---------------------------------------------------------
 st.markdown("---")
 st.caption(
-    "Demo: **ShopWise AI** — built by **Md. Touhidur Rahman** (M.Sc. Data Science, FAU Erlangen-Nürnberg). "
-    "A bilingual Streamlit app combining fuzzy data matching, price aggregation, and LLM summarization for retail analytics."
+    "Demo: ShopWise AI — built by Md. Touhidur Rahman (M.Sc. Data Science, FAU Erlangen-Nürnberg). "
+    "A bilingual Streamlit app combining fuzzy data matching, price aggregation, and AI summarization with demo fallback."
 )
