@@ -6,16 +6,15 @@ import difflib
 import streamlit as st
 from io import StringIO
 import csv
-import os
 
-# optional: only used if a key is provided
+# optional OpenAI: only used if a key is provided
 try:
     from openai import OpenAI
 except ImportError:
     OpenAI = None
 
 # ---------------------------------------------------------
-# BASIC CONFIG
+# CONFIG
 # ---------------------------------------------------------
 DATA_PATH = Path("data/common_products.json")
 
@@ -46,7 +45,6 @@ TEXT = {
     "add_more_label": "Add another item (Weiteren Artikel hinzufügen)",
 }
 
-
 # ---------------------------------------------------------
 # SIDEBAR: optional real AI
 # ---------------------------------------------------------
@@ -61,7 +59,6 @@ client = None
 if OpenAI and user_api_key:
     client = OpenAI(api_key=user_api_key)
 
-
 # ---------------------------------------------------------
 # SESSION STATE
 # ---------------------------------------------------------
@@ -69,7 +66,6 @@ if "matched_items" not in st.session_state:
     st.session_state["matched_items"] = []
 if "not_found_items" not in st.session_state:
     st.session_state["not_found_items"] = []
-
 
 # ---------------------------------------------------------
 # DATA LOADING
@@ -90,7 +86,6 @@ def load_products(path: Path):
 
 PRODUCTS = load_products(DATA_PATH)
 
-
 # ---------------------------------------------------------
 # HELPERS
 # ---------------------------------------------------------
@@ -102,7 +97,7 @@ def normalize_text(s: str) -> str:
     return s
 
 
-def split_user_input(text: str):
+def split_user_input(text: str) -> List[str]:
     if not text:
         return []
     if re.search(r"[,;\n]", text):
@@ -168,35 +163,36 @@ def safe_rerun():
 
 
 def rule_based_summary(store_data: Dict[str, Dict[str, Any]], matched_items):
-    """Free, realistic explanation based on actual numbers."""
-    # determine cheapest
     valid = {s: d["total"] for s, d in store_data.items() if d["items"]}
-    lines = []
     if not valid:
         return (
             "No valid prices to compare. Please check your items.\n"
             "Keine gültigen Preise zum Vergleichen. Bitte prüfen Sie Ihre Artikel."
         )
+
     cheapest = min(valid, key=valid.get)
+
+    lines = []
     lines.append(
         f"Cheapest store (based on matched items): {cheapest.capitalize()} with {valid[cheapest]:.2f} €."
     )
-    # show others
+
     for s, total in valid.items():
         if s != cheapest:
             diff = total - valid[cheapest]
-            lines.append(
-                f"{s.capitalize()} is {diff:.2f} € more expensive for this basket."
-            )
-    # items matched
+            lines.append(f"{s.capitalize()} is {diff:.2f} € more expensive for this basket.")
+
     item_list = ", ".join([m["user_term"] for m in matched_items])
     lines.append(f"Items compared: {item_list}")
-    lines.append(
-        "Deutsch: Günstigster Markt auf Basis dieser Artikel: "
-        f"{cheapest.capitalize()} mit {:.2f} €.".format(valid[cheapest])
-    )
-    return "\n".join(lines)
 
+    # German part without mixing f-string and format
+    german_line = (
+        "Deutsch: Günstigster Markt auf Basis dieser Artikel: "
+        + f"{cheapest.capitalize()} mit {valid[cheapest]:.2f} €."
+    )
+    lines.append(german_line)
+
+    return "\n".join(lines)
 
 # ---------------------------------------------------------
 # UI
@@ -315,18 +311,18 @@ else:
                     ]
                     st.dataframe(rows, hide_index=True, use_container_width=True)
 
-            # -------------------------------------------------
-            # AI-LIKE SECTION (realistic)
-            # -------------------------------------------------
+            # AI-like section
             st.markdown("### AI Summary (realistic) / KI-Zusammenfassung")
 
             if client:
-                # real LLM
                 if st.button("Generate with OpenAI / Mit OpenAI erzeugen"):
                     try:
                         context_text = "Price comparison results:\n"
                         for store, data in store_data.items():
-                            context_text += f"- {store}: total {data['total']:.2f} € ({len(data['items'])} items)\n"
+                            context_text += (
+                                f"- {store}: total {data['total']:.2f} € "
+                                f"({len(data['items'])} items)\n"
+                            )
                         context_text += "\nUser items:\n" + ", ".join(
                             [m["user_term"] for m in matched]
                         )
@@ -350,7 +346,6 @@ else:
                     except Exception as e:
                         st.error(f"Error calling OpenAI: {e}")
             else:
-                # free, honest mode
                 summary_text = rule_based_summary(store_data, matched)
                 st.code(summary_text)
 
