@@ -198,7 +198,7 @@ def rule_based_summary(store_data: Dict[str, Dict[str, Any]], matched_items):
 # UI
 # ---------------------------------------------------------
 st.markdown(
-    f"<h1 style='color:#1E3A8A'>{TEXT['title']}</h1>",
+    f"<h1 style='color:#66b2b2'>{TEXT['title']}</h1>",
     unsafe_allow_html=True,
 )
 st.write(TEXT["subtitle"])
