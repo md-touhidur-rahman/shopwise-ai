@@ -225,7 +225,7 @@ else:
             border:none;
         }
         div.stButton > button:first-child:hover {
-            background-color:#1E40AF;
+            background-color:#66b2b2;
             color:white;
         }
         </style>
