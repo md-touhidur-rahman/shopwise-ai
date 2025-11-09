@@ -6,15 +6,17 @@ import difflib
 import streamlit as st
 from io import StringIO
 import csv
+import os
+from openai import OpenAI
 
 
 # ---------------------------------------------------------
 # CONFIG
 # ---------------------------------------------------------
-DATA_PATH = Path("data/common_products.json")  # put your JSON here
+DATA_PATH = Path("data/common_products.json")
 
 st.set_page_config(
-    page_title="Grocery Price Comparator",
+    page_title="ShopWise AI – Grocery Price Comparator",
     layout="centered",
 )
 
@@ -22,7 +24,7 @@ st.set_page_config(
 # TEXTS (EN + DE)
 # ---------------------------------------------------------
 TEXT = {
-    "title": "Grocery Price Comparison (Lebensmittel-Preisvergleich)",
+    "title": "ShopWise AI – Grocery Price Comparison (Lebensmittel-Preisvergleich)",
     "subtitle": (
         "Type grocery item to compare price before you going to buy it.\n"
         "Geben Sie den gewünschten Lebensmittelartikel ein, um den Preis vor dem Kauf zu vergleichen."
@@ -54,7 +56,7 @@ if "not_found_items" not in st.session_state:
 
 
 # ---------------------------------------------------------
-# LOAD DATA
+# LOAD PRODUCTS
 # ---------------------------------------------------------
 @st.cache_data(show_spinner=False)
 def load_products(path: Path) -> List[Dict[str, Any]]:
@@ -72,9 +74,16 @@ def load_products(path: Path) -> List[Dict[str, Any]]:
 
 PRODUCTS = load_products(DATA_PATH)
 
+# ---------------------------------------------------------
+# OPENAI CLIENT
+# ---------------------------------------------------------
+client = None
+if os.getenv("OPENAI_API_KEY"):
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
 
 # ---------------------------------------------------------
-# HELPER FUNCTIONS
+# HELPERS
 # ---------------------------------------------------------
 def normalize_text(s: str) -> str:
     s = s.lower().strip()
@@ -85,7 +94,6 @@ def normalize_text(s: str) -> str:
 
 
 def split_user_input(text: str) -> List[str]:
-    """Split input smartly — commas/newlines first, else spaces."""
     if not text:
         return []
     if re.search(r"[,;\n]", text):
@@ -100,20 +108,19 @@ def find_best_match(user_term: str, products: List[Dict[str, Any]], threshold: f
     best_score = 0.0
     best_product = None
 
-    # substring
+    # substring first
     for p in products:
         for name in p["__names_for_match"]:
             if user_norm and user_norm in normalize_text(name):
                 return p, 0.99
 
-    # fuzzy
+    # fuzzy match fallback
     for p in products:
         for name in p["__names_for_match"]:
             score = difflib.SequenceMatcher(None, user_norm, normalize_text(name)).ratio()
             if score > best_score:
                 best_score = score
                 best_product = p
-
     if best_score >= threshold:
         return best_product, best_score
     return None, 0.0
@@ -122,16 +129,12 @@ def find_best_match(user_term: str, products: List[Dict[str, Any]], threshold: f
 def aggregate_by_store(matched_items: List[Dict[str, Any]]) -> Dict[str, Dict[str, float]]:
     stores = ["kaufland", "lidl", "aldi"]
     result = {s: {"total": 0.0, "items": {}} for s in stores}
-
     for entry in matched_items:
         product = entry["product"]
         user_term = entry["user_term"]
-        prices = product.get("prices", {})
-        for store in stores:
-            price = float(prices.get(store, 0.0))
-            result[store]["total"] += price
-            result[store]["items"][user_term] = price
-
+        for store, price in product.get("prices", {}).items():
+            result[store]["total"] += float(price)
+            result[store]["items"][user_term] = float(price)
     return result
 
 
@@ -153,7 +156,7 @@ def build_csv(store_data: Dict[str, Dict[str, Any]]) -> str:
 
 
 # ---------------------------------------------------------
-# UI
+# MAIN UI
 # ---------------------------------------------------------
 st.title(TEXT["title"])
 st.write(TEXT["subtitle"])
@@ -161,11 +164,7 @@ st.write(TEXT["subtitle"])
 if not PRODUCTS:
     st.error(TEXT["file_missing"])
 else:
-    user_input = st.text_area(
-        TEXT["input_label"],
-        height=120,
-        placeholder=TEXT["placeholder"],
-    )
+    user_input = st.text_area(TEXT["input_label"], height=120, placeholder=TEXT["placeholder"])
 
     if st.button("Compare / Vergleichen", type="primary"):
         items = split_user_input(user_input)
@@ -189,26 +188,23 @@ else:
         st.subheader(TEXT["results_header"])
 
         if matched:
-            match_rows = []
-            for m in matched:
-                p = m["product"]
-                match_rows.append({
+            match_rows = [
+                {
                     "You typed / Eingegeben": m["user_term"],
-                    "Matched product / Zugeordnet": p.get("canonical_name") or p.get("english_name"),
-                    "Unit / Einheit": p.get("unit", ""),
-                })
+                    "Matched product / Zugeordnet": m["product"].get("canonical_name") or m["product"].get("english_name"),
+                    "Unit / Einheit": m["product"].get("unit", ""),
+                }
+                for m in matched
+            ]
             st.dataframe(match_rows, hide_index=True, use_container_width=True)
 
             store_data = aggregate_by_store(matched)
             st.subheader(TEXT["per_store_header"])
 
-            price_table = []
-            for store, data in store_data.items():
-                price_table.append({
-                    "Store / Markt": store.capitalize(),
-                    "Total (€)": round(data["total"], 2),
-                    "Items counted / Artikel gezählt": len(data["items"]),
-                })
+            price_table = [
+                {"Store / Markt": s.capitalize(), "Total (€)": round(d["total"], 2), "Items counted / Artikel gezählt": len(d["items"])}
+                for s, d in store_data.items()
+            ]
             st.dataframe(price_table, hide_index=True, use_container_width=True)
 
             valid_stores = {s: d["total"] for s, d in store_data.items() if d["items"]}
@@ -229,10 +225,48 @@ else:
             )
 
             with st.expander("Details per store (Details je Markt)"):
-                for store, data in store_data.items():
-                    st.markdown(f"**{store.capitalize()}**")
-                    rows = [{"Item entered / Eingegeben": k, "Price (€) / Preis (€)": v} for k, v in data["items"].items()]
+                for s, d in store_data.items():
+                    st.markdown(f"**{s.capitalize()}**")
+                    rows = [{"Item entered / Eingegeben": k, "Price (€) / Preis (€)": v} for k, v in d["items"].items()]
                     st.dataframe(rows, hide_index=True, use_container_width=True)
+
+            # -------------------------------------------------
+            # AI CHAT EXTENSION
+            # -------------------------------------------------
+            st.markdown("### 💬 AI Assistant Summary (KI-Assistent Zusammenfassung)")
+
+            if client:
+                if st.button("Ask AI to Summarize / KI-Zusammenfassung anfordern"):
+                    try:
+                        # Build context summary
+                        context_text = "Price comparison results:\n"
+                        for store, data in store_data.items():
+                            context_text += f"- {store}: total {data['total']:.2f} € ({len(data['items'])} items)\n"
+                        context_text += "\nUser items:\n" + ", ".join([m["user_term"] for m in matched])
+
+                        prompt = (
+                            "You are an AI assistant helping a shopper compare grocery prices between Lidl, Kaufland, and Aldi in Germany. "
+                            "Summarize which store is cheapest overall, mention key differences, and suggest alternatives for missing items. "
+                            "Respond briefly in English and German."
+                        )
+
+                        response = client.chat.completions.create(
+                            model="gpt-4o-mini",
+                            messages=[
+                                {"role": "system", "content": prompt},
+                                {"role": "user", "content": context_text},
+                            ],
+                            temperature=0.4,
+                        )
+                        ai_text = response.choices[0].message.content.strip()
+                        st.markdown(ai_text)
+                    except Exception as e:
+                        st.error(f"Error: {e}")
+            else:
+                st.info(
+                    "Set your `OPENAI_API_KEY` environment variable to enable AI assistant. "
+                    "OPENAI_API_KEY Umgebungsvariable setzen, um den KI-Assistenten zu aktivieren."
+                )
 
         if not_found:
             st.subheader(TEXT["not_found_header"])
@@ -247,7 +281,6 @@ else:
         st.markdown("---")
         st.write(TEXT["add_more_label"])
         new_item = st.text_input("Item / Artikel", value="", key="add_item_input")
-
         if st.button("Add / Hinzufügen"):
             if new_item.strip():
                 product, score = find_best_match(new_item, PRODUCTS)
@@ -262,6 +295,6 @@ else:
 # ---------------------------------------------------------
 st.markdown("---")
 st.caption(
-    "Demo: ShopWise AI — built by **Md. Touhidur Rahman** (M.Sc. Data Science, FAU Erlangen-Nürnberg). "
-    "Bilingual Streamlit app for supermarket price comparison with fuzzy matching and JSON-backed data."
+    "Demo: **ShopWise AI** — built by **Md. Touhidur Rahman** (M.Sc. Data Science, FAU Erlangen-Nürnberg). "
+    "A bilingual Streamlit app combining fuzzy data matching, price aggregation, and LLM summarization for retail analytics."
 )
